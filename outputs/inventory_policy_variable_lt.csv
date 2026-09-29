@@ -1,0 +1,86 @@
+sku_id,category,abc_class,lead_time_std_fraction_assumed,std_lead_time_days,fixed_lt_safety_stock,variable_lt_safety_stock,safety_stock_increase,fixed_lt_reorder_point,variable_lt_reorder_point,fixed_lt_annual_cost,variable_lt_annual_cost,annual_cost_increase
+Chairs | APAC,Furniture,A,0.35,4.9,29.6,38.5,8.9,64.0,72.9,2538.92,2786.38,247.46
+Chairs | LATAM,Furniture,A,0.35,4.9,32.6,40.6,8.0,66.3,74.4,1892.02,2028.24,136.22
+Furnishings | US,Furniture,B,0.35,4.9,24.3,31.2,6.9,58.3,65.2,836.79,870.28,33.49
+Bookcases | LATAM,Furniture,A,0.35,4.9,24.1,29.0,4.9,46.6,51.5,1974.34,2102.03,127.69
+Bookcases | APAC,Furniture,A,0.35,4.9,24.2,29.1,4.9,46.6,51.5,2676.17,2874.11,197.94
+Chairs | US,Furniture,A,0.35,4.9,24.9,29.7,4.8,47.3,52.1,2108.93,2244.02,135.09
+Furnishings | APAC,Furniture,B,0.35,4.9,19.9,24.1,4.2,43.3,47.5,896.92,928.36,31.44
+Furnishings | LATAM,Furniture,B,0.35,4.9,20.0,23.7,3.7,42.1,45.7,752.76,774.32,21.56
+Chairs | EU,Furniture,A,0.35,4.9,20.8,24.3,3.5,38.2,41.6,1702.0,1789.9,87.9
+Bookcases | EU,Furniture,A,0.35,4.9,19.8,23.2,3.4,36.7,40.2,2165.0,2295.36,130.36
+Phones | US,Technology,A,0.25,2.5,24.8,27.4,2.6,47.2,49.8,2013.63,2075.26,61.63
+Furnishings | EU,Furniture,B,0.35,4.9,16.2,18.7,2.5,32.6,35.1,801.77,823.45,21.68
+Accessories | US,Technology,A,0.25,2.5,24.1,26.3,2.2,44.4,46.6,1219.58,1244.92,25.34
+Tables | US,Furniture,A,0.35,4.9,16.8,18.8,2.0,28.4,30.4,1710.75,1778.94,68.19
+Accessories | APAC,Technology,A,0.25,2.5,21.4,23.3,1.9,39.2,41.1,1476.81,1510.86,34.05
+Phones | APAC,Technology,A,0.25,2.5,21.0,22.9,1.9,39.0,40.9,2586.21,2669.88,83.67
+Accessories | LATAM,Technology,A,0.25,2.5,21.8,23.5,1.7,38.7,40.4,1171.98,1193.57,21.59
+Copiers | APAC,Technology,A,0.25,2.5,19.8,21.5,1.7,36.1,37.8,2662.32,2744.51,82.19
+Phones | LATAM,Technology,A,0.25,2.5,20.2,21.8,1.6,36.3,38.0,1955.21,2005.22,50.01
+Copiers | LATAM,Technology,A,0.25,2.5,19.1,20.6,1.5,34.2,35.7,2050.27,2102.39,52.12
+Phones | EU,Technology,A,0.25,2.5,19.0,20.5,1.5,33.7,35.1,2292.42,2352.74,60.32
+Bookcases | US,Furniture,A,0.35,4.9,13.3,14.5,1.2,21.4,22.6,1204.43,1238.39,33.96
+Copiers | EU,Technology,A,0.25,2.5,16.5,17.6,1.1,28.2,29.3,2286.06,2339.18,53.12
+Accessories | EU,Technology,A,0.25,2.5,17.0,18.1,1.1,28.9,29.9,1294.12,1315.7,21.58
+Machines | EU,Technology,A,0.25,2.5,15.4,16.3,0.9,25.9,26.9,1764.17,1798.27,34.1
+Machines | APAC,Technology,A,0.25,2.5,14.4,15.2,0.8,23.5,24.3,1547.15,1572.17,25.02
+Binders | US,Office Supplies,A,0.15,0.75,27.0,27.7,0.7,47.4,48.1,764.0,767.76,3.76
+Art | EU,Office Supplies,A,0.15,0.75,24.3,25.0,0.7,42.7,43.4,643.23,646.01,2.78
+Storage | EU,Office Supplies,A,0.15,0.75,22.4,23.0,0.6,39.0,39.6,1094.11,1100.78,6.67
+Chairs | EMEA,Furniture,B,0.35,4.9,7.0,7.6,0.6,12.2,12.8,823.11,838.5,15.39
+Bookcases | EMEA,Furniture,B,0.35,4.9,6.5,7.0,0.5,11.0,11.4,956.29,974.66,18.37
+Binders | EU,Office Supplies,B,0.15,0.75,18.8,19.3,0.5,36.1,36.6,477.4,478.77,1.37
+Furnishings | EMEA,Furniture,C,0.35,4.9,5.7,6.2,0.5,11.2,11.7,456.11,460.96,4.85
+Paper | US,Office Supplies,B,0.15,0.75,19.3,19.8,0.5,37.0,37.5,345.56,346.33,0.77
+Furnishings | Africa,Furniture,C,0.35,4.9,5.3,5.7,0.4,9.8,10.2,380.74,383.94,3.2
+Phones | EMEA,Technology,A,0.25,2.5,9.3,9.6,0.3,14.0,14.3,1245.9,1259.07,13.17
+Storage | APAC,Office Supplies,A,0.15,0.75,17.2,17.5,0.3,27.7,28.0,848.91,852.34,3.43
+Binders | APAC,Office Supplies,B,0.15,0.75,14.3,14.6,0.3,26.4,26.7,382.1,382.92,0.82
+Storage | LATAM,Office Supplies,A,0.15,0.75,16.7,17.0,0.3,26.8,27.1,657.4,659.63,2.23
+Binders | LATAM,Office Supplies,B,0.15,0.75,15.9,16.2,0.3,28.6,28.9,320.13,320.71,0.58
+Storage | US,Office Supplies,A,0.15,0.75,16.9,17.2,0.3,27.7,28.0,868.89,872.68,3.79
+Copiers | Africa,Technology,B,0.25,2.5,5.0,5.2,0.2,7.9,8.0,981.27,988.41,7.14
+Phones | Africa,Technology,A,0.25,2.5,7.9,8.1,0.2,11.7,11.9,1134.46,1145.51,11.05
+Paper | APAC,Office Supplies,B,0.15,0.75,11.8,12.0,0.2,20.5,20.7,388.51,389.22,0.71
+Supplies | APAC,Office Supplies,B,0.15,0.75,12.3,12.5,0.2,21.5,21.7,443.21,444.15,0.94
+Accessories | EMEA,Technology,B,0.25,2.5,6.0,6.2,0.2,9.6,9.8,633.41,636.77,3.36
+Paper | EU,Office Supplies,B,0.15,0.75,9.1,9.3,0.2,14.8,14.9,305.84,306.25,0.41
+Fasteners | LATAM,Office Supplies,C,0.15,0.75,9.0,9.2,0.2,17.0,17.2,204.62,204.78,0.16
+Labels | LATAM,Office Supplies,C,0.15,0.75,9.2,9.4,0.2,17.1,17.2,165.8,165.89,0.09
+Supplies | LATAM,Office Supplies,B,0.15,0.75,11.1,11.3,0.2,18.7,18.9,311.0,311.42,0.42
+Machines | EMEA,Technology,B,0.25,2.5,5.9,6.1,0.2,9.5,9.7,804.64,810.14,5.5
+Art | APAC,Office Supplies,B,0.15,0.75,11.2,11.4,0.2,19.4,19.6,399.57,400.35,0.78
+Accessories | Africa,Technology,B,0.25,2.5,5.2,5.3,0.1,8.2,8.4,583.76,586.62,2.86
+Labels | EU,Office Supplies,C,0.15,0.75,7.3,7.4,0.1,13.2,13.3,175.14,175.24,0.1
+Art | US,Office Supplies,C,0.15,0.75,10.7,10.8,0.1,20.8,21.0,227.12,227.31,0.19
+Appliances | US,Office Supplies,B,0.15,0.75,9.4,9.5,0.1,15.2,15.4,533.94,534.93,0.99
+Storage | Africa,Office Supplies,B,0.15,0.75,7.1,7.2,0.1,11.4,11.5,515.98,516.88,0.9
+Appliances | EU,Office Supplies,A,0.15,0.75,9.1,9.2,0.1,13.1,13.1,1024.02,1026.79,2.77
+Appliances | APAC,Office Supplies,A,0.15,0.75,10.0,10.1,0.1,14.4,14.5,1128.94,1132.26,3.32
+Envelopes | APAC,Office Supplies,B,0.15,0.75,11.2,11.3,0.1,19.2,19.4,364.83,365.48,0.65
+Supplies | EU,Office Supplies,B,0.15,0.75,9.9,10.0,0.1,15.9,16.0,352.03,352.52,0.49
+Envelopes | LATAM,Office Supplies,C,0.15,0.75,9.7,9.8,0.1,18.4,18.6,302.4,302.74,0.34
+Art | LATAM,Office Supplies,C,0.15,0.75,9.0,9.1,0.1,16.7,16.9,299.9,300.26,0.36
+Paper | LATAM,Office Supplies,C,0.15,0.75,9.1,9.2,0.1,17.2,17.3,289.4,289.71,0.31
+Envelopes | EU,Office Supplies,C,0.15,0.75,6.8,6.9,0.1,12.2,12.3,288.51,288.74,0.23
+Fasteners | APAC,Office Supplies,C,0.15,0.75,9.3,9.4,0.1,17.6,17.7,259.95,260.19,0.24
+Binders | EMEA,Office Supplies,C,0.15,0.75,6.6,6.7,0.1,11.9,12.0,247.25,247.48,0.23
+Art | EMEA,Office Supplies,C,0.15,0.75,6.4,6.5,0.1,11.7,11.8,310.03,310.32,0.29
+Art | Africa,Office Supplies,C,0.15,0.75,6.7,6.8,0.1,11.8,11.8,303.44,303.71,0.27
+Fasteners | US,Office Supplies,C,0.15,0.75,5.0,5.1,0.1,8.0,8.0,68.84,68.84,0.0
+Labels | US,Office Supplies,C,0.15,0.75,6.7,6.8,0.1,11.4,11.5,130.31,130.39,0.08
+Supplies | EMEA,Office Supplies,C,0.15,0.75,3.2,3.3,0.1,5.0,5.0,178.79,178.88,0.09
+Labels | APAC,Office Supplies,C,0.15,0.75,9.8,9.9,0.1,19.1,19.3,222.34,222.56,0.22
+Storage | EMEA,Office Supplies,B,0.15,0.75,7.9,7.9,0.0,12.7,12.8,547.59,548.59,1.0
+Appliances | LATAM,Office Supplies,A,0.15,0.75,9.6,9.6,0.0,13.6,13.6,813.71,815.66,1.95
+Binders | Africa,Office Supplies,C,0.15,0.75,6.5,6.5,0.0,11.3,11.4,223.75,223.94,0.19
+Fasteners | EU,Office Supplies,C,0.15,0.75,6.9,6.9,0.0,12.3,12.3,200.29,200.42,0.13
+Envelopes | US,Office Supplies,C,0.15,0.75,5.0,5.0,0.0,8.0,8.1,154.54,154.66,0.12
+Supplies | Africa,Office Supplies,C,0.15,0.75,3.3,3.3,0.0,5.0,5.0,173.86,173.82,-0.04
+Paper | EMEA,Office Supplies,C,0.15,0.75,2.8,2.8,0.0,4.2,4.2,151.62,151.7,0.08
+Envelopes | EMEA,Office Supplies,C,0.15,0.75,2.9,2.9,0.0,4.5,4.5,154.07,154.1,0.03
+Fasteners | EMEA,Office Supplies,C,0.15,0.75,3.3,3.3,0.0,5.0,5.0,111.85,111.87,0.02
+Fasteners | Africa,Office Supplies,C,0.15,0.75,3.0,3.0,0.0,4.5,4.6,105.42,105.5,0.08
+Labels | Africa,Office Supplies,C,0.15,0.75,3.3,3.3,0.0,5.1,5.1,97.16,97.19,0.03
+Labels | EMEA,Office Supplies,C,0.15,0.75,3.1,3.1,0.0,4.7,4.7,90.81,90.8,-0.01

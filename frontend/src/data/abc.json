@@ -1,0 +1,852 @@
+[
+  {
+    "sku_id": "Chairs | APAC",
+    "revenue": 512974.17,
+    "cum_pct": 0.0459753943,
+    "revenue_share": 0.0459753943,
+    "abc_class": "A",
+    "category": "Furniture",
+    "sub_category": "Chairs",
+    "market": "APAC"
+  },
+  {
+    "sku_id": "Bookcases | APAC",
+    "revenue": 504823.03,
+    "cum_pct": 0.0912202414,
+    "revenue_share": 0.0452448471,
+    "abc_class": "A",
+    "category": "Furniture",
+    "sub_category": "Bookcases",
+    "market": "APAC"
+  },
+  {
+    "sku_id": "Copiers | APAC",
+    "revenue": 494593.71,
+    "cum_pct": 0.1355482839,
+    "revenue_share": 0.0443280426,
+    "abc_class": "A",
+    "category": "Technology",
+    "sub_category": "Copiers",
+    "market": "APAC"
+  },
+  {
+    "sku_id": "Phones | APAC",
+    "revenue": 486354.49,
+    "cum_pct": 0.1791378851,
+    "revenue_share": 0.0435896011,
+    "abc_class": "A",
+    "category": "Technology",
+    "sub_category": "Phones",
+    "market": "APAC"
+  },
+  {
+    "sku_id": "Copiers | EU",
+    "revenue": 365128.65,
+    "cum_pct": 0.2118626003,
+    "revenue_share": 0.0327247153,
+    "abc_class": "A",
+    "category": "Technology",
+    "sub_category": "Copiers",
+    "market": "EU"
+  },
+  {
+    "sku_id": "Bookcases | EU",
+    "revenue": 363525.7,
+    "cum_pct": 0.244443651,
+    "revenue_share": 0.0325810506,
+    "abc_class": "A",
+    "category": "Furniture",
+    "sub_category": "Bookcases",
+    "market": "EU"
+  },
+  {
+    "sku_id": "Phones | EU",
+    "revenue": 361312.07,
+    "cum_pct": 0.2768263046,
+    "revenue_share": 0.0323826537,
+    "abc_class": "A",
+    "category": "Technology",
+    "sub_category": "Phones",
+    "market": "EU"
+  },
+  {
+    "sku_id": "Storage | EU",
+    "revenue": 339684.38,
+    "cum_pct": 0.307270573,
+    "revenue_share": 0.0304442684,
+    "abc_class": "A",
+    "category": "Office Supplies",
+    "sub_category": "Storage",
+    "market": "EU"
+  },
+  {
+    "sku_id": "Phones | US",
+    "revenue": 330007.04,
+    "cum_pct": 0.3368475082,
+    "revenue_share": 0.0295769352,
+    "abc_class": "A",
+    "category": "Technology",
+    "sub_category": "Phones",
+    "market": "US"
+  },
+  {
+    "sku_id": "Chairs | US",
+    "revenue": 328449.04,
+    "cum_pct": 0.3662848075,
+    "revenue_share": 0.0294372992,
+    "abc_class": "A",
+    "category": "Furniture",
+    "sub_category": "Chairs",
+    "market": "US"
+  },
+  {
+    "sku_id": "Copiers | LATAM",
+    "revenue": 316322.3,
+    "cum_pct": 0.3946352456,
+    "revenue_share": 0.0283504381,
+    "abc_class": "A",
+    "category": "Technology",
+    "sub_category": "Copiers",
+    "market": "LATAM"
+  },
+  {
+    "sku_id": "Appliances | APAC",
+    "revenue": 307620.73,
+    "cum_pct": 0.4222058041,
+    "revenue_share": 0.0275705585,
+    "abc_class": "A",
+    "category": "Office Supplies",
+    "sub_category": "Appliances",
+    "market": "APAC"
+  },
+  {
+    "sku_id": "Bookcases | LATAM",
+    "revenue": 302415.15,
+    "cum_pct": 0.4493098116,
+    "revenue_share": 0.0271040075,
+    "abc_class": "A",
+    "category": "Furniture",
+    "sub_category": "Bookcases",
+    "market": "LATAM"
+  },
+  {
+    "sku_id": "Chairs | LATAM",
+    "revenue": 302219.22,
+    "cum_pct": 0.4763962589,
+    "revenue_share": 0.0270864473,
+    "abc_class": "A",
+    "category": "Furniture",
+    "sub_category": "Chairs",
+    "market": "LATAM"
+  },
+  {
+    "sku_id": "Phones | LATAM",
+    "revenue": 289711.5,
+    "cum_pct": 0.5023616997,
+    "revenue_share": 0.0259654408,
+    "abc_class": "A",
+    "category": "Technology",
+    "sub_category": "Phones",
+    "market": "LATAM"
+  },
+  {
+    "sku_id": "Appliances | EU",
+    "revenue": 275439.21,
+    "cum_pct": 0.5270479842,
+    "revenue_share": 0.0246862845,
+    "abc_class": "A",
+    "category": "Office Supplies",
+    "sub_category": "Appliances",
+    "market": "EU"
+  },
+  {
+    "sku_id": "Chairs | EU",
+    "revenue": 228980.94,
+    "cum_pct": 0.5475704386,
+    "revenue_share": 0.0205224544,
+    "abc_class": "A",
+    "category": "Furniture",
+    "sub_category": "Chairs",
+    "market": "EU"
+  },
+  {
+    "sku_id": "Storage | US",
+    "revenue": 223843.62,
+    "cum_pct": 0.5676324598,
+    "revenue_share": 0.0200620212,
+    "abc_class": "A",
+    "category": "Office Supplies",
+    "sub_category": "Storage",
+    "market": "US"
+  },
+  {
+    "sku_id": "Machines | EU",
+    "revenue": 223164.94,
+    "cum_pct": 0.5876336543,
+    "revenue_share": 0.0200011944,
+    "abc_class": "A",
+    "category": "Technology",
+    "sub_category": "Machines",
+    "market": "EU"
+  },
+  {
+    "sku_id": "Storage | APAC",
+    "revenue": 216075.85,
+    "cum_pct": 0.6069994878,
+    "revenue_share": 0.0193658336,
+    "abc_class": "A",
+    "category": "Office Supplies",
+    "sub_category": "Storage",
+    "market": "APAC"
+  },
+  {
+    "sku_id": "Tables | US",
+    "revenue": 206965.48,
+    "cum_pct": 0.625548803,
+    "revenue_share": 0.0185493152,
+    "abc_class": "A",
+    "category": "Furniture",
+    "sub_category": "Tables",
+    "market": "US"
+  },
+  {
+    "sku_id": "Binders | US",
+    "revenue": 203412.77,
+    "cum_pct": 0.643779706,
+    "revenue_share": 0.018230903,
+    "abc_class": "A",
+    "category": "Office Supplies",
+    "sub_category": "Binders",
+    "market": "US"
+  },
+  {
+    "sku_id": "Machines | APAC",
+    "revenue": 190306.83,
+    "cum_pct": 0.6608359869,
+    "revenue_share": 0.0170562809,
+    "abc_class": "A",
+    "category": "Technology",
+    "sub_category": "Machines",
+    "market": "APAC"
+  },
+  {
+    "sku_id": "Accessories | APAC",
+    "revenue": 186235.19,
+    "cum_pct": 0.6775273464,
+    "revenue_share": 0.0166913595,
+    "abc_class": "A",
+    "category": "Technology",
+    "sub_category": "Accessories",
+    "market": "APAC"
+  },
+  {
+    "sku_id": "Appliances | LATAM",
+    "revenue": 182075.22,
+    "cum_pct": 0.6938458679,
+    "revenue_share": 0.0163185215,
+    "abc_class": "A",
+    "category": "Office Supplies",
+    "sub_category": "Appliances",
+    "market": "LATAM"
+  },
+  {
+    "sku_id": "Accessories | US",
+    "revenue": 167380.37,
+    "cum_pct": 0.7088473611,
+    "revenue_share": 0.0150014932,
+    "abc_class": "A",
+    "category": "Technology",
+    "sub_category": "Accessories",
+    "market": "US"
+  },
+  {
+    "sku_id": "Accessories | EU",
+    "revenue": 163073.43,
+    "cum_pct": 0.7234628441,
+    "revenue_share": 0.014615483,
+    "abc_class": "A",
+    "category": "Technology",
+    "sub_category": "Accessories",
+    "market": "EU"
+  },
+  {
+    "sku_id": "Art | EU",
+    "revenue": 160088.17,
+    "cum_pct": 0.7378107726,
+    "revenue_share": 0.0143479286,
+    "abc_class": "A",
+    "category": "Office Supplies",
+    "sub_category": "Art",
+    "market": "EU"
+  },
+  {
+    "sku_id": "Storage | LATAM",
+    "revenue": 142036.2,
+    "cum_pct": 0.7505407904,
+    "revenue_share": 0.0127300178,
+    "abc_class": "A",
+    "category": "Office Supplies",
+    "sub_category": "Storage",
+    "market": "LATAM"
+  },
+  {
+    "sku_id": "Accessories | LATAM",
+    "revenue": 141738.64,
+    "cum_pct": 0.7632441393,
+    "revenue_share": 0.0127033489,
+    "abc_class": "A",
+    "category": "Technology",
+    "sub_category": "Accessories",
+    "market": "LATAM"
+  },
+  {
+    "sku_id": "Bookcases | US",
+    "revenue": 114879.98,
+    "cum_pct": 0.7735402764,
+    "revenue_share": 0.0102961371,
+    "abc_class": "A",
+    "category": "Furniture",
+    "sub_category": "Bookcases",
+    "market": "US"
+  },
+  {
+    "sku_id": "Phones | Africa",
+    "revenue": 114832.8,
+    "cum_pct": 0.783832185,
+    "revenue_share": 0.0102919086,
+    "abc_class": "A",
+    "category": "Technology",
+    "sub_category": "Phones",
+    "market": "Africa"
+  },
+  {
+    "sku_id": "Phones | EMEA",
+    "revenue": 114520.61,
+    "cum_pct": 0.7940961135,
+    "revenue_share": 0.0102639285,
+    "abc_class": "A",
+    "category": "Technology",
+    "sub_category": "Phones",
+    "market": "EMEA"
+  },
+  {
+    "sku_id": "Appliances | US",
+    "revenue": 107532.14,
+    "cum_pct": 0.8037336992,
+    "revenue_share": 0.0096375857,
+    "abc_class": "B",
+    "category": "Office Supplies",
+    "sub_category": "Appliances",
+    "market": "US"
+  },
+  {
+    "sku_id": "Furnishings | APAC",
+    "revenue": 101038.01,
+    "cum_pct": 0.8127892475,
+    "revenue_share": 0.0090555483,
+    "abc_class": "B",
+    "category": "Furniture",
+    "sub_category": "Furnishings",
+    "market": "APAC"
+  },
+  {
+    "sku_id": "Binders | EU",
+    "revenue": 99762.69,
+    "cum_pct": 0.821730495,
+    "revenue_share": 0.0089412475,
+    "abc_class": "B",
+    "category": "Office Supplies",
+    "sub_category": "Binders",
+    "market": "EU"
+  },
+  {
+    "sku_id": "Storage | EMEA",
+    "revenue": 98184.64,
+    "cum_pct": 0.8305303095,
+    "revenue_share": 0.0087998145,
+    "abc_class": "B",
+    "category": "Office Supplies",
+    "sub_category": "Storage",
+    "market": "EMEA"
+  },
+  {
+    "sku_id": "Storage | Africa",
+    "revenue": 96674.14,
+    "cum_pct": 0.8391947451,
+    "revenue_share": 0.0086644357,
+    "abc_class": "B",
+    "category": "Office Supplies",
+    "sub_category": "Storage",
+    "market": "Africa"
+  },
+  {
+    "sku_id": "Copiers | Africa",
+    "revenue": 96257.68,
+    "cum_pct": 0.8478218555,
+    "revenue_share": 0.0086271104,
+    "abc_class": "B",
+    "category": "Technology",
+    "sub_category": "Copiers",
+    "market": "Africa"
+  },
+  {
+    "sku_id": "Bookcases | EMEA",
+    "revenue": 91736.91,
+    "cum_pct": 0.8560437912,
+    "revenue_share": 0.0082219356,
+    "abc_class": "B",
+    "category": "Furniture",
+    "sub_category": "Bookcases",
+    "market": "EMEA"
+  },
+  {
+    "sku_id": "Furnishings | US",
+    "revenue": 91705.13,
+    "cum_pct": 0.8642628785,
+    "revenue_share": 0.0082190874,
+    "abc_class": "B",
+    "category": "Furniture",
+    "sub_category": "Furnishings",
+    "market": "US"
+  },
+  {
+    "sku_id": "Furnishings | EU",
+    "revenue": 81214.98,
+    "cum_pct": 0.8715417845,
+    "revenue_share": 0.0072789059,
+    "abc_class": "B",
+    "category": "Furniture",
+    "sub_category": "Furnishings",
+    "market": "EU"
+  },
+  {
+    "sku_id": "Paper | US",
+    "revenue": 78479.29,
+    "cum_pct": 0.8785755037,
+    "revenue_share": 0.0070337193,
+    "abc_class": "B",
+    "category": "Office Supplies",
+    "sub_category": "Paper",
+    "market": "US"
+  },
+  {
+    "sku_id": "Supplies | APAC",
+    "revenue": 71654.99,
+    "cum_pct": 0.884997594,
+    "revenue_share": 0.0064220903,
+    "abc_class": "B",
+    "category": "Office Supplies",
+    "sub_category": "Supplies",
+    "market": "APAC"
+  },
+  {
+    "sku_id": "Chairs | EMEA",
+    "revenue": 69816.53,
+    "cum_pct": 0.891254912,
+    "revenue_share": 0.006257318,
+    "abc_class": "B",
+    "category": "Furniture",
+    "sub_category": "Chairs",
+    "market": "EMEA"
+  },
+  {
+    "sku_id": "Binders | APAC",
+    "revenue": 63527.03,
+    "cum_pct": 0.8969485325,
+    "revenue_share": 0.0056936205,
+    "abc_class": "B",
+    "category": "Office Supplies",
+    "sub_category": "Binders",
+    "market": "APAC"
+  },
+  {
+    "sku_id": "Art | APAC",
+    "revenue": 63008.2,
+    "cum_pct": 0.9025956528,
+    "revenue_share": 0.0056471203,
+    "abc_class": "B",
+    "category": "Office Supplies",
+    "sub_category": "Art",
+    "market": "APAC"
+  },
+  {
+    "sku_id": "Furnishings | LATAM",
+    "revenue": 62455.95,
+    "cum_pct": 0.9081932775,
+    "revenue_share": 0.0055976248,
+    "abc_class": "B",
+    "category": "Furniture",
+    "sub_category": "Furnishings",
+    "market": "LATAM"
+  },
+  {
+    "sku_id": "Machines | EMEA",
+    "revenue": 62029.4,
+    "cum_pct": 0.9137526727,
+    "revenue_share": 0.0055593952,
+    "abc_class": "B",
+    "category": "Technology",
+    "sub_category": "Machines",
+    "market": "EMEA"
+  },
+  {
+    "sku_id": "Paper | APAC",
+    "revenue": 59900.61,
+    "cum_pct": 0.9191212747,
+    "revenue_share": 0.005368602,
+    "abc_class": "B",
+    "category": "Office Supplies",
+    "sub_category": "Paper",
+    "market": "APAC"
+  },
+  {
+    "sku_id": "Supplies | EU",
+    "revenue": 52782.76,
+    "cum_pct": 0.9238519383,
+    "revenue_share": 0.0047306635,
+    "abc_class": "B",
+    "category": "Office Supplies",
+    "sub_category": "Supplies",
+    "market": "EU"
+  },
+  {
+    "sku_id": "Envelopes | APAC",
+    "revenue": 52112.23,
+    "cum_pct": 0.9285225055,
+    "revenue_share": 0.0046705672,
+    "abc_class": "B",
+    "category": "Office Supplies",
+    "sub_category": "Envelopes",
+    "market": "APAC"
+  },
+  {
+    "sku_id": "Accessories | EMEA",
+    "revenue": 44164.15,
+    "cum_pct": 0.9324807247,
+    "revenue_share": 0.0039582192,
+    "abc_class": "B",
+    "category": "Technology",
+    "sub_category": "Accessories",
+    "market": "EMEA"
+  },
+  {
+    "sku_id": "Supplies | LATAM",
+    "revenue": 43238.55,
+    "cum_pct": 0.9363559868,
+    "revenue_share": 0.0038752622,
+    "abc_class": "B",
+    "category": "Office Supplies",
+    "sub_category": "Supplies",
+    "market": "LATAM"
+  },
+  {
+    "sku_id": "Binders | LATAM",
+    "revenue": 43139.54,
+    "cum_pct": 0.9402223752,
+    "revenue_share": 0.0038663884,
+    "abc_class": "B",
+    "category": "Office Supplies",
+    "sub_category": "Binders",
+    "market": "LATAM"
+  },
+  {
+    "sku_id": "Paper | EU",
+    "revenue": 42450.84,
+    "cum_pct": 0.9440270387,
+    "revenue_share": 0.0038046635,
+    "abc_class": "B",
+    "category": "Office Supplies",
+    "sub_category": "Paper",
+    "market": "EU"
+  },
+  {
+    "sku_id": "Accessories | Africa",
+    "revenue": 42172.08,
+    "cum_pct": 0.9478067183,
+    "revenue_share": 0.0037796796,
+    "abc_class": "B",
+    "category": "Technology",
+    "sub_category": "Accessories",
+    "market": "Africa"
+  },
+  {
+    "sku_id": "Envelopes | LATAM",
+    "revenue": 41356.84,
+    "cum_pct": 0.9515133319,
+    "revenue_share": 0.0037066136,
+    "abc_class": "C",
+    "category": "Office Supplies",
+    "sub_category": "Envelopes",
+    "market": "LATAM"
+  },
+  {
+    "sku_id": "Art | LATAM",
+    "revenue": 41184.64,
+    "cum_pct": 0.955204512,
+    "revenue_share": 0.0036911801,
+    "abc_class": "C",
+    "category": "Office Supplies",
+    "sub_category": "Art",
+    "market": "LATAM"
+  },
+  {
+    "sku_id": "Envelopes | EU",
+    "revenue": 40124.08,
+    "cum_pct": 0.9588006393,
+    "revenue_share": 0.0035961273,
+    "abc_class": "C",
+    "category": "Office Supplies",
+    "sub_category": "Envelopes",
+    "market": "EU"
+  },
+  {
+    "sku_id": "Art | Africa",
+    "revenue": 38435.84,
+    "cum_pct": 0.9622454578,
+    "revenue_share": 0.0034448185,
+    "abc_class": "C",
+    "category": "Office Supplies",
+    "sub_category": "Art",
+    "market": "Africa"
+  },
+  {
+    "sku_id": "Paper | LATAM",
+    "revenue": 38190.33,
+    "cum_pct": 0.9656682724,
+    "revenue_share": 0.0034228146,
+    "abc_class": "C",
+    "category": "Office Supplies",
+    "sub_category": "Paper",
+    "market": "LATAM"
+  },
+  {
+    "sku_id": "Art | EMEA",
+    "revenue": 38137.05,
+    "cum_pct": 0.9690863117,
+    "revenue_share": 0.0034180394,
+    "abc_class": "C",
+    "category": "Office Supplies",
+    "sub_category": "Art",
+    "market": "EMEA"
+  },
+  {
+    "sku_id": "Fasteners | APAC",
+    "revenue": 28097.13,
+    "cum_pct": 0.9716045216,
+    "revenue_share": 0.0025182099,
+    "abc_class": "C",
+    "category": "Office Supplies",
+    "sub_category": "Fasteners",
+    "market": "APAC"
+  },
+  {
+    "sku_id": "Furnishings | EMEA",
+    "revenue": 27733.38,
+    "cum_pct": 0.9740901304,
+    "revenue_share": 0.0024856087,
+    "abc_class": "C",
+    "category": "Furniture",
+    "sub_category": "Furnishings",
+    "market": "EMEA"
+  },
+  {
+    "sku_id": "Art | US",
+    "revenue": 27118.78,
+    "cum_pct": 0.9765206555,
+    "revenue_share": 0.0024305251,
+    "abc_class": "C",
+    "category": "Office Supplies",
+    "sub_category": "Art",
+    "market": "US"
+  },
+  {
+    "sku_id": "Binders | EMEA",
+    "revenue": 26667.27,
+    "cum_pct": 0.9789107139,
+    "revenue_share": 0.0023900585,
+    "abc_class": "C",
+    "category": "Office Supplies",
+    "sub_category": "Binders",
+    "market": "EMEA"
+  },
+  {
+    "sku_id": "Labels | APAC",
+    "revenue": 22323.08,
+    "cum_pct": 0.9809114237,
+    "revenue_share": 0.0020007097,
+    "abc_class": "C",
+    "category": "Office Supplies",
+    "sub_category": "Labels",
+    "market": "APAC"
+  },
+  {
+    "sku_id": "Binders | Africa",
+    "revenue": 22312.97,
+    "cum_pct": 0.9829112273,
+    "revenue_share": 0.0019998036,
+    "abc_class": "C",
+    "category": "Office Supplies",
+    "sub_category": "Binders",
+    "market": "Africa"
+  },
+  {
+    "sku_id": "Furnishings | Africa",
+    "revenue": 20622.26,
+    "cum_pct": 0.9847595007,
+    "revenue_share": 0.0018482734,
+    "abc_class": "C",
+    "category": "Furniture",
+    "sub_category": "Furnishings",
+    "market": "Africa"
+  },
+  {
+    "sku_id": "Fasteners | EU",
+    "revenue": 20330.36,
+    "cum_pct": 0.9865816126,
+    "revenue_share": 0.0018221119,
+    "abc_class": "C",
+    "category": "Office Supplies",
+    "sub_category": "Fasteners",
+    "market": "EU"
+  },
+  {
+    "sku_id": "Fasteners | LATAM",
+    "revenue": 19144.65,
+    "cum_pct": 0.988297455,
+    "revenue_share": 0.0017158424,
+    "abc_class": "C",
+    "category": "Office Supplies",
+    "sub_category": "Fasteners",
+    "market": "LATAM"
+  },
+  {
+    "sku_id": "Envelopes | US",
+    "revenue": 16476.39,
+    "cum_pct": 0.9897741541,
+    "revenue_share": 0.0014766992,
+    "abc_class": "C",
+    "category": "Office Supplies",
+    "sub_category": "Envelopes",
+    "market": "US"
+  },
+  {
+    "sku_id": "Labels | EU",
+    "revenue": 15644.65,
+    "cum_pct": 0.9911763085,
+    "revenue_share": 0.0014021543,
+    "abc_class": "C",
+    "category": "Office Supplies",
+    "sub_category": "Labels",
+    "market": "EU"
+  },
+  {
+    "sku_id": "Supplies | EMEA",
+    "revenue": 14151.24,
+    "cum_pct": 0.9924446157,
+    "revenue_share": 0.0012683072,
+    "abc_class": "C",
+    "category": "Office Supplies",
+    "sub_category": "Supplies",
+    "market": "EMEA"
+  },
+  {
+    "sku_id": "Labels | LATAM",
+    "revenue": 13554.73,
+    "cum_pct": 0.9936594606,
+    "revenue_share": 0.0012148449,
+    "abc_class": "C",
+    "category": "Office Supplies",
+    "sub_category": "Labels",
+    "market": "LATAM"
+  },
+  {
+    "sku_id": "Supplies | Africa",
+    "revenue": 13263.43,
+    "cum_pct": 0.9948481977,
+    "revenue_share": 0.0011887371,
+    "abc_class": "C",
+    "category": "Office Supplies",
+    "sub_category": "Supplies",
+    "market": "Africa"
+  },
+  {
+    "sku_id": "Labels | US",
+    "revenue": 12486.3,
+    "cum_pct": 0.9959672844,
+    "revenue_share": 0.0011190867,
+    "abc_class": "C",
+    "category": "Office Supplies",
+    "sub_category": "Labels",
+    "market": "US"
+  },
+  {
+    "sku_id": "Envelopes | EMEA",
+    "revenue": 10579.55,
+    "cum_pct": 0.9969154783,
+    "revenue_share": 0.0009481939,
+    "abc_class": "C",
+    "category": "Office Supplies",
+    "sub_category": "Envelopes",
+    "market": "EMEA"
+  },
+  {
+    "sku_id": "Paper | EMEA",
+    "revenue": 10251.63,
+    "cum_pct": 0.9978342823,
+    "revenue_share": 0.000918804,
+    "abc_class": "C",
+    "category": "Office Supplies",
+    "sub_category": "Paper",
+    "market": "EMEA"
+  },
+  {
+    "sku_id": "Fasteners | EMEA",
+    "revenue": 6351.15,
+    "cum_pct": 0.9984035052,
+    "revenue_share": 0.0005692229,
+    "abc_class": "C",
+    "category": "Office Supplies",
+    "sub_category": "Fasteners",
+    "market": "EMEA"
+  },
+  {
+    "sku_id": "Fasteners | Africa",
+    "revenue": 5815.19,
+    "cum_pct": 0.9989246925,
+    "revenue_share": 0.0005211874,
+    "abc_class": "C",
+    "category": "Office Supplies",
+    "sub_category": "Fasteners",
+    "market": "Africa"
+  },
+  {
+    "sku_id": "Labels | Africa",
+    "revenue": 4880.18,
+    "cum_pct": 0.9993620794,
+    "revenue_share": 0.0004373869,
+    "abc_class": "C",
+    "category": "Office Supplies",
+    "sub_category": "Labels",
+    "market": "Africa"
+  },
+  {
+    "sku_id": "Labels | EMEA",
+    "revenue": 4093.4,
+    "cum_pct": 0.9997289511,
+    "revenue_share": 0.0003668716,
+    "abc_class": "C",
+    "category": "Office Supplies",
+    "sub_category": "Labels",
+    "market": "EMEA"
+  },
+  {
+    "sku_id": "Fasteners | US",
+    "revenue": 3024.25,
+    "cum_pct": 1.0,
+    "revenue_share": 0.0002710489,
+    "abc_class": "C",
+    "category": "Office Supplies",
+    "sub_category": "Fasteners",
+    "market": "US"
+  }
+]

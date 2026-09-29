@@ -1,0 +1,16 @@
+{
+  "n_skus": 85.0,
+  "n_days_simulated": 1461.0,
+  "total_stockout_days_naive": 7584.0,
+  "total_stockout_days_optimized": 564.0,
+  "stockout_days_avoided": 7020.0,
+  "pct_stockout_reduction": 92.6,
+  "avg_service_level_naive": 0.939,
+  "avg_service_level_optimized": 0.995,
+  "total_holding_cost_naive": 14256.64,
+  "total_holding_cost_optimized": 47012.03,
+  "total_holding_cost_delta": -32755.39,
+  "pct_holding_cost_change": -229.8,
+  "est_lost_sales_avoided_value": 43228.91,
+  "net_dollar_impact": 10473.56
+}

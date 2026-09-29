@@ -1,0 +1,55 @@
+name: CI
+
+# Runs the test suite and a full pipeline smoke test on every push and pull
+# request. Purely additive to the project: nothing here changes how the
+# code runs locally or affects any existing file.
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+  workflow_dispatch: {}
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.10", "3.11", "3.12"]
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run unit tests
+        run: python -m pytest tests/ -v
+
+      - name: Full pipeline smoke test (real dataset)
+        run: python run_all.py --skip-tests
+
+      - name: Verify key outputs were produced
+        run: |
+          test -f outputs/inventory_policy.csv
+          test -f outputs/reorder_alerts.csv
+          test -f outputs/simulation_summary.csv
+          test -f outputs/executive_summary.md
+          echo "All expected outputs present."
+
+      - name: Verify frontend data export
+        run: |
+          python run_all.py --skip-tests --with-frontend-data
+          test -f frontend/src/data/summary.json
+          test -f frontend/src/data/policy.json
+          echo "Frontend data bundle verified."
+
+      - name: Synthetic-data path smoke test
+        run: python run_all.py --skip-tests --synthetic

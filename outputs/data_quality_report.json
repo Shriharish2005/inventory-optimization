@@ -1,0 +1,10 @@
+{
+  "rows_in": 124185,
+  "rows_dropped_bad_date": 0,
+  "duplicate_rows_removed": 0,
+  "negative_values_corrected": 0,
+  "demand_outliers_capped": 669,
+  "outlier_sigma_threshold": 5.0,
+  "rows_out": 124185,
+  "zero_demand_day_share": 0.729
+}

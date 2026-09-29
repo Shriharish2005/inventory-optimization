@@ -1,0 +1,48 @@
+sku_id,category,market,abc_class,status,stock_on_hand,reorder_point,days_of_cover,units_below_reorder_point,suggested_order_qty,eoq,lead_time_days
+Indoor/Outdoor Games | Europe,Indoor/Outdoor Games,Europe,A,RED,0,129.5,0.0,129.5,209.0,209.0,3
+Cleats | Europe,Cleats,Europe,A,RED,64,167.4,3.3,103.4,179.0,179.0,3
+Men's Footwear | Europe,Men's Footwear,Europe,A,RED,0,50.4,0.0,50.4,67.0,67.0,3
+Shop By Sport | Europe,Shop By Sport,Europe,C,RED,9,57.3,1.1,48.3,181.0,181.0,3
+Indoor/Outdoor Games | LATAM,Indoor/Outdoor Games,LATAM,A,RED,99,145.0,5.9,46.0,220.0,220.0,3
+Water Sports | Europe,Water Sports,Europe,A,RED,0,36.2,0.0,36.2,54.0,54.0,3
+Camping & Hiking | Europe,Camping & Hiking,Europe,A,RED,0,31.8,0.0,31.8,42.0,42.0,3
+Fishing | Europe,Fishing,Europe,A,RED,13,40.0,2.8,27.0,41.0,41.0,3
+Shop By Sport | USCA,Shop By Sport,USCA,C,RED,18,40.0,3.8,22.0,135.0,135.0,3
+Fishing | USCA,Fishing,USCA,A,RED,9,28.3,3.7,19.3,30.0,30.0,3
+Fishing | LATAM,Fishing,LATAM,A,RED,24,42.1,5.0,18.1,42.0,42.0,3
+Men's Footwear | USCA,Men's Footwear,USCA,B,RED,18,31.5,5.6,13.5,49.0,49.0,3
+Cardio Equipment | Europe,Cardio Equipment,Europe,A,RED,76,88.7,7.6,12.7,110.0,110.0,3
+Camping & Hiking | LATAM,Camping & Hiking,LATAM,A,RED,24,34.6,6.0,10.6,44.0,44.0,3
+Electronics | Pacific Asia,Electronics,Pacific Asia,C,RED,10,18.4,4.3,8.4,85.0,85.0,3
+Fishing | Pacific Asia,Fishing,Pacific Asia,A,RED,26,33.8,7.4,7.8,36.0,36.0,3
+Electronics | Europe,Electronics,Europe,C,RED,8,15.5,4.3,7.5,77.0,77.0,3
+Cardio Equipment | USCA,Cardio Equipment,USCA,B,RED,48,51.2,9.4,3.2,79.0,79.0,3
+Accessories | Pacific Asia,Accessories,Pacific Asia,C,RED,9,10.5,7.1,1.5,91.0,91.0,3
+Golf Gloves | LATAM,Golf Gloves,LATAM,C,RED,7,7.7,7.9,0.7,62.0,62.0,3
+Women's Apparel | Europe,Women's Apparel,Europe,A,YELLOW,157,146.0,9.3,0.0,0.0,230.0,3
+Cleats | USCA,Cleats,USCA,A,YELLOW,132,122.5,12.3,0.0,0.0,133.0,3
+Water Sports | LATAM,Water Sports,LATAM,A,YELLOW,43,38.9,9.6,0.0,0.0,57.0,3
+Camping & Hiking | Pacific Asia,Camping & Hiking,Pacific Asia,A,YELLOW,33,25.8,12.4,0.0,0.0,36.0,3
+Water Sports | USCA,Water Sports,USCA,B,YELLOW,25,21.8,11.3,0.0,0.0,40.0,3
+Shop By Sport | LATAM,Shop By Sport,LATAM,C,YELLOW,85,63.7,8.9,0.0,0.0,191.0,3
+Trade-In | LATAM,Trade-In,LATAM,C,YELLOW,8,7.1,10.0,0.0,0.0,72.0,3
+Golf Balls | LATAM,Golf Balls,LATAM,C,YELLOW,12,10.4,9.7,0.0,0.0,112.0,3
+Cleats | LATAM,Cleats,LATAM,A,GREEN,318,180.2,15.3,0.0,0.0,186.0,3
+Cardio Equipment | LATAM,Cardio Equipment,LATAM,A,GREEN,141,95.4,13.1,0.0,0.0,116.0,3
+Women's Apparel | LATAM,Women's Apparel,LATAM,A,GREEN,251,155.6,14.0,0.0,0.0,236.0,3
+Cleats | Pacific Asia,Cleats,Pacific Asia,A,GREEN,243,139.1,16.6,0.0,0.0,156.0,3
+Cardio Equipment | Pacific Asia,Cardio Equipment,Pacific Asia,A,GREEN,102,71.8,13.9,0.0,0.0,94.0,3
+Men's Footwear | LATAM,Men's Footwear,LATAM,A,GREEN,87,53.8,14.0,0.0,0.0,69.0,3
+Women's Apparel | Pacific Asia,Women's Apparel,Pacific Asia,A,GREEN,170,116.5,14.0,0.0,0.0,193.0,3
+Women's Apparel | USCA,Women's Apparel,USCA,B,GREEN,132,89.9,14.5,0.0,0.0,170.0,3
+Men's Footwear | Pacific Asia,Men's Footwear,Pacific Asia,B,GREEN,64,36.4,14.4,0.0,0.0,58.0,3
+Camping & Hiking | USCA,Camping & Hiking,USCA,B,GREEN,33,19.3,16.9,0.0,0.0,31.0,3
+Water Sports | Pacific Asia,Water Sports,Pacific Asia,B,GREEN,47,24.9,15.7,0.0,0.0,46.0,3
+Indoor/Outdoor Games | Pacific Asia,Indoor/Outdoor Games,Pacific Asia,B,GREEN,162,95.8,14.0,0.0,0.0,183.0,3
+Indoor/Outdoor Games | USCA,Indoor/Outdoor Games,USCA,B,GREEN,134,79.2,16.7,0.0,0.0,153.0,3
+Shop By Sport | Pacific Asia,Shop By Sport,Pacific Asia,C,GREEN,80,46.1,12.6,0.0,0.0,156.0,3
+Electronics | LATAM,Electronics,LATAM,C,GREEN,36,19.5,14.1,0.0,0.0,105.0,3
+Girls' Apparel | LATAM,Girls' Apparel,LATAM,C,GREEN,14,8.5,14.3,0.0,0.0,62.0,3
+Golf Gloves | Europe,Golf Gloves,Europe,C,GREEN,9,5.5,14.3,0.0,0.0,41.0,3
+Accessories | LATAM,Accessories,LATAM,C,GREEN,20,11.7,14.0,0.0,0.0,99.0,3
+Golf Balls | Pacific Asia,Golf Balls,Pacific Asia,C,GREEN,14,8.6,13.8,0.0,0.0,98.0,3

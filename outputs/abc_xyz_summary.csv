@@ -1,0 +1,7 @@
+segment,n_skus,revenue,recommended_approach
+AY,26,7661171.3,"High value, moderately variable -- forecast closely, review monthly"
+BY,17,1227646.74,"Mid value, variable -- standard reorder policy"
+AZ,7,1199020.1300000001,"High value, erratic -- highest risk; hold generous safety stock and review weekly"
+BZ,7,487391.73,"Mid value, erratic -- buffer with safety stock, avoid over-forecasting"
+CY,16,445108.7,"Low value, variable -- simple rule, accept occasional stockouts"
+CZ,12,137242.05,"Low value, erratic -- consider make-to-order or delisting"

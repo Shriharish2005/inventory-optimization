@@ -1,0 +1,4 @@
+segment,n_skus,revenue,recommended_approach
+AZ,23,23272776.38,"High value, erratic -- highest risk; hold generous safety stock and review weekly"
+BZ,9,4583617.39,"Mid value, erratic -- buffer with safety stock, avoid over-forecasting"
+CZ,15,1691397.96,"Low value, erratic -- consider make-to-order or delisting"

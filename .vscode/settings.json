@@ -1,0 +1,11 @@
+{
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}/src",
+    "${workspaceFolder}"
+  ],
+  "python.autoComplete.extraPaths": [
+    "${workspaceFolder}/src",
+    "${workspaceFolder}"
+  ],
+  "python.defaultInterpreterPath": "C:\\Python314\\python.exe"
+}

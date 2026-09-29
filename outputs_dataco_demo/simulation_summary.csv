@@ -1,0 +1,15 @@
+,0
+n_skus,47.0
+n_days_simulated,1006.0
+total_stockout_days_naive,4465.0
+total_stockout_days_optimized,1957.0
+stockout_days_avoided,2508.0
+pct_stockout_reduction,56.2
+avg_service_level_naive,0.906
+avg_service_level_optimized,0.958
+total_holding_cost_naive,58394.92
+total_holding_cost_optimized,81456.66
+total_holding_cost_delta,-23061.74
+pct_holding_cost_change,-39.5
+est_lost_sales_avoided_value,85285.82
+net_dollar_impact,62224.08

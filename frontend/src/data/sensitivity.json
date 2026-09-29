@@ -1,0 +1,44 @@
+[
+  {
+    "service_level_target": 0.9,
+    "total_stockout_days": 986,
+    "total_holding_cost": 40750.49,
+    "est_lost_sales_value": 9108.63,
+    "total_cost_of_policy": 49859.12
+  },
+  {
+    "service_level_target": 0.92,
+    "total_stockout_days": 858,
+    "total_holding_cost": 41773.37,
+    "est_lost_sales_value": 7949.09,
+    "total_cost_of_policy": 49722.46
+  },
+  {
+    "service_level_target": 0.95,
+    "total_stockout_days": 665,
+    "total_holding_cost": 44149.68,
+    "est_lost_sales_value": 6229.06,
+    "total_cost_of_policy": 50378.74
+  },
+  {
+    "service_level_target": 0.97,
+    "total_stockout_days": 540,
+    "total_holding_cost": 46100.28,
+    "est_lost_sales_value": 5191.67,
+    "total_cost_of_policy": 51291.95
+  },
+  {
+    "service_level_target": 0.98,
+    "total_stockout_days": 425,
+    "total_holding_cost": 47743.79,
+    "est_lost_sales_value": 4252.22,
+    "total_cost_of_policy": 51996.01
+  },
+  {
+    "service_level_target": 0.99,
+    "total_stockout_days": 314,
+    "total_holding_cost": 50471.51,
+    "est_lost_sales_value": 3002.65,
+    "total_cost_of_policy": 53474.15
+  }
+]

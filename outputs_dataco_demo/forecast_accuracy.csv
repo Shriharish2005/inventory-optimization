@@ -1,0 +1,48 @@
+sku_id,best_model,best_mae,best_mape,moving_average_mae,moving_average_mape,croston_mae,croston_mape
+Accessories | LATAM,moving_average,0.0,0.0,0.0,0.0,5.16,516.1
+Accessories | Pacific Asia,moving_average,0.0,0.0,0.0,0.0,2.31,230.9
+Camping & Hiking | LATAM,moving_average,0.0,0.0,0.0,0.0,14.62,1461.5
+Camping & Hiking | Pacific Asia,moving_average,0.0,0.0,0.0,0.0,4.16,415.9
+Cardio Equipment | LATAM,moving_average,0.0,0.0,0.0,0.0,26.2,2620.1
+Camping & Hiking | USCA,moving_average,0.0,0.0,0.0,0.0,0.76,76.4
+Cardio Equipment | USCA,moving_average,0.0,0.0,0.0,0.0,2.12,211.7
+Cardio Equipment | Pacific Asia,moving_average,0.0,0.0,0.0,0.0,13.27,1326.9
+Electronics | Europe,moving_average,0.0,0.0,0.0,0.0,1.44,144.0
+Cleats | USCA,moving_average,0.0,0.0,0.0,0.0,3.39,338.7
+Cleats | LATAM,moving_average,0.0,0.0,0.0,0.0,57.62,5761.6
+Cleats | Pacific Asia,moving_average,0.0,0.0,0.0,0.0,33.21,3321.1
+Electronics | LATAM,moving_average,0.0,0.0,0.0,0.0,9.9,990.3
+Fishing | Pacific Asia,moving_average,0.0,0.0,0.0,0.0,5.25,525.1
+Fishing | LATAM,moving_average,0.0,0.0,0.0,0.0,16.87,1686.6
+Electronics | Pacific Asia,moving_average,0.0,0.0,0.0,0.0,3.84,384.5
+Men's Footwear | LATAM,moving_average,0.0,0.0,0.0,0.0,21.41,2141.0
+Indoor/Outdoor Games | LATAM,moving_average,0.0,0.0,0.0,0.0,51.69,5169.4
+Indoor/Outdoor Games | USCA,moving_average,0.0,0.0,0.0,0.0,2.71,271.4
+Fishing | USCA,moving_average,0.0,0.0,0.0,0.0,0.33,33.4
+Golf Balls | LATAM,moving_average,0.0,0.0,0.0,0.0,4.43,443.3
+Girls' Apparel | LATAM,moving_average,0.0,0.0,0.0,0.0,5.81,580.7
+Golf Balls | Pacific Asia,moving_average,0.0,0.0,0.0,0.0,2.26,226.0
+Golf Gloves | LATAM,moving_average,0.0,0.0,0.0,0.0,1.51,150.7
+Indoor/Outdoor Games | Pacific Asia,moving_average,0.0,0.0,0.0,0.0,19.84,1983.5
+Water Sports | Pacific Asia,moving_average,0.0,0.0,0.0,0.0,3.39,339.1
+Shop By Sport | USCA,moving_average,0.0,0.0,0.0,0.0,1.22,121.7
+Trade-In | LATAM,moving_average,0.0,0.0,0.0,0.0,0.37,36.6
+Shop By Sport | Pacific Asia,moving_average,0.0,0.0,0.0,0.0,9.5,950.2
+Shop By Sport | LATAM,moving_average,0.0,0.0,0.0,0.0,27.59,2759.5
+Men's Footwear | USCA,moving_average,0.0,0.0,0.0,0.0,0.98,97.6
+Men's Footwear | Pacific Asia,moving_average,0.0,0.0,0.0,0.0,5.88,587.8
+Women's Apparel | USCA,moving_average,0.0,0.0,0.0,0.0,2.19,218.8
+Women's Apparel | Pacific Asia,moving_average,0.0,0.0,0.0,0.0,28.29,2828.9
+Water Sports | USCA,moving_average,0.0,0.0,0.0,0.0,0.74,74.0
+Women's Apparel | LATAM,moving_average,0.0,0.0,0.0,0.0,59.48,5948.0
+Water Sports | LATAM,moving_average,0.0,0.0,0.0,0.0,11.85,1184.8
+Golf Gloves | Europe,croston,1.59,69.5,1.62,62.5,1.59,69.5
+Camping & Hiking | Europe,moving_average,3.24,32.1,3.24,32.1,3.34,34.3
+Men's Footwear | Europe,croston,3.76,21.4,3.96,23.0,3.76,21.4
+Fishing | Europe,moving_average,3.87,37.0,3.87,37.0,4.09,35.0
+Water Sports | Europe,moving_average,4.23,24.5,4.23,24.5,4.41,25.1
+Shop By Sport | Europe,moving_average,8.99,59.7,8.99,59.7,9.52,64.6
+Women's Apparel | Europe,moving_average,10.97,20.7,10.97,20.7,11.22,21.5
+Cardio Equipment | Europe,croston,11.16,43.2,11.33,46.4,11.16,43.2
+Indoor/Outdoor Games | Europe,croston,11.94,24.2,12.07,24.3,11.94,24.2
+Cleats | Europe,croston,12.01,19.3,12.32,19.3,12.01,19.3

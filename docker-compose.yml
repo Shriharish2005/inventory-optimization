@@ -1,0 +1,19 @@
+# docker compose run pipeline
+# docker compose up frontend -> http://localhost:3000
+# docker compose run tests
+
+services:
+  pipeline:
+    build: .
+    command: python run_all.py --with-frontend-data
+
+  frontend:
+    build: ./frontend
+    ports:
+      - "3000:80"
+
+  tests:
+    build: .
+    command: python -m pytest tests/ -v
+    profiles: ["tools"]
+

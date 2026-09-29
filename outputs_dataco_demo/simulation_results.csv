@@ -1,0 +1,48 @@
+sku_id,category,market,abc_class,naive_stockout_days,optimized_stockout_days,stockout_days_avoided,naive_service_level_achieved,optimized_service_level_achieved,naive_avg_stock,optimized_avg_stock,naive_annual_holding_cost,optimized_annual_holding_cost,holding_cost_delta,est_lost_sales_avoided_value,net_dollar_impact
+Accessories | LATAM,Accessories,LATAM,C,96,11,85,0.905,0.989,16.5,57.5,78.3,272.71,-194.41,208.17,13.76
+Accessories | Pacific Asia,Accessories,Pacific Asia,C,83,14,69,0.917,0.986,12.1,74.9,60.94,377.29,-316.36,91.29,-225.07
+Camping & Hiking | Europe,Camping & Hiking,Europe,A,101,42,59,0.9,0.958,37.0,45.0,1972.0,2394.28,-422.28,3609.14,3186.86
+Camping & Hiking | LATAM,Camping & Hiking,LATAM,A,109,35,74,0.892,0.965,28.0,36.2,1494.16,1928.98,-434.82,4901.32,4466.5
+Camping & Hiking | Pacific Asia,Camping & Hiking,Pacific Asia,A,97,39,58,0.904,0.961,30.9,41.3,1626.89,2177.43,-550.55,2824.36,2273.81
+Camping & Hiking | USCA,Camping & Hiking,USCA,B,90,58,32,0.911,0.942,26.9,36.2,1404.55,1889.48,-484.93,1208.38,723.45
+Cardio Equipment | Europe,Cardio Equipment,Europe,A,99,40,59,0.902,0.96,110.4,116.1,2315.16,2435.21,-120.06,3306.26,3186.2
+Cardio Equipment | LATAM,Cardio Equipment,LATAM,A,112,35,77,0.889,0.965,117.7,118.4,2426.81,2440.79,-13.98,5111.39,5097.41
+Cardio Equipment | Pacific Asia,Cardio Equipment,Pacific Asia,A,93,51,42,0.908,0.949,87.7,122.2,1838.81,2563.12,-724.31,1652.22,927.91
+Cardio Equipment | USCA,Cardio Equipment,USCA,B,92,63,29,0.909,0.937,60.2,93.4,1263.58,1961.38,-697.8,799.17,101.37
+Cleats | Europe,Cleats,Europe,A,98,70,28,0.903,0.93,191.8,224.4,2518.8,2946.87,-428.07,2138.61,1710.54
+Cleats | LATAM,Cleats,LATAM,A,107,75,32,0.894,0.925,260.6,208.6,3420.18,2737.11,683.07,2500.44,3183.51
+Cleats | Pacific Asia,Cleats,Pacific Asia,A,95,61,34,0.906,0.939,183.6,202.7,2413.55,2663.88,-250.34,1841.52,1591.18
+Cleats | USCA,Cleats,USCA,A,86,82,4,0.915,0.918,132.2,179.3,1741.55,2361.76,-620.21,155.93,-464.28
+Electronics | Europe,Electronics,Europe,C,88,23,65,0.913,0.977,17.4,56.9,140.06,458.64,-318.58,321.76,3.18
+Electronics | LATAM,Electronics,LATAM,C,109,20,89,0.892,0.98,29.3,86.5,223.03,658.37,-435.34,618.76,183.42
+Electronics | Pacific Asia,Electronics,Pacific Asia,C,90,24,66,0.911,0.976,25.0,68.6,204.9,562.7,-357.8,364.38,6.58
+Fishing | Europe,Fishing,Europe,A,91,77,14,0.91,0.923,44.4,57.4,3115.19,4033.26,-918.07,1565.21,647.14
+Fishing | LATAM,Fishing,LATAM,A,113,35,78,0.888,0.965,21.9,48.3,1537.06,3387.99,-1850.93,9304.2,7453.27
+Fishing | Pacific Asia,Fishing,Pacific Asia,A,86,71,15,0.915,0.929,37.8,49.1,2674.66,3476.92,-802.26,1205.26,403.0
+Fishing | USCA,Fishing,USCA,A,88,74,14,0.913,0.926,25.2,43.2,1734.1,2969.56,-1235.47,956.75,-278.72
+Girls' Apparel | LATAM,Girls' Apparel,LATAM,C,91,12,79,0.91,0.988,11.4,28.7,95.53,240.16,-144.63,281.52,136.89
+Golf Balls | LATAM,Golf Balls,LATAM,C,91,10,81,0.91,0.99,13.5,29.8,43.79,96.68,-52.89,143.05,90.16
+Golf Balls | Pacific Asia,Golf Balls,Pacific Asia,C,85,11,74,0.916,0.989,12.4,55.9,42.9,194.08,-151.18,73.46,-77.72
+Golf Gloves | Europe,Golf Gloves,Europe,C,73,11,62,0.927,0.989,8.3,31.2,103.87,391.76,-287.88,210.34,-77.54
+Golf Gloves | LATAM,Golf Gloves,LATAM,C,78,14,64,0.922,0.986,6.5,35.7,49.75,272.32,-222.57,123.19,-99.38
+Indoor/Outdoor Games | Europe,Indoor/Outdoor Games,Europe,A,96,33,63,0.905,0.967,139.5,214.7,1215.39,1871.18,-655.78,3017.62,2361.84
+Indoor/Outdoor Games | LATAM,Indoor/Outdoor Games,LATAM,A,102,42,60,0.899,0.958,76.5,155.6,671.17,1365.11,-693.94,3052.68,2358.74
+Indoor/Outdoor Games | Pacific Asia,Indoor/Outdoor Games,Pacific Asia,B,101,55,46,0.9,0.945,137.5,180.5,1212.28,1591.54,-379.25,1564.54,1185.29
+Indoor/Outdoor Games | USCA,Indoor/Outdoor Games,USCA,B,87,57,30,0.914,0.943,109.7,160.1,964.6,1407.95,-443.35,724.48,281.13
+Men's Footwear | Europe,Men's Footwear,Europe,A,100,40,60,0.901,0.96,60.1,79.1,1706.2,2247.19,-540.99,2860.6,2319.61
+Men's Footwear | LATAM,Men's Footwear,LATAM,A,109,27,82,0.892,0.973,68.5,61.5,1968.05,1766.38,201.67,3858.23,4059.9
+Men's Footwear | Pacific Asia,Men's Footwear,Pacific Asia,B,90,61,29,0.911,0.939,53.7,68.9,1541.46,1977.8,-436.34,973.67,537.33
+Men's Footwear | USCA,Men's Footwear,USCA,B,88,62,26,0.913,0.938,34.8,62.2,1007.19,1801.56,-794.36,587.07,-207.29
+Shop By Sport | Europe,Shop By Sport,Europe,C,99,35,64,0.902,0.965,77.2,139.0,657.94,1184.75,-526.8,1316.54,789.74
+Shop By Sport | LATAM,Shop By Sport,LATAM,C,110,51,59,0.891,0.949,100.1,121.2,862.09,1043.32,-181.23,1220.76,1039.53
+Shop By Sport | Pacific Asia,Shop By Sport,Pacific Asia,C,95,37,58,0.906,0.963,68.1,123.1,580.49,1049.51,-469.02,763.26,294.24
+Shop By Sport | USCA,Shop By Sport,USCA,C,88,39,49,0.913,0.961,49.2,136.8,414.71,1152.16,-737.45,519.55,-217.9
+Trade-In | LATAM,Trade-In,LATAM,C,68,7,61,0.932,0.993,8.6,31.0,44.23,159.28,-115.05,77.88,-37.17
+Water Sports | Europe,Water Sports,Europe,A,96,41,55,0.905,0.959,33.8,63.2,1205.84,2256.43,-1050.6,2578.85,1528.25
+Water Sports | LATAM,Water Sports,LATAM,A,112,37,75,0.889,0.963,21.4,48.7,755.33,1714.17,-958.83,3986.35,3027.52
+Water Sports | Pacific Asia,Water Sports,Pacific Asia,B,101,51,50,0.9,0.949,37.1,45.9,1326.16,1640.27,-314.11,1593.97,1279.86
+Water Sports | USCA,Water Sports,USCA,B,91,57,34,0.91,0.943,26.9,43.8,950.67,1549.47,-598.8,865.66,266.86
+Women's Apparel | Europe,Women's Apparel,Europe,A,98,36,62,0.903,0.964,183.9,267.1,1916.38,2784.25,-867.86,3420.03,2552.17
+Women's Apparel | LATAM,Women's Apparel,LATAM,A,105,30,75,0.896,0.97,196.8,259.4,2085.81,2748.77,-662.97,3928.13,3265.16
+Women's Apparel | Pacific Asia,Women's Apparel,Pacific Asia,A,100,42,58,0.901,0.958,144.5,207.2,1539.58,2207.61,-668.03,1969.85,1301.82
+Women's Apparel | USCA,Women's Apparel,USCA,B,88,59,29,0.913,0.941,118.5,197.1,1229.23,2045.23,-816.0,890.02,74.02

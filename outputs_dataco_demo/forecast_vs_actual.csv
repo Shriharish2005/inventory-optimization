@@ -1,0 +1,2821 @@
+sku_id,date,actual,forecast,model
+Accessories | LATAM,2017-08-04,0,0.0,moving_average
+Accessories | LATAM,2017-08-05,0,0.0,moving_average
+Accessories | LATAM,2017-08-06,0,0.0,moving_average
+Accessories | LATAM,2017-08-07,0,0.0,moving_average
+Accessories | LATAM,2017-08-08,0,0.0,moving_average
+Accessories | LATAM,2017-08-09,0,0.0,moving_average
+Accessories | LATAM,2017-08-10,0,0.0,moving_average
+Accessories | LATAM,2017-08-11,0,0.0,moving_average
+Accessories | LATAM,2017-08-12,0,0.0,moving_average
+Accessories | LATAM,2017-08-13,0,0.0,moving_average
+Accessories | LATAM,2017-08-14,0,0.0,moving_average
+Accessories | LATAM,2017-08-15,0,0.0,moving_average
+Accessories | LATAM,2017-08-16,0,0.0,moving_average
+Accessories | LATAM,2017-08-17,0,0.0,moving_average
+Accessories | LATAM,2017-08-18,0,0.0,moving_average
+Accessories | LATAM,2017-08-19,0,0.0,moving_average
+Accessories | LATAM,2017-08-20,0,0.0,moving_average
+Accessories | LATAM,2017-08-21,0,0.0,moving_average
+Accessories | LATAM,2017-08-22,0,0.0,moving_average
+Accessories | LATAM,2017-08-23,0,0.0,moving_average
+Accessories | LATAM,2017-08-24,0,0.0,moving_average
+Accessories | LATAM,2017-08-25,0,0.0,moving_average
+Accessories | LATAM,2017-08-26,0,0.0,moving_average
+Accessories | LATAM,2017-08-27,0,0.0,moving_average
+Accessories | LATAM,2017-08-28,0,0.0,moving_average
+Accessories | LATAM,2017-08-29,0,0.0,moving_average
+Accessories | LATAM,2017-08-30,0,0.0,moving_average
+Accessories | LATAM,2017-08-31,0,0.0,moving_average
+Accessories | LATAM,2017-09-01,0,0.0,moving_average
+Accessories | LATAM,2017-09-02,0,0.0,moving_average
+Accessories | LATAM,2017-09-03,0,0.0,moving_average
+Accessories | LATAM,2017-09-04,0,0.0,moving_average
+Accessories | LATAM,2017-09-05,0,0.0,moving_average
+Accessories | LATAM,2017-09-06,0,0.0,moving_average
+Accessories | LATAM,2017-09-07,0,0.0,moving_average
+Accessories | LATAM,2017-09-08,0,0.0,moving_average
+Accessories | LATAM,2017-09-09,0,0.0,moving_average
+Accessories | LATAM,2017-09-10,0,0.0,moving_average
+Accessories | LATAM,2017-09-11,0,0.0,moving_average
+Accessories | LATAM,2017-09-12,0,0.0,moving_average
+Accessories | LATAM,2017-09-13,0,0.0,moving_average
+Accessories | LATAM,2017-09-14,0,0.0,moving_average
+Accessories | LATAM,2017-09-15,0,0.0,moving_average
+Accessories | LATAM,2017-09-16,0,0.0,moving_average
+Accessories | LATAM,2017-09-17,0,0.0,moving_average
+Accessories | LATAM,2017-09-18,0,0.0,moving_average
+Accessories | LATAM,2017-09-19,0,0.0,moving_average
+Accessories | LATAM,2017-09-20,0,0.0,moving_average
+Accessories | LATAM,2017-09-21,0,0.0,moving_average
+Accessories | LATAM,2017-09-22,0,0.0,moving_average
+Accessories | LATAM,2017-09-23,0,0.0,moving_average
+Accessories | LATAM,2017-09-24,0,0.0,moving_average
+Accessories | LATAM,2017-09-25,0,0.0,moving_average
+Accessories | LATAM,2017-09-26,0,0.0,moving_average
+Accessories | LATAM,2017-09-27,0,0.0,moving_average
+Accessories | LATAM,2017-09-28,0,0.0,moving_average
+Accessories | LATAM,2017-09-29,0,0.0,moving_average
+Accessories | LATAM,2017-09-30,0,0.0,moving_average
+Accessories | LATAM,2017-10-01,0,0.0,moving_average
+Accessories | LATAM,2017-10-02,0,0.0,moving_average
+Accessories | Pacific Asia,2017-08-04,0,0.0,moving_average
+Accessories | Pacific Asia,2017-08-05,0,0.0,moving_average
+Accessories | Pacific Asia,2017-08-06,0,0.0,moving_average
+Accessories | Pacific Asia,2017-08-07,0,0.0,moving_average
+Accessories | Pacific Asia,2017-08-08,0,0.0,moving_average
+Accessories | Pacific Asia,2017-08-09,0,0.0,moving_average
+Accessories | Pacific Asia,2017-08-10,0,0.0,moving_average
+Accessories | Pacific Asia,2017-08-11,0,0.0,moving_average
+Accessories | Pacific Asia,2017-08-12,0,0.0,moving_average
+Accessories | Pacific Asia,2017-08-13,0,0.0,moving_average
+Accessories | Pacific Asia,2017-08-14,0,0.0,moving_average
+Accessories | Pacific Asia,2017-08-15,0,0.0,moving_average
+Accessories | Pacific Asia,2017-08-16,0,0.0,moving_average
+Accessories | Pacific Asia,2017-08-17,0,0.0,moving_average
+Accessories | Pacific Asia,2017-08-18,0,0.0,moving_average
+Accessories | Pacific Asia,2017-08-19,0,0.0,moving_average
+Accessories | Pacific Asia,2017-08-20,0,0.0,moving_average
+Accessories | Pacific Asia,2017-08-21,0,0.0,moving_average
+Accessories | Pacific Asia,2017-08-22,0,0.0,moving_average
+Accessories | Pacific Asia,2017-08-23,0,0.0,moving_average
+Accessories | Pacific Asia,2017-08-24,0,0.0,moving_average
+Accessories | Pacific Asia,2017-08-25,0,0.0,moving_average
+Accessories | Pacific Asia,2017-08-26,0,0.0,moving_average
+Accessories | Pacific Asia,2017-08-27,0,0.0,moving_average
+Accessories | Pacific Asia,2017-08-28,0,0.0,moving_average
+Accessories | Pacific Asia,2017-08-29,0,0.0,moving_average
+Accessories | Pacific Asia,2017-08-30,0,0.0,moving_average
+Accessories | Pacific Asia,2017-08-31,0,0.0,moving_average
+Accessories | Pacific Asia,2017-09-01,0,0.0,moving_average
+Accessories | Pacific Asia,2017-09-02,0,0.0,moving_average
+Accessories | Pacific Asia,2017-09-03,0,0.0,moving_average
+Accessories | Pacific Asia,2017-09-04,0,0.0,moving_average
+Accessories | Pacific Asia,2017-09-05,0,0.0,moving_average
+Accessories | Pacific Asia,2017-09-06,0,0.0,moving_average
+Accessories | Pacific Asia,2017-09-07,0,0.0,moving_average
+Accessories | Pacific Asia,2017-09-08,0,0.0,moving_average
+Accessories | Pacific Asia,2017-09-09,0,0.0,moving_average
+Accessories | Pacific Asia,2017-09-10,0,0.0,moving_average
+Accessories | Pacific Asia,2017-09-11,0,0.0,moving_average
+Accessories | Pacific Asia,2017-09-12,0,0.0,moving_average
+Accessories | Pacific Asia,2017-09-13,0,0.0,moving_average
+Accessories | Pacific Asia,2017-09-14,0,0.0,moving_average
+Accessories | Pacific Asia,2017-09-15,0,0.0,moving_average
+Accessories | Pacific Asia,2017-09-16,0,0.0,moving_average
+Accessories | Pacific Asia,2017-09-17,0,0.0,moving_average
+Accessories | Pacific Asia,2017-09-18,0,0.0,moving_average
+Accessories | Pacific Asia,2017-09-19,0,0.0,moving_average
+Accessories | Pacific Asia,2017-09-20,0,0.0,moving_average
+Accessories | Pacific Asia,2017-09-21,0,0.0,moving_average
+Accessories | Pacific Asia,2017-09-22,0,0.0,moving_average
+Accessories | Pacific Asia,2017-09-23,0,0.0,moving_average
+Accessories | Pacific Asia,2017-09-24,0,0.0,moving_average
+Accessories | Pacific Asia,2017-09-25,0,0.0,moving_average
+Accessories | Pacific Asia,2017-09-26,0,0.0,moving_average
+Accessories | Pacific Asia,2017-09-27,0,0.0,moving_average
+Accessories | Pacific Asia,2017-09-28,0,0.0,moving_average
+Accessories | Pacific Asia,2017-09-29,0,0.0,moving_average
+Accessories | Pacific Asia,2017-09-30,0,0.0,moving_average
+Accessories | Pacific Asia,2017-10-01,0,0.0,moving_average
+Accessories | Pacific Asia,2017-10-02,0,0.0,moving_average
+Camping & Hiking | Europe,2017-08-04,14,13.43,moving_average
+Camping & Hiking | Europe,2017-08-05,10,13.43,moving_average
+Camping & Hiking | Europe,2017-08-06,6,13.43,moving_average
+Camping & Hiking | Europe,2017-08-07,10,13.43,moving_average
+Camping & Hiking | Europe,2017-08-08,12,13.43,moving_average
+Camping & Hiking | Europe,2017-08-09,10,13.43,moving_average
+Camping & Hiking | Europe,2017-08-10,10,13.43,moving_average
+Camping & Hiking | Europe,2017-08-11,17,13.43,moving_average
+Camping & Hiking | Europe,2017-08-12,14,13.43,moving_average
+Camping & Hiking | Europe,2017-08-13,10,13.43,moving_average
+Camping & Hiking | Europe,2017-08-14,16,13.43,moving_average
+Camping & Hiking | Europe,2017-08-15,10,13.43,moving_average
+Camping & Hiking | Europe,2017-08-16,8,13.43,moving_average
+Camping & Hiking | Europe,2017-08-17,25,13.43,moving_average
+Camping & Hiking | Europe,2017-08-18,12,13.43,moving_average
+Camping & Hiking | Europe,2017-08-19,10,13.43,moving_average
+Camping & Hiking | Europe,2017-08-20,8,13.43,moving_average
+Camping & Hiking | Europe,2017-08-21,18,13.43,moving_average
+Camping & Hiking | Europe,2017-08-22,15,13.43,moving_average
+Camping & Hiking | Europe,2017-08-23,13,13.43,moving_average
+Camping & Hiking | Europe,2017-08-24,13,13.43,moving_average
+Camping & Hiking | Europe,2017-08-25,8,13.43,moving_average
+Camping & Hiking | Europe,2017-08-26,8,13.43,moving_average
+Camping & Hiking | Europe,2017-08-27,13,13.43,moving_average
+Camping & Hiking | Europe,2017-08-28,7,13.43,moving_average
+Camping & Hiking | Europe,2017-08-29,9,13.43,moving_average
+Camping & Hiking | Europe,2017-08-30,11,13.43,moving_average
+Camping & Hiking | Europe,2017-08-31,13,13.43,moving_average
+Camping & Hiking | Europe,2017-09-01,18,13.43,moving_average
+Camping & Hiking | Europe,2017-09-02,16,13.43,moving_average
+Camping & Hiking | Europe,2017-09-03,18,13.43,moving_average
+Camping & Hiking | Europe,2017-09-04,14,13.43,moving_average
+Camping & Hiking | Europe,2017-09-05,14,13.43,moving_average
+Camping & Hiking | Europe,2017-09-06,16,13.43,moving_average
+Camping & Hiking | Europe,2017-09-07,12,13.43,moving_average
+Camping & Hiking | Europe,2017-09-08,10,13.43,moving_average
+Camping & Hiking | Europe,2017-09-09,14,13.43,moving_average
+Camping & Hiking | Europe,2017-09-10,11,13.43,moving_average
+Camping & Hiking | Europe,2017-09-11,10,13.43,moving_average
+Camping & Hiking | Europe,2017-09-12,18,13.43,moving_average
+Camping & Hiking | Europe,2017-09-13,18,13.43,moving_average
+Camping & Hiking | Europe,2017-09-14,16,13.43,moving_average
+Camping & Hiking | Europe,2017-09-15,15,13.43,moving_average
+Camping & Hiking | Europe,2017-09-16,11,13.43,moving_average
+Camping & Hiking | Europe,2017-09-17,13,13.43,moving_average
+Camping & Hiking | Europe,2017-09-18,11,13.43,moving_average
+Camping & Hiking | Europe,2017-09-19,16,13.43,moving_average
+Camping & Hiking | Europe,2017-09-20,9,13.43,moving_average
+Camping & Hiking | Europe,2017-09-21,11,13.43,moving_average
+Camping & Hiking | Europe,2017-09-22,17,13.43,moving_average
+Camping & Hiking | Europe,2017-09-23,18,13.43,moving_average
+Camping & Hiking | Europe,2017-09-24,15,13.43,moving_average
+Camping & Hiking | Europe,2017-09-25,16,13.43,moving_average
+Camping & Hiking | Europe,2017-09-26,17,13.43,moving_average
+Camping & Hiking | Europe,2017-09-27,7,13.43,moving_average
+Camping & Hiking | Europe,2017-09-28,13,13.43,moving_average
+Camping & Hiking | Europe,2017-09-29,16,13.43,moving_average
+Camping & Hiking | Europe,2017-09-30,7,13.43,moving_average
+Camping & Hiking | Europe,2017-10-01,11,13.43,moving_average
+Camping & Hiking | Europe,2017-10-02,4,13.43,moving_average
+Camping & Hiking | LATAM,2017-08-04,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-08-05,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-08-06,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-08-07,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-08-08,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-08-09,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-08-10,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-08-11,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-08-12,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-08-13,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-08-14,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-08-15,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-08-16,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-08-17,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-08-18,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-08-19,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-08-20,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-08-21,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-08-22,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-08-23,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-08-24,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-08-25,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-08-26,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-08-27,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-08-28,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-08-29,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-08-30,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-08-31,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-09-01,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-09-02,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-09-03,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-09-04,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-09-05,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-09-06,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-09-07,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-09-08,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-09-09,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-09-10,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-09-11,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-09-12,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-09-13,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-09-14,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-09-15,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-09-16,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-09-17,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-09-18,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-09-19,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-09-20,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-09-21,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-09-22,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-09-23,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-09-24,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-09-25,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-09-26,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-09-27,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-09-28,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-09-29,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-09-30,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-10-01,0,0.0,moving_average
+Camping & Hiking | LATAM,2017-10-02,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-08-04,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-08-05,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-08-06,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-08-07,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-08-08,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-08-09,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-08-10,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-08-11,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-08-12,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-08-13,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-08-14,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-08-15,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-08-16,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-08-17,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-08-18,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-08-19,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-08-20,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-08-21,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-08-22,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-08-23,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-08-24,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-08-25,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-08-26,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-08-27,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-08-28,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-08-29,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-08-30,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-08-31,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-09-01,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-09-02,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-09-03,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-09-04,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-09-05,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-09-06,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-09-07,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-09-08,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-09-09,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-09-10,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-09-11,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-09-12,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-09-13,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-09-14,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-09-15,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-09-16,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-09-17,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-09-18,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-09-19,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-09-20,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-09-21,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-09-22,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-09-23,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-09-24,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-09-25,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-09-26,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-09-27,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-09-28,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-09-29,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-09-30,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-10-01,0,0.0,moving_average
+Camping & Hiking | Pacific Asia,2017-10-02,0,0.0,moving_average
+Camping & Hiking | USCA,2017-08-04,0,0.0,moving_average
+Camping & Hiking | USCA,2017-08-05,0,0.0,moving_average
+Camping & Hiking | USCA,2017-08-06,0,0.0,moving_average
+Camping & Hiking | USCA,2017-08-07,0,0.0,moving_average
+Camping & Hiking | USCA,2017-08-08,0,0.0,moving_average
+Camping & Hiking | USCA,2017-08-09,0,0.0,moving_average
+Camping & Hiking | USCA,2017-08-10,0,0.0,moving_average
+Camping & Hiking | USCA,2017-08-11,0,0.0,moving_average
+Camping & Hiking | USCA,2017-08-12,0,0.0,moving_average
+Camping & Hiking | USCA,2017-08-13,0,0.0,moving_average
+Camping & Hiking | USCA,2017-08-14,0,0.0,moving_average
+Camping & Hiking | USCA,2017-08-15,0,0.0,moving_average
+Camping & Hiking | USCA,2017-08-16,0,0.0,moving_average
+Camping & Hiking | USCA,2017-08-17,0,0.0,moving_average
+Camping & Hiking | USCA,2017-08-18,0,0.0,moving_average
+Camping & Hiking | USCA,2017-08-19,0,0.0,moving_average
+Camping & Hiking | USCA,2017-08-20,0,0.0,moving_average
+Camping & Hiking | USCA,2017-08-21,0,0.0,moving_average
+Camping & Hiking | USCA,2017-08-22,0,0.0,moving_average
+Camping & Hiking | USCA,2017-08-23,0,0.0,moving_average
+Camping & Hiking | USCA,2017-08-24,0,0.0,moving_average
+Camping & Hiking | USCA,2017-08-25,0,0.0,moving_average
+Camping & Hiking | USCA,2017-08-26,0,0.0,moving_average
+Camping & Hiking | USCA,2017-08-27,0,0.0,moving_average
+Camping & Hiking | USCA,2017-08-28,0,0.0,moving_average
+Camping & Hiking | USCA,2017-08-29,0,0.0,moving_average
+Camping & Hiking | USCA,2017-08-30,0,0.0,moving_average
+Camping & Hiking | USCA,2017-08-31,0,0.0,moving_average
+Camping & Hiking | USCA,2017-09-01,0,0.0,moving_average
+Camping & Hiking | USCA,2017-09-02,0,0.0,moving_average
+Camping & Hiking | USCA,2017-09-03,0,0.0,moving_average
+Camping & Hiking | USCA,2017-09-04,0,0.0,moving_average
+Camping & Hiking | USCA,2017-09-05,0,0.0,moving_average
+Camping & Hiking | USCA,2017-09-06,0,0.0,moving_average
+Camping & Hiking | USCA,2017-09-07,0,0.0,moving_average
+Camping & Hiking | USCA,2017-09-08,0,0.0,moving_average
+Camping & Hiking | USCA,2017-09-09,0,0.0,moving_average
+Camping & Hiking | USCA,2017-09-10,0,0.0,moving_average
+Camping & Hiking | USCA,2017-09-11,0,0.0,moving_average
+Camping & Hiking | USCA,2017-09-12,0,0.0,moving_average
+Camping & Hiking | USCA,2017-09-13,0,0.0,moving_average
+Camping & Hiking | USCA,2017-09-14,0,0.0,moving_average
+Camping & Hiking | USCA,2017-09-15,0,0.0,moving_average
+Camping & Hiking | USCA,2017-09-16,0,0.0,moving_average
+Camping & Hiking | USCA,2017-09-17,0,0.0,moving_average
+Camping & Hiking | USCA,2017-09-18,0,0.0,moving_average
+Camping & Hiking | USCA,2017-09-19,0,0.0,moving_average
+Camping & Hiking | USCA,2017-09-20,0,0.0,moving_average
+Camping & Hiking | USCA,2017-09-21,0,0.0,moving_average
+Camping & Hiking | USCA,2017-09-22,0,0.0,moving_average
+Camping & Hiking | USCA,2017-09-23,0,0.0,moving_average
+Camping & Hiking | USCA,2017-09-24,0,0.0,moving_average
+Camping & Hiking | USCA,2017-09-25,0,0.0,moving_average
+Camping & Hiking | USCA,2017-09-26,0,0.0,moving_average
+Camping & Hiking | USCA,2017-09-27,0,0.0,moving_average
+Camping & Hiking | USCA,2017-09-28,0,0.0,moving_average
+Camping & Hiking | USCA,2017-09-29,0,0.0,moving_average
+Camping & Hiking | USCA,2017-09-30,0,0.0,moving_average
+Camping & Hiking | USCA,2017-10-01,0,0.0,moving_average
+Camping & Hiking | USCA,2017-10-02,0,0.0,moving_average
+Cardio Equipment | Europe,2017-08-04,21,34.39,croston
+Cardio Equipment | Europe,2017-08-05,43,34.39,croston
+Cardio Equipment | Europe,2017-08-06,28,34.39,croston
+Cardio Equipment | Europe,2017-08-07,28,34.39,croston
+Cardio Equipment | Europe,2017-08-08,32,34.39,croston
+Cardio Equipment | Europe,2017-08-09,13,34.39,croston
+Cardio Equipment | Europe,2017-08-10,57,34.39,croston
+Cardio Equipment | Europe,2017-08-11,17,34.39,croston
+Cardio Equipment | Europe,2017-08-12,55,34.39,croston
+Cardio Equipment | Europe,2017-08-13,43,34.39,croston
+Cardio Equipment | Europe,2017-08-14,47,34.39,croston
+Cardio Equipment | Europe,2017-08-15,6,34.39,croston
+Cardio Equipment | Europe,2017-08-16,36,34.39,croston
+Cardio Equipment | Europe,2017-08-17,43,34.39,croston
+Cardio Equipment | Europe,2017-08-18,30,34.39,croston
+Cardio Equipment | Europe,2017-08-19,22,34.39,croston
+Cardio Equipment | Europe,2017-08-20,48,34.39,croston
+Cardio Equipment | Europe,2017-08-21,42,34.39,croston
+Cardio Equipment | Europe,2017-08-22,19,34.39,croston
+Cardio Equipment | Europe,2017-08-23,45,34.39,croston
+Cardio Equipment | Europe,2017-08-24,52,34.39,croston
+Cardio Equipment | Europe,2017-08-25,20,34.39,croston
+Cardio Equipment | Europe,2017-08-26,39,34.39,croston
+Cardio Equipment | Europe,2017-08-27,25,34.39,croston
+Cardio Equipment | Europe,2017-08-28,41,34.39,croston
+Cardio Equipment | Europe,2017-08-29,59,34.39,croston
+Cardio Equipment | Europe,2017-08-30,30,34.39,croston
+Cardio Equipment | Europe,2017-08-31,48,34.39,croston
+Cardio Equipment | Europe,2017-09-01,32,34.39,croston
+Cardio Equipment | Europe,2017-09-02,18,34.39,croston
+Cardio Equipment | Europe,2017-09-03,17,34.39,croston
+Cardio Equipment | Europe,2017-09-04,32,34.39,croston
+Cardio Equipment | Europe,2017-09-05,71,34.39,croston
+Cardio Equipment | Europe,2017-09-06,23,34.39,croston
+Cardio Equipment | Europe,2017-09-07,37,34.39,croston
+Cardio Equipment | Europe,2017-09-08,38,34.39,croston
+Cardio Equipment | Europe,2017-09-09,26,34.39,croston
+Cardio Equipment | Europe,2017-09-10,44,34.39,croston
+Cardio Equipment | Europe,2017-09-11,44,34.39,croston
+Cardio Equipment | Europe,2017-09-12,36,34.39,croston
+Cardio Equipment | Europe,2017-09-13,28,34.39,croston
+Cardio Equipment | Europe,2017-09-14,35,34.39,croston
+Cardio Equipment | Europe,2017-09-15,26,34.39,croston
+Cardio Equipment | Europe,2017-09-16,15,34.39,croston
+Cardio Equipment | Europe,2017-09-17,34,34.39,croston
+Cardio Equipment | Europe,2017-09-18,24,34.39,croston
+Cardio Equipment | Europe,2017-09-19,54,34.39,croston
+Cardio Equipment | Europe,2017-09-20,21,34.39,croston
+Cardio Equipment | Europe,2017-09-21,42,34.39,croston
+Cardio Equipment | Europe,2017-09-22,30,34.39,croston
+Cardio Equipment | Europe,2017-09-23,71,34.39,croston
+Cardio Equipment | Europe,2017-09-24,32,34.39,croston
+Cardio Equipment | Europe,2017-09-25,42,34.39,croston
+Cardio Equipment | Europe,2017-09-26,43,34.39,croston
+Cardio Equipment | Europe,2017-09-27,27,34.39,croston
+Cardio Equipment | Europe,2017-09-28,51,34.39,croston
+Cardio Equipment | Europe,2017-09-29,25,34.39,croston
+Cardio Equipment | Europe,2017-09-30,32,34.39,croston
+Cardio Equipment | Europe,2017-10-01,46,34.39,croston
+Cardio Equipment | Europe,2017-10-02,18,34.39,croston
+Cardio Equipment | LATAM,2017-08-04,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-08-05,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-08-06,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-08-07,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-08-08,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-08-09,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-08-10,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-08-11,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-08-12,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-08-13,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-08-14,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-08-15,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-08-16,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-08-17,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-08-18,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-08-19,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-08-20,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-08-21,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-08-22,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-08-23,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-08-24,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-08-25,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-08-26,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-08-27,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-08-28,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-08-29,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-08-30,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-08-31,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-09-01,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-09-02,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-09-03,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-09-04,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-09-05,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-09-06,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-09-07,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-09-08,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-09-09,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-09-10,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-09-11,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-09-12,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-09-13,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-09-14,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-09-15,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-09-16,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-09-17,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-09-18,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-09-19,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-09-20,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-09-21,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-09-22,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-09-23,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-09-24,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-09-25,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-09-26,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-09-27,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-09-28,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-09-29,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-09-30,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-10-01,0,0.0,moving_average
+Cardio Equipment | LATAM,2017-10-02,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-08-04,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-08-05,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-08-06,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-08-07,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-08-08,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-08-09,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-08-10,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-08-11,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-08-12,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-08-13,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-08-14,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-08-15,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-08-16,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-08-17,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-08-18,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-08-19,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-08-20,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-08-21,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-08-22,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-08-23,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-08-24,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-08-25,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-08-26,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-08-27,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-08-28,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-08-29,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-08-30,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-08-31,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-09-01,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-09-02,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-09-03,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-09-04,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-09-05,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-09-06,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-09-07,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-09-08,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-09-09,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-09-10,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-09-11,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-09-12,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-09-13,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-09-14,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-09-15,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-09-16,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-09-17,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-09-18,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-09-19,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-09-20,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-09-21,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-09-22,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-09-23,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-09-24,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-09-25,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-09-26,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-09-27,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-09-28,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-09-29,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-09-30,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-10-01,0,0.0,moving_average
+Cardio Equipment | Pacific Asia,2017-10-02,0,0.0,moving_average
+Cardio Equipment | USCA,2017-08-04,0,0.0,moving_average
+Cardio Equipment | USCA,2017-08-05,0,0.0,moving_average
+Cardio Equipment | USCA,2017-08-06,0,0.0,moving_average
+Cardio Equipment | USCA,2017-08-07,0,0.0,moving_average
+Cardio Equipment | USCA,2017-08-08,0,0.0,moving_average
+Cardio Equipment | USCA,2017-08-09,0,0.0,moving_average
+Cardio Equipment | USCA,2017-08-10,0,0.0,moving_average
+Cardio Equipment | USCA,2017-08-11,0,0.0,moving_average
+Cardio Equipment | USCA,2017-08-12,0,0.0,moving_average
+Cardio Equipment | USCA,2017-08-13,0,0.0,moving_average
+Cardio Equipment | USCA,2017-08-14,0,0.0,moving_average
+Cardio Equipment | USCA,2017-08-15,0,0.0,moving_average
+Cardio Equipment | USCA,2017-08-16,0,0.0,moving_average
+Cardio Equipment | USCA,2017-08-17,0,0.0,moving_average
+Cardio Equipment | USCA,2017-08-18,0,0.0,moving_average
+Cardio Equipment | USCA,2017-08-19,0,0.0,moving_average
+Cardio Equipment | USCA,2017-08-20,0,0.0,moving_average
+Cardio Equipment | USCA,2017-08-21,0,0.0,moving_average
+Cardio Equipment | USCA,2017-08-22,0,0.0,moving_average
+Cardio Equipment | USCA,2017-08-23,0,0.0,moving_average
+Cardio Equipment | USCA,2017-08-24,0,0.0,moving_average
+Cardio Equipment | USCA,2017-08-25,0,0.0,moving_average
+Cardio Equipment | USCA,2017-08-26,0,0.0,moving_average
+Cardio Equipment | USCA,2017-08-27,0,0.0,moving_average
+Cardio Equipment | USCA,2017-08-28,0,0.0,moving_average
+Cardio Equipment | USCA,2017-08-29,0,0.0,moving_average
+Cardio Equipment | USCA,2017-08-30,0,0.0,moving_average
+Cardio Equipment | USCA,2017-08-31,0,0.0,moving_average
+Cardio Equipment | USCA,2017-09-01,0,0.0,moving_average
+Cardio Equipment | USCA,2017-09-02,0,0.0,moving_average
+Cardio Equipment | USCA,2017-09-03,0,0.0,moving_average
+Cardio Equipment | USCA,2017-09-04,0,0.0,moving_average
+Cardio Equipment | USCA,2017-09-05,0,0.0,moving_average
+Cardio Equipment | USCA,2017-09-06,0,0.0,moving_average
+Cardio Equipment | USCA,2017-09-07,0,0.0,moving_average
+Cardio Equipment | USCA,2017-09-08,0,0.0,moving_average
+Cardio Equipment | USCA,2017-09-09,0,0.0,moving_average
+Cardio Equipment | USCA,2017-09-10,0,0.0,moving_average
+Cardio Equipment | USCA,2017-09-11,0,0.0,moving_average
+Cardio Equipment | USCA,2017-09-12,0,0.0,moving_average
+Cardio Equipment | USCA,2017-09-13,0,0.0,moving_average
+Cardio Equipment | USCA,2017-09-14,0,0.0,moving_average
+Cardio Equipment | USCA,2017-09-15,0,0.0,moving_average
+Cardio Equipment | USCA,2017-09-16,0,0.0,moving_average
+Cardio Equipment | USCA,2017-09-17,0,0.0,moving_average
+Cardio Equipment | USCA,2017-09-18,0,0.0,moving_average
+Cardio Equipment | USCA,2017-09-19,0,0.0,moving_average
+Cardio Equipment | USCA,2017-09-20,0,0.0,moving_average
+Cardio Equipment | USCA,2017-09-21,0,0.0,moving_average
+Cardio Equipment | USCA,2017-09-22,0,0.0,moving_average
+Cardio Equipment | USCA,2017-09-23,0,0.0,moving_average
+Cardio Equipment | USCA,2017-09-24,0,0.0,moving_average
+Cardio Equipment | USCA,2017-09-25,0,0.0,moving_average
+Cardio Equipment | USCA,2017-09-26,0,0.0,moving_average
+Cardio Equipment | USCA,2017-09-27,0,0.0,moving_average
+Cardio Equipment | USCA,2017-09-28,0,0.0,moving_average
+Cardio Equipment | USCA,2017-09-29,0,0.0,moving_average
+Cardio Equipment | USCA,2017-09-30,0,0.0,moving_average
+Cardio Equipment | USCA,2017-10-01,0,0.0,moving_average
+Cardio Equipment | USCA,2017-10-02,0,0.0,moving_average
+Cleats | Europe,2017-08-04,69,66.84,croston
+Cleats | Europe,2017-08-05,65,66.84,croston
+Cleats | Europe,2017-08-06,71,66.84,croston
+Cleats | Europe,2017-08-07,76,66.84,croston
+Cleats | Europe,2017-08-08,60,66.84,croston
+Cleats | Europe,2017-08-09,86,66.84,croston
+Cleats | Europe,2017-08-10,79,66.84,croston
+Cleats | Europe,2017-08-11,76,66.84,croston
+Cleats | Europe,2017-08-12,69,66.84,croston
+Cleats | Europe,2017-08-13,59,66.84,croston
+Cleats | Europe,2017-08-14,59,66.84,croston
+Cleats | Europe,2017-08-15,51,66.84,croston
+Cleats | Europe,2017-08-16,65,66.84,croston
+Cleats | Europe,2017-08-17,84,66.84,croston
+Cleats | Europe,2017-08-18,46,66.84,croston
+Cleats | Europe,2017-08-19,72,66.84,croston
+Cleats | Europe,2017-08-20,88,66.84,croston
+Cleats | Europe,2017-08-21,78,66.84,croston
+Cleats | Europe,2017-08-22,61,66.84,croston
+Cleats | Europe,2017-08-23,72,66.84,croston
+Cleats | Europe,2017-08-24,79,66.84,croston
+Cleats | Europe,2017-08-25,52,66.84,croston
+Cleats | Europe,2017-08-26,104,66.84,croston
+Cleats | Europe,2017-08-27,64,66.84,croston
+Cleats | Europe,2017-08-28,67,66.84,croston
+Cleats | Europe,2017-08-29,96,66.84,croston
+Cleats | Europe,2017-08-30,78,66.84,croston
+Cleats | Europe,2017-08-31,76,66.84,croston
+Cleats | Europe,2017-09-01,78,66.84,croston
+Cleats | Europe,2017-09-02,62,66.84,croston
+Cleats | Europe,2017-09-03,93,66.84,croston
+Cleats | Europe,2017-09-04,54,66.84,croston
+Cleats | Europe,2017-09-05,62,66.84,croston
+Cleats | Europe,2017-09-06,68,66.84,croston
+Cleats | Europe,2017-09-07,45,66.84,croston
+Cleats | Europe,2017-09-08,85,66.84,croston
+Cleats | Europe,2017-09-09,74,66.84,croston
+Cleats | Europe,2017-09-10,72,66.84,croston
+Cleats | Europe,2017-09-11,72,66.84,croston
+Cleats | Europe,2017-09-12,62,66.84,croston
+Cleats | Europe,2017-09-13,76,66.84,croston
+Cleats | Europe,2017-09-14,60,66.84,croston
+Cleats | Europe,2017-09-15,71,66.84,croston
+Cleats | Europe,2017-09-16,80,66.84,croston
+Cleats | Europe,2017-09-17,71,66.84,croston
+Cleats | Europe,2017-09-18,50,66.84,croston
+Cleats | Europe,2017-09-19,39,66.84,croston
+Cleats | Europe,2017-09-20,98,66.84,croston
+Cleats | Europe,2017-09-21,81,66.84,croston
+Cleats | Europe,2017-09-22,45,66.84,croston
+Cleats | Europe,2017-09-23,74,66.84,croston
+Cleats | Europe,2017-09-24,59,66.84,croston
+Cleats | Europe,2017-09-25,62,66.84,croston
+Cleats | Europe,2017-09-26,66,66.84,croston
+Cleats | Europe,2017-09-27,68,66.84,croston
+Cleats | Europe,2017-09-28,42,66.84,croston
+Cleats | Europe,2017-09-29,40,66.84,croston
+Cleats | Europe,2017-09-30,86,66.84,croston
+Cleats | Europe,2017-10-01,86,66.84,croston
+Cleats | Europe,2017-10-02,34,66.84,croston
+Cleats | LATAM,2017-08-04,0,0.0,moving_average
+Cleats | LATAM,2017-08-05,0,0.0,moving_average
+Cleats | LATAM,2017-08-06,0,0.0,moving_average
+Cleats | LATAM,2017-08-07,0,0.0,moving_average
+Cleats | LATAM,2017-08-08,0,0.0,moving_average
+Cleats | LATAM,2017-08-09,0,0.0,moving_average
+Cleats | LATAM,2017-08-10,0,0.0,moving_average
+Cleats | LATAM,2017-08-11,0,0.0,moving_average
+Cleats | LATAM,2017-08-12,0,0.0,moving_average
+Cleats | LATAM,2017-08-13,0,0.0,moving_average
+Cleats | LATAM,2017-08-14,0,0.0,moving_average
+Cleats | LATAM,2017-08-15,0,0.0,moving_average
+Cleats | LATAM,2017-08-16,0,0.0,moving_average
+Cleats | LATAM,2017-08-17,0,0.0,moving_average
+Cleats | LATAM,2017-08-18,0,0.0,moving_average
+Cleats | LATAM,2017-08-19,0,0.0,moving_average
+Cleats | LATAM,2017-08-20,0,0.0,moving_average
+Cleats | LATAM,2017-08-21,0,0.0,moving_average
+Cleats | LATAM,2017-08-22,0,0.0,moving_average
+Cleats | LATAM,2017-08-23,0,0.0,moving_average
+Cleats | LATAM,2017-08-24,0,0.0,moving_average
+Cleats | LATAM,2017-08-25,0,0.0,moving_average
+Cleats | LATAM,2017-08-26,0,0.0,moving_average
+Cleats | LATAM,2017-08-27,0,0.0,moving_average
+Cleats | LATAM,2017-08-28,0,0.0,moving_average
+Cleats | LATAM,2017-08-29,0,0.0,moving_average
+Cleats | LATAM,2017-08-30,0,0.0,moving_average
+Cleats | LATAM,2017-08-31,0,0.0,moving_average
+Cleats | LATAM,2017-09-01,0,0.0,moving_average
+Cleats | LATAM,2017-09-02,0,0.0,moving_average
+Cleats | LATAM,2017-09-03,0,0.0,moving_average
+Cleats | LATAM,2017-09-04,0,0.0,moving_average
+Cleats | LATAM,2017-09-05,0,0.0,moving_average
+Cleats | LATAM,2017-09-06,0,0.0,moving_average
+Cleats | LATAM,2017-09-07,0,0.0,moving_average
+Cleats | LATAM,2017-09-08,0,0.0,moving_average
+Cleats | LATAM,2017-09-09,0,0.0,moving_average
+Cleats | LATAM,2017-09-10,0,0.0,moving_average
+Cleats | LATAM,2017-09-11,0,0.0,moving_average
+Cleats | LATAM,2017-09-12,0,0.0,moving_average
+Cleats | LATAM,2017-09-13,0,0.0,moving_average
+Cleats | LATAM,2017-09-14,0,0.0,moving_average
+Cleats | LATAM,2017-09-15,0,0.0,moving_average
+Cleats | LATAM,2017-09-16,0,0.0,moving_average
+Cleats | LATAM,2017-09-17,0,0.0,moving_average
+Cleats | LATAM,2017-09-18,0,0.0,moving_average
+Cleats | LATAM,2017-09-19,0,0.0,moving_average
+Cleats | LATAM,2017-09-20,0,0.0,moving_average
+Cleats | LATAM,2017-09-21,0,0.0,moving_average
+Cleats | LATAM,2017-09-22,0,0.0,moving_average
+Cleats | LATAM,2017-09-23,0,0.0,moving_average
+Cleats | LATAM,2017-09-24,0,0.0,moving_average
+Cleats | LATAM,2017-09-25,0,0.0,moving_average
+Cleats | LATAM,2017-09-26,0,0.0,moving_average
+Cleats | LATAM,2017-09-27,0,0.0,moving_average
+Cleats | LATAM,2017-09-28,0,0.0,moving_average
+Cleats | LATAM,2017-09-29,0,0.0,moving_average
+Cleats | LATAM,2017-09-30,0,0.0,moving_average
+Cleats | LATAM,2017-10-01,0,0.0,moving_average
+Cleats | LATAM,2017-10-02,0,0.0,moving_average
+Cleats | Pacific Asia,2017-08-04,0,0.0,moving_average
+Cleats | Pacific Asia,2017-08-05,0,0.0,moving_average
+Cleats | Pacific Asia,2017-08-06,0,0.0,moving_average
+Cleats | Pacific Asia,2017-08-07,0,0.0,moving_average
+Cleats | Pacific Asia,2017-08-08,0,0.0,moving_average
+Cleats | Pacific Asia,2017-08-09,0,0.0,moving_average
+Cleats | Pacific Asia,2017-08-10,0,0.0,moving_average
+Cleats | Pacific Asia,2017-08-11,0,0.0,moving_average
+Cleats | Pacific Asia,2017-08-12,0,0.0,moving_average
+Cleats | Pacific Asia,2017-08-13,0,0.0,moving_average
+Cleats | Pacific Asia,2017-08-14,0,0.0,moving_average
+Cleats | Pacific Asia,2017-08-15,0,0.0,moving_average
+Cleats | Pacific Asia,2017-08-16,0,0.0,moving_average
+Cleats | Pacific Asia,2017-08-17,0,0.0,moving_average
+Cleats | Pacific Asia,2017-08-18,0,0.0,moving_average
+Cleats | Pacific Asia,2017-08-19,0,0.0,moving_average
+Cleats | Pacific Asia,2017-08-20,0,0.0,moving_average
+Cleats | Pacific Asia,2017-08-21,0,0.0,moving_average
+Cleats | Pacific Asia,2017-08-22,0,0.0,moving_average
+Cleats | Pacific Asia,2017-08-23,0,0.0,moving_average
+Cleats | Pacific Asia,2017-08-24,0,0.0,moving_average
+Cleats | Pacific Asia,2017-08-25,0,0.0,moving_average
+Cleats | Pacific Asia,2017-08-26,0,0.0,moving_average
+Cleats | Pacific Asia,2017-08-27,0,0.0,moving_average
+Cleats | Pacific Asia,2017-08-28,0,0.0,moving_average
+Cleats | Pacific Asia,2017-08-29,0,0.0,moving_average
+Cleats | Pacific Asia,2017-08-30,0,0.0,moving_average
+Cleats | Pacific Asia,2017-08-31,0,0.0,moving_average
+Cleats | Pacific Asia,2017-09-01,0,0.0,moving_average
+Cleats | Pacific Asia,2017-09-02,0,0.0,moving_average
+Cleats | Pacific Asia,2017-09-03,0,0.0,moving_average
+Cleats | Pacific Asia,2017-09-04,0,0.0,moving_average
+Cleats | Pacific Asia,2017-09-05,0,0.0,moving_average
+Cleats | Pacific Asia,2017-09-06,0,0.0,moving_average
+Cleats | Pacific Asia,2017-09-07,0,0.0,moving_average
+Cleats | Pacific Asia,2017-09-08,0,0.0,moving_average
+Cleats | Pacific Asia,2017-09-09,0,0.0,moving_average
+Cleats | Pacific Asia,2017-09-10,0,0.0,moving_average
+Cleats | Pacific Asia,2017-09-11,0,0.0,moving_average
+Cleats | Pacific Asia,2017-09-12,0,0.0,moving_average
+Cleats | Pacific Asia,2017-09-13,0,0.0,moving_average
+Cleats | Pacific Asia,2017-09-14,0,0.0,moving_average
+Cleats | Pacific Asia,2017-09-15,0,0.0,moving_average
+Cleats | Pacific Asia,2017-09-16,0,0.0,moving_average
+Cleats | Pacific Asia,2017-09-17,0,0.0,moving_average
+Cleats | Pacific Asia,2017-09-18,0,0.0,moving_average
+Cleats | Pacific Asia,2017-09-19,0,0.0,moving_average
+Cleats | Pacific Asia,2017-09-20,0,0.0,moving_average
+Cleats | Pacific Asia,2017-09-21,0,0.0,moving_average
+Cleats | Pacific Asia,2017-09-22,0,0.0,moving_average
+Cleats | Pacific Asia,2017-09-23,0,0.0,moving_average
+Cleats | Pacific Asia,2017-09-24,0,0.0,moving_average
+Cleats | Pacific Asia,2017-09-25,0,0.0,moving_average
+Cleats | Pacific Asia,2017-09-26,0,0.0,moving_average
+Cleats | Pacific Asia,2017-09-27,0,0.0,moving_average
+Cleats | Pacific Asia,2017-09-28,0,0.0,moving_average
+Cleats | Pacific Asia,2017-09-29,0,0.0,moving_average
+Cleats | Pacific Asia,2017-09-30,0,0.0,moving_average
+Cleats | Pacific Asia,2017-10-01,0,0.0,moving_average
+Cleats | Pacific Asia,2017-10-02,0,0.0,moving_average
+Cleats | USCA,2017-08-04,0,0.0,moving_average
+Cleats | USCA,2017-08-05,0,0.0,moving_average
+Cleats | USCA,2017-08-06,0,0.0,moving_average
+Cleats | USCA,2017-08-07,0,0.0,moving_average
+Cleats | USCA,2017-08-08,0,0.0,moving_average
+Cleats | USCA,2017-08-09,0,0.0,moving_average
+Cleats | USCA,2017-08-10,0,0.0,moving_average
+Cleats | USCA,2017-08-11,0,0.0,moving_average
+Cleats | USCA,2017-08-12,0,0.0,moving_average
+Cleats | USCA,2017-08-13,0,0.0,moving_average
+Cleats | USCA,2017-08-14,0,0.0,moving_average
+Cleats | USCA,2017-08-15,0,0.0,moving_average
+Cleats | USCA,2017-08-16,0,0.0,moving_average
+Cleats | USCA,2017-08-17,0,0.0,moving_average
+Cleats | USCA,2017-08-18,0,0.0,moving_average
+Cleats | USCA,2017-08-19,0,0.0,moving_average
+Cleats | USCA,2017-08-20,0,0.0,moving_average
+Cleats | USCA,2017-08-21,0,0.0,moving_average
+Cleats | USCA,2017-08-22,0,0.0,moving_average
+Cleats | USCA,2017-08-23,0,0.0,moving_average
+Cleats | USCA,2017-08-24,0,0.0,moving_average
+Cleats | USCA,2017-08-25,0,0.0,moving_average
+Cleats | USCA,2017-08-26,0,0.0,moving_average
+Cleats | USCA,2017-08-27,0,0.0,moving_average
+Cleats | USCA,2017-08-28,0,0.0,moving_average
+Cleats | USCA,2017-08-29,0,0.0,moving_average
+Cleats | USCA,2017-08-30,0,0.0,moving_average
+Cleats | USCA,2017-08-31,0,0.0,moving_average
+Cleats | USCA,2017-09-01,0,0.0,moving_average
+Cleats | USCA,2017-09-02,0,0.0,moving_average
+Cleats | USCA,2017-09-03,0,0.0,moving_average
+Cleats | USCA,2017-09-04,0,0.0,moving_average
+Cleats | USCA,2017-09-05,0,0.0,moving_average
+Cleats | USCA,2017-09-06,0,0.0,moving_average
+Cleats | USCA,2017-09-07,0,0.0,moving_average
+Cleats | USCA,2017-09-08,0,0.0,moving_average
+Cleats | USCA,2017-09-09,0,0.0,moving_average
+Cleats | USCA,2017-09-10,0,0.0,moving_average
+Cleats | USCA,2017-09-11,0,0.0,moving_average
+Cleats | USCA,2017-09-12,0,0.0,moving_average
+Cleats | USCA,2017-09-13,0,0.0,moving_average
+Cleats | USCA,2017-09-14,0,0.0,moving_average
+Cleats | USCA,2017-09-15,0,0.0,moving_average
+Cleats | USCA,2017-09-16,0,0.0,moving_average
+Cleats | USCA,2017-09-17,0,0.0,moving_average
+Cleats | USCA,2017-09-18,0,0.0,moving_average
+Cleats | USCA,2017-09-19,0,0.0,moving_average
+Cleats | USCA,2017-09-20,0,0.0,moving_average
+Cleats | USCA,2017-09-21,0,0.0,moving_average
+Cleats | USCA,2017-09-22,0,0.0,moving_average
+Cleats | USCA,2017-09-23,0,0.0,moving_average
+Cleats | USCA,2017-09-24,0,0.0,moving_average
+Cleats | USCA,2017-09-25,0,0.0,moving_average
+Cleats | USCA,2017-09-26,0,0.0,moving_average
+Cleats | USCA,2017-09-27,0,0.0,moving_average
+Cleats | USCA,2017-09-28,0,0.0,moving_average
+Cleats | USCA,2017-09-29,0,0.0,moving_average
+Cleats | USCA,2017-09-30,0,0.0,moving_average
+Cleats | USCA,2017-10-01,0,0.0,moving_average
+Cleats | USCA,2017-10-02,0,0.0,moving_average
+Electronics | Europe,2017-08-04,0,0.0,moving_average
+Electronics | Europe,2017-08-05,0,0.0,moving_average
+Electronics | Europe,2017-08-06,0,0.0,moving_average
+Electronics | Europe,2017-08-07,0,0.0,moving_average
+Electronics | Europe,2017-08-08,0,0.0,moving_average
+Electronics | Europe,2017-08-09,0,0.0,moving_average
+Electronics | Europe,2017-08-10,0,0.0,moving_average
+Electronics | Europe,2017-08-11,0,0.0,moving_average
+Electronics | Europe,2017-08-12,0,0.0,moving_average
+Electronics | Europe,2017-08-13,0,0.0,moving_average
+Electronics | Europe,2017-08-14,0,0.0,moving_average
+Electronics | Europe,2017-08-15,0,0.0,moving_average
+Electronics | Europe,2017-08-16,0,0.0,moving_average
+Electronics | Europe,2017-08-17,0,0.0,moving_average
+Electronics | Europe,2017-08-18,0,0.0,moving_average
+Electronics | Europe,2017-08-19,0,0.0,moving_average
+Electronics | Europe,2017-08-20,0,0.0,moving_average
+Electronics | Europe,2017-08-21,0,0.0,moving_average
+Electronics | Europe,2017-08-22,0,0.0,moving_average
+Electronics | Europe,2017-08-23,0,0.0,moving_average
+Electronics | Europe,2017-08-24,0,0.0,moving_average
+Electronics | Europe,2017-08-25,0,0.0,moving_average
+Electronics | Europe,2017-08-26,0,0.0,moving_average
+Electronics | Europe,2017-08-27,0,0.0,moving_average
+Electronics | Europe,2017-08-28,0,0.0,moving_average
+Electronics | Europe,2017-08-29,0,0.0,moving_average
+Electronics | Europe,2017-08-30,0,0.0,moving_average
+Electronics | Europe,2017-08-31,0,0.0,moving_average
+Electronics | Europe,2017-09-01,0,0.0,moving_average
+Electronics | Europe,2017-09-02,0,0.0,moving_average
+Electronics | Europe,2017-09-03,0,0.0,moving_average
+Electronics | Europe,2017-09-04,0,0.0,moving_average
+Electronics | Europe,2017-09-05,0,0.0,moving_average
+Electronics | Europe,2017-09-06,0,0.0,moving_average
+Electronics | Europe,2017-09-07,0,0.0,moving_average
+Electronics | Europe,2017-09-08,0,0.0,moving_average
+Electronics | Europe,2017-09-09,0,0.0,moving_average
+Electronics | Europe,2017-09-10,0,0.0,moving_average
+Electronics | Europe,2017-09-11,0,0.0,moving_average
+Electronics | Europe,2017-09-12,0,0.0,moving_average
+Electronics | Europe,2017-09-13,0,0.0,moving_average
+Electronics | Europe,2017-09-14,0,0.0,moving_average
+Electronics | Europe,2017-09-15,0,0.0,moving_average
+Electronics | Europe,2017-09-16,0,0.0,moving_average
+Electronics | Europe,2017-09-17,0,0.0,moving_average
+Electronics | Europe,2017-09-18,0,0.0,moving_average
+Electronics | Europe,2017-09-19,0,0.0,moving_average
+Electronics | Europe,2017-09-20,0,0.0,moving_average
+Electronics | Europe,2017-09-21,0,0.0,moving_average
+Electronics | Europe,2017-09-22,0,0.0,moving_average
+Electronics | Europe,2017-09-23,0,0.0,moving_average
+Electronics | Europe,2017-09-24,0,0.0,moving_average
+Electronics | Europe,2017-09-25,0,0.0,moving_average
+Electronics | Europe,2017-09-26,0,0.0,moving_average
+Electronics | Europe,2017-09-27,0,0.0,moving_average
+Electronics | Europe,2017-09-28,0,0.0,moving_average
+Electronics | Europe,2017-09-29,0,0.0,moving_average
+Electronics | Europe,2017-09-30,0,0.0,moving_average
+Electronics | Europe,2017-10-01,0,0.0,moving_average
+Electronics | Europe,2017-10-02,0,0.0,moving_average
+Electronics | LATAM,2017-08-04,0,0.0,moving_average
+Electronics | LATAM,2017-08-05,0,0.0,moving_average
+Electronics | LATAM,2017-08-06,0,0.0,moving_average
+Electronics | LATAM,2017-08-07,0,0.0,moving_average
+Electronics | LATAM,2017-08-08,0,0.0,moving_average
+Electronics | LATAM,2017-08-09,0,0.0,moving_average
+Electronics | LATAM,2017-08-10,0,0.0,moving_average
+Electronics | LATAM,2017-08-11,0,0.0,moving_average
+Electronics | LATAM,2017-08-12,0,0.0,moving_average
+Electronics | LATAM,2017-08-13,0,0.0,moving_average
+Electronics | LATAM,2017-08-14,0,0.0,moving_average
+Electronics | LATAM,2017-08-15,0,0.0,moving_average
+Electronics | LATAM,2017-08-16,0,0.0,moving_average
+Electronics | LATAM,2017-08-17,0,0.0,moving_average
+Electronics | LATAM,2017-08-18,0,0.0,moving_average
+Electronics | LATAM,2017-08-19,0,0.0,moving_average
+Electronics | LATAM,2017-08-20,0,0.0,moving_average
+Electronics | LATAM,2017-08-21,0,0.0,moving_average
+Electronics | LATAM,2017-08-22,0,0.0,moving_average
+Electronics | LATAM,2017-08-23,0,0.0,moving_average
+Electronics | LATAM,2017-08-24,0,0.0,moving_average
+Electronics | LATAM,2017-08-25,0,0.0,moving_average
+Electronics | LATAM,2017-08-26,0,0.0,moving_average
+Electronics | LATAM,2017-08-27,0,0.0,moving_average
+Electronics | LATAM,2017-08-28,0,0.0,moving_average
+Electronics | LATAM,2017-08-29,0,0.0,moving_average
+Electronics | LATAM,2017-08-30,0,0.0,moving_average
+Electronics | LATAM,2017-08-31,0,0.0,moving_average
+Electronics | LATAM,2017-09-01,0,0.0,moving_average
+Electronics | LATAM,2017-09-02,0,0.0,moving_average
+Electronics | LATAM,2017-09-03,0,0.0,moving_average
+Electronics | LATAM,2017-09-04,0,0.0,moving_average
+Electronics | LATAM,2017-09-05,0,0.0,moving_average
+Electronics | LATAM,2017-09-06,0,0.0,moving_average
+Electronics | LATAM,2017-09-07,0,0.0,moving_average
+Electronics | LATAM,2017-09-08,0,0.0,moving_average
+Electronics | LATAM,2017-09-09,0,0.0,moving_average
+Electronics | LATAM,2017-09-10,0,0.0,moving_average
+Electronics | LATAM,2017-09-11,0,0.0,moving_average
+Electronics | LATAM,2017-09-12,0,0.0,moving_average
+Electronics | LATAM,2017-09-13,0,0.0,moving_average
+Electronics | LATAM,2017-09-14,0,0.0,moving_average
+Electronics | LATAM,2017-09-15,0,0.0,moving_average
+Electronics | LATAM,2017-09-16,0,0.0,moving_average
+Electronics | LATAM,2017-09-17,0,0.0,moving_average
+Electronics | LATAM,2017-09-18,0,0.0,moving_average
+Electronics | LATAM,2017-09-19,0,0.0,moving_average
+Electronics | LATAM,2017-09-20,0,0.0,moving_average
+Electronics | LATAM,2017-09-21,0,0.0,moving_average
+Electronics | LATAM,2017-09-22,0,0.0,moving_average
+Electronics | LATAM,2017-09-23,0,0.0,moving_average
+Electronics | LATAM,2017-09-24,0,0.0,moving_average
+Electronics | LATAM,2017-09-25,0,0.0,moving_average
+Electronics | LATAM,2017-09-26,0,0.0,moving_average
+Electronics | LATAM,2017-09-27,0,0.0,moving_average
+Electronics | LATAM,2017-09-28,0,0.0,moving_average
+Electronics | LATAM,2017-09-29,0,0.0,moving_average
+Electronics | LATAM,2017-09-30,0,0.0,moving_average
+Electronics | LATAM,2017-10-01,0,0.0,moving_average
+Electronics | LATAM,2017-10-02,0,0.0,moving_average
+Electronics | Pacific Asia,2017-08-04,0,0.0,moving_average
+Electronics | Pacific Asia,2017-08-05,0,0.0,moving_average
+Electronics | Pacific Asia,2017-08-06,0,0.0,moving_average
+Electronics | Pacific Asia,2017-08-07,0,0.0,moving_average
+Electronics | Pacific Asia,2017-08-08,0,0.0,moving_average
+Electronics | Pacific Asia,2017-08-09,0,0.0,moving_average
+Electronics | Pacific Asia,2017-08-10,0,0.0,moving_average
+Electronics | Pacific Asia,2017-08-11,0,0.0,moving_average
+Electronics | Pacific Asia,2017-08-12,0,0.0,moving_average
+Electronics | Pacific Asia,2017-08-13,0,0.0,moving_average
+Electronics | Pacific Asia,2017-08-14,0,0.0,moving_average
+Electronics | Pacific Asia,2017-08-15,0,0.0,moving_average
+Electronics | Pacific Asia,2017-08-16,0,0.0,moving_average
+Electronics | Pacific Asia,2017-08-17,0,0.0,moving_average
+Electronics | Pacific Asia,2017-08-18,0,0.0,moving_average
+Electronics | Pacific Asia,2017-08-19,0,0.0,moving_average
+Electronics | Pacific Asia,2017-08-20,0,0.0,moving_average
+Electronics | Pacific Asia,2017-08-21,0,0.0,moving_average
+Electronics | Pacific Asia,2017-08-22,0,0.0,moving_average
+Electronics | Pacific Asia,2017-08-23,0,0.0,moving_average
+Electronics | Pacific Asia,2017-08-24,0,0.0,moving_average
+Electronics | Pacific Asia,2017-08-25,0,0.0,moving_average
+Electronics | Pacific Asia,2017-08-26,0,0.0,moving_average
+Electronics | Pacific Asia,2017-08-27,0,0.0,moving_average
+Electronics | Pacific Asia,2017-08-28,0,0.0,moving_average
+Electronics | Pacific Asia,2017-08-29,0,0.0,moving_average
+Electronics | Pacific Asia,2017-08-30,0,0.0,moving_average
+Electronics | Pacific Asia,2017-08-31,0,0.0,moving_average
+Electronics | Pacific Asia,2017-09-01,0,0.0,moving_average
+Electronics | Pacific Asia,2017-09-02,0,0.0,moving_average
+Electronics | Pacific Asia,2017-09-03,0,0.0,moving_average
+Electronics | Pacific Asia,2017-09-04,0,0.0,moving_average
+Electronics | Pacific Asia,2017-09-05,0,0.0,moving_average
+Electronics | Pacific Asia,2017-09-06,0,0.0,moving_average
+Electronics | Pacific Asia,2017-09-07,0,0.0,moving_average
+Electronics | Pacific Asia,2017-09-08,0,0.0,moving_average
+Electronics | Pacific Asia,2017-09-09,0,0.0,moving_average
+Electronics | Pacific Asia,2017-09-10,0,0.0,moving_average
+Electronics | Pacific Asia,2017-09-11,0,0.0,moving_average
+Electronics | Pacific Asia,2017-09-12,0,0.0,moving_average
+Electronics | Pacific Asia,2017-09-13,0,0.0,moving_average
+Electronics | Pacific Asia,2017-09-14,0,0.0,moving_average
+Electronics | Pacific Asia,2017-09-15,0,0.0,moving_average
+Electronics | Pacific Asia,2017-09-16,0,0.0,moving_average
+Electronics | Pacific Asia,2017-09-17,0,0.0,moving_average
+Electronics | Pacific Asia,2017-09-18,0,0.0,moving_average
+Electronics | Pacific Asia,2017-09-19,0,0.0,moving_average
+Electronics | Pacific Asia,2017-09-20,0,0.0,moving_average
+Electronics | Pacific Asia,2017-09-21,0,0.0,moving_average
+Electronics | Pacific Asia,2017-09-22,0,0.0,moving_average
+Electronics | Pacific Asia,2017-09-23,0,0.0,moving_average
+Electronics | Pacific Asia,2017-09-24,0,0.0,moving_average
+Electronics | Pacific Asia,2017-09-25,0,0.0,moving_average
+Electronics | Pacific Asia,2017-09-26,0,0.0,moving_average
+Electronics | Pacific Asia,2017-09-27,0,0.0,moving_average
+Electronics | Pacific Asia,2017-09-28,0,0.0,moving_average
+Electronics | Pacific Asia,2017-09-29,0,0.0,moving_average
+Electronics | Pacific Asia,2017-09-30,0,0.0,moving_average
+Electronics | Pacific Asia,2017-10-01,0,0.0,moving_average
+Electronics | Pacific Asia,2017-10-02,0,0.0,moving_average
+Fishing | Europe,2017-08-04,19,17.71,moving_average
+Fishing | Europe,2017-08-05,9,17.71,moving_average
+Fishing | Europe,2017-08-06,16,17.71,moving_average
+Fishing | Europe,2017-08-07,17,17.71,moving_average
+Fishing | Europe,2017-08-08,22,17.71,moving_average
+Fishing | Europe,2017-08-09,15,17.71,moving_average
+Fishing | Europe,2017-08-10,22,17.71,moving_average
+Fishing | Europe,2017-08-11,21,17.71,moving_average
+Fishing | Europe,2017-08-12,14,17.71,moving_average
+Fishing | Europe,2017-08-13,17,17.71,moving_average
+Fishing | Europe,2017-08-14,19,17.71,moving_average
+Fishing | Europe,2017-08-15,15,17.71,moving_average
+Fishing | Europe,2017-08-16,11,17.71,moving_average
+Fishing | Europe,2017-08-17,23,17.71,moving_average
+Fishing | Europe,2017-08-18,19,17.71,moving_average
+Fishing | Europe,2017-08-19,19,17.71,moving_average
+Fishing | Europe,2017-08-20,16,17.71,moving_average
+Fishing | Europe,2017-08-21,20,17.71,moving_average
+Fishing | Europe,2017-08-22,18,17.71,moving_average
+Fishing | Europe,2017-08-23,21,17.71,moving_average
+Fishing | Europe,2017-08-24,21,17.71,moving_average
+Fishing | Europe,2017-08-25,19,17.71,moving_average
+Fishing | Europe,2017-08-26,25,17.71,moving_average
+Fishing | Europe,2017-08-27,14,17.71,moving_average
+Fishing | Europe,2017-08-28,18,17.71,moving_average
+Fishing | Europe,2017-08-29,9,17.71,moving_average
+Fishing | Europe,2017-08-30,19,17.71,moving_average
+Fishing | Europe,2017-08-31,8,17.71,moving_average
+Fishing | Europe,2017-09-01,12,17.71,moving_average
+Fishing | Europe,2017-09-02,12,17.71,moving_average
+Fishing | Europe,2017-09-03,17,17.71,moving_average
+Fishing | Europe,2017-09-04,16,17.71,moving_average
+Fishing | Europe,2017-09-05,18,17.71,moving_average
+Fishing | Europe,2017-09-06,16,17.71,moving_average
+Fishing | Europe,2017-09-07,12,17.71,moving_average
+Fishing | Europe,2017-09-08,11,17.71,moving_average
+Fishing | Europe,2017-09-09,14,17.71,moving_average
+Fishing | Europe,2017-09-10,20,17.71,moving_average
+Fishing | Europe,2017-09-11,26,17.71,moving_average
+Fishing | Europe,2017-09-12,27,17.71,moving_average
+Fishing | Europe,2017-09-13,13,17.71,moving_average
+Fishing | Europe,2017-09-14,20,17.71,moving_average
+Fishing | Europe,2017-09-15,11,17.71,moving_average
+Fishing | Europe,2017-09-16,20,17.71,moving_average
+Fishing | Europe,2017-09-17,23,17.71,moving_average
+Fishing | Europe,2017-09-18,24,17.71,moving_average
+Fishing | Europe,2017-09-19,14,17.71,moving_average
+Fishing | Europe,2017-09-20,19,17.71,moving_average
+Fishing | Europe,2017-09-21,23,17.71,moving_average
+Fishing | Europe,2017-09-22,20,17.71,moving_average
+Fishing | Europe,2017-09-23,13,17.71,moving_average
+Fishing | Europe,2017-09-24,24,17.71,moving_average
+Fishing | Europe,2017-09-25,19,17.71,moving_average
+Fishing | Europe,2017-09-26,15,17.71,moving_average
+Fishing | Europe,2017-09-27,19,17.71,moving_average
+Fishing | Europe,2017-09-28,26,17.71,moving_average
+Fishing | Europe,2017-09-29,19,17.71,moving_average
+Fishing | Europe,2017-09-30,17,17.71,moving_average
+Fishing | Europe,2017-10-01,13,17.71,moving_average
+Fishing | Europe,2017-10-02,2,17.71,moving_average
+Fishing | LATAM,2017-08-04,0,0.0,moving_average
+Fishing | LATAM,2017-08-05,0,0.0,moving_average
+Fishing | LATAM,2017-08-06,0,0.0,moving_average
+Fishing | LATAM,2017-08-07,0,0.0,moving_average
+Fishing | LATAM,2017-08-08,0,0.0,moving_average
+Fishing | LATAM,2017-08-09,0,0.0,moving_average
+Fishing | LATAM,2017-08-10,0,0.0,moving_average
+Fishing | LATAM,2017-08-11,0,0.0,moving_average
+Fishing | LATAM,2017-08-12,0,0.0,moving_average
+Fishing | LATAM,2017-08-13,0,0.0,moving_average
+Fishing | LATAM,2017-08-14,0,0.0,moving_average
+Fishing | LATAM,2017-08-15,0,0.0,moving_average
+Fishing | LATAM,2017-08-16,0,0.0,moving_average
+Fishing | LATAM,2017-08-17,0,0.0,moving_average
+Fishing | LATAM,2017-08-18,0,0.0,moving_average
+Fishing | LATAM,2017-08-19,0,0.0,moving_average
+Fishing | LATAM,2017-08-20,0,0.0,moving_average
+Fishing | LATAM,2017-08-21,0,0.0,moving_average
+Fishing | LATAM,2017-08-22,0,0.0,moving_average
+Fishing | LATAM,2017-08-23,0,0.0,moving_average
+Fishing | LATAM,2017-08-24,0,0.0,moving_average
+Fishing | LATAM,2017-08-25,0,0.0,moving_average
+Fishing | LATAM,2017-08-26,0,0.0,moving_average
+Fishing | LATAM,2017-08-27,0,0.0,moving_average
+Fishing | LATAM,2017-08-28,0,0.0,moving_average
+Fishing | LATAM,2017-08-29,0,0.0,moving_average
+Fishing | LATAM,2017-08-30,0,0.0,moving_average
+Fishing | LATAM,2017-08-31,0,0.0,moving_average
+Fishing | LATAM,2017-09-01,0,0.0,moving_average
+Fishing | LATAM,2017-09-02,0,0.0,moving_average
+Fishing | LATAM,2017-09-03,0,0.0,moving_average
+Fishing | LATAM,2017-09-04,0,0.0,moving_average
+Fishing | LATAM,2017-09-05,0,0.0,moving_average
+Fishing | LATAM,2017-09-06,0,0.0,moving_average
+Fishing | LATAM,2017-09-07,0,0.0,moving_average
+Fishing | LATAM,2017-09-08,0,0.0,moving_average
+Fishing | LATAM,2017-09-09,0,0.0,moving_average
+Fishing | LATAM,2017-09-10,0,0.0,moving_average
+Fishing | LATAM,2017-09-11,0,0.0,moving_average
+Fishing | LATAM,2017-09-12,0,0.0,moving_average
+Fishing | LATAM,2017-09-13,0,0.0,moving_average
+Fishing | LATAM,2017-09-14,0,0.0,moving_average
+Fishing | LATAM,2017-09-15,0,0.0,moving_average
+Fishing | LATAM,2017-09-16,0,0.0,moving_average
+Fishing | LATAM,2017-09-17,0,0.0,moving_average
+Fishing | LATAM,2017-09-18,0,0.0,moving_average
+Fishing | LATAM,2017-09-19,0,0.0,moving_average
+Fishing | LATAM,2017-09-20,0,0.0,moving_average
+Fishing | LATAM,2017-09-21,0,0.0,moving_average
+Fishing | LATAM,2017-09-22,0,0.0,moving_average
+Fishing | LATAM,2017-09-23,0,0.0,moving_average
+Fishing | LATAM,2017-09-24,0,0.0,moving_average
+Fishing | LATAM,2017-09-25,0,0.0,moving_average
+Fishing | LATAM,2017-09-26,0,0.0,moving_average
+Fishing | LATAM,2017-09-27,0,0.0,moving_average
+Fishing | LATAM,2017-09-28,0,0.0,moving_average
+Fishing | LATAM,2017-09-29,0,0.0,moving_average
+Fishing | LATAM,2017-09-30,0,0.0,moving_average
+Fishing | LATAM,2017-10-01,0,0.0,moving_average
+Fishing | LATAM,2017-10-02,0,0.0,moving_average
+Fishing | Pacific Asia,2017-08-04,0,0.0,moving_average
+Fishing | Pacific Asia,2017-08-05,0,0.0,moving_average
+Fishing | Pacific Asia,2017-08-06,0,0.0,moving_average
+Fishing | Pacific Asia,2017-08-07,0,0.0,moving_average
+Fishing | Pacific Asia,2017-08-08,0,0.0,moving_average
+Fishing | Pacific Asia,2017-08-09,0,0.0,moving_average
+Fishing | Pacific Asia,2017-08-10,0,0.0,moving_average
+Fishing | Pacific Asia,2017-08-11,0,0.0,moving_average
+Fishing | Pacific Asia,2017-08-12,0,0.0,moving_average
+Fishing | Pacific Asia,2017-08-13,0,0.0,moving_average
+Fishing | Pacific Asia,2017-08-14,0,0.0,moving_average
+Fishing | Pacific Asia,2017-08-15,0,0.0,moving_average
+Fishing | Pacific Asia,2017-08-16,0,0.0,moving_average
+Fishing | Pacific Asia,2017-08-17,0,0.0,moving_average
+Fishing | Pacific Asia,2017-08-18,0,0.0,moving_average
+Fishing | Pacific Asia,2017-08-19,0,0.0,moving_average
+Fishing | Pacific Asia,2017-08-20,0,0.0,moving_average
+Fishing | Pacific Asia,2017-08-21,0,0.0,moving_average
+Fishing | Pacific Asia,2017-08-22,0,0.0,moving_average
+Fishing | Pacific Asia,2017-08-23,0,0.0,moving_average
+Fishing | Pacific Asia,2017-08-24,0,0.0,moving_average
+Fishing | Pacific Asia,2017-08-25,0,0.0,moving_average
+Fishing | Pacific Asia,2017-08-26,0,0.0,moving_average
+Fishing | Pacific Asia,2017-08-27,0,0.0,moving_average
+Fishing | Pacific Asia,2017-08-28,0,0.0,moving_average
+Fishing | Pacific Asia,2017-08-29,0,0.0,moving_average
+Fishing | Pacific Asia,2017-08-30,0,0.0,moving_average
+Fishing | Pacific Asia,2017-08-31,0,0.0,moving_average
+Fishing | Pacific Asia,2017-09-01,0,0.0,moving_average
+Fishing | Pacific Asia,2017-09-02,0,0.0,moving_average
+Fishing | Pacific Asia,2017-09-03,0,0.0,moving_average
+Fishing | Pacific Asia,2017-09-04,0,0.0,moving_average
+Fishing | Pacific Asia,2017-09-05,0,0.0,moving_average
+Fishing | Pacific Asia,2017-09-06,0,0.0,moving_average
+Fishing | Pacific Asia,2017-09-07,0,0.0,moving_average
+Fishing | Pacific Asia,2017-09-08,0,0.0,moving_average
+Fishing | Pacific Asia,2017-09-09,0,0.0,moving_average
+Fishing | Pacific Asia,2017-09-10,0,0.0,moving_average
+Fishing | Pacific Asia,2017-09-11,0,0.0,moving_average
+Fishing | Pacific Asia,2017-09-12,0,0.0,moving_average
+Fishing | Pacific Asia,2017-09-13,0,0.0,moving_average
+Fishing | Pacific Asia,2017-09-14,0,0.0,moving_average
+Fishing | Pacific Asia,2017-09-15,0,0.0,moving_average
+Fishing | Pacific Asia,2017-09-16,0,0.0,moving_average
+Fishing | Pacific Asia,2017-09-17,0,0.0,moving_average
+Fishing | Pacific Asia,2017-09-18,0,0.0,moving_average
+Fishing | Pacific Asia,2017-09-19,0,0.0,moving_average
+Fishing | Pacific Asia,2017-09-20,0,0.0,moving_average
+Fishing | Pacific Asia,2017-09-21,0,0.0,moving_average
+Fishing | Pacific Asia,2017-09-22,0,0.0,moving_average
+Fishing | Pacific Asia,2017-09-23,0,0.0,moving_average
+Fishing | Pacific Asia,2017-09-24,0,0.0,moving_average
+Fishing | Pacific Asia,2017-09-25,0,0.0,moving_average
+Fishing | Pacific Asia,2017-09-26,0,0.0,moving_average
+Fishing | Pacific Asia,2017-09-27,0,0.0,moving_average
+Fishing | Pacific Asia,2017-09-28,0,0.0,moving_average
+Fishing | Pacific Asia,2017-09-29,0,0.0,moving_average
+Fishing | Pacific Asia,2017-09-30,0,0.0,moving_average
+Fishing | Pacific Asia,2017-10-01,0,0.0,moving_average
+Fishing | Pacific Asia,2017-10-02,0,0.0,moving_average
+Fishing | USCA,2017-08-04,0,0.0,moving_average
+Fishing | USCA,2017-08-05,0,0.0,moving_average
+Fishing | USCA,2017-08-06,0,0.0,moving_average
+Fishing | USCA,2017-08-07,0,0.0,moving_average
+Fishing | USCA,2017-08-08,0,0.0,moving_average
+Fishing | USCA,2017-08-09,0,0.0,moving_average
+Fishing | USCA,2017-08-10,0,0.0,moving_average
+Fishing | USCA,2017-08-11,0,0.0,moving_average
+Fishing | USCA,2017-08-12,0,0.0,moving_average
+Fishing | USCA,2017-08-13,0,0.0,moving_average
+Fishing | USCA,2017-08-14,0,0.0,moving_average
+Fishing | USCA,2017-08-15,0,0.0,moving_average
+Fishing | USCA,2017-08-16,0,0.0,moving_average
+Fishing | USCA,2017-08-17,0,0.0,moving_average
+Fishing | USCA,2017-08-18,0,0.0,moving_average
+Fishing | USCA,2017-08-19,0,0.0,moving_average
+Fishing | USCA,2017-08-20,0,0.0,moving_average
+Fishing | USCA,2017-08-21,0,0.0,moving_average
+Fishing | USCA,2017-08-22,0,0.0,moving_average
+Fishing | USCA,2017-08-23,0,0.0,moving_average
+Fishing | USCA,2017-08-24,0,0.0,moving_average
+Fishing | USCA,2017-08-25,0,0.0,moving_average
+Fishing | USCA,2017-08-26,0,0.0,moving_average
+Fishing | USCA,2017-08-27,0,0.0,moving_average
+Fishing | USCA,2017-08-28,0,0.0,moving_average
+Fishing | USCA,2017-08-29,0,0.0,moving_average
+Fishing | USCA,2017-08-30,0,0.0,moving_average
+Fishing | USCA,2017-08-31,0,0.0,moving_average
+Fishing | USCA,2017-09-01,0,0.0,moving_average
+Fishing | USCA,2017-09-02,0,0.0,moving_average
+Fishing | USCA,2017-09-03,0,0.0,moving_average
+Fishing | USCA,2017-09-04,0,0.0,moving_average
+Fishing | USCA,2017-09-05,0,0.0,moving_average
+Fishing | USCA,2017-09-06,0,0.0,moving_average
+Fishing | USCA,2017-09-07,0,0.0,moving_average
+Fishing | USCA,2017-09-08,0,0.0,moving_average
+Fishing | USCA,2017-09-09,0,0.0,moving_average
+Fishing | USCA,2017-09-10,0,0.0,moving_average
+Fishing | USCA,2017-09-11,0,0.0,moving_average
+Fishing | USCA,2017-09-12,0,0.0,moving_average
+Fishing | USCA,2017-09-13,0,0.0,moving_average
+Fishing | USCA,2017-09-14,0,0.0,moving_average
+Fishing | USCA,2017-09-15,0,0.0,moving_average
+Fishing | USCA,2017-09-16,0,0.0,moving_average
+Fishing | USCA,2017-09-17,0,0.0,moving_average
+Fishing | USCA,2017-09-18,0,0.0,moving_average
+Fishing | USCA,2017-09-19,0,0.0,moving_average
+Fishing | USCA,2017-09-20,0,0.0,moving_average
+Fishing | USCA,2017-09-21,0,0.0,moving_average
+Fishing | USCA,2017-09-22,0,0.0,moving_average
+Fishing | USCA,2017-09-23,0,0.0,moving_average
+Fishing | USCA,2017-09-24,0,0.0,moving_average
+Fishing | USCA,2017-09-25,0,0.0,moving_average
+Fishing | USCA,2017-09-26,0,0.0,moving_average
+Fishing | USCA,2017-09-27,0,0.0,moving_average
+Fishing | USCA,2017-09-28,0,0.0,moving_average
+Fishing | USCA,2017-09-29,0,0.0,moving_average
+Fishing | USCA,2017-09-30,0,0.0,moving_average
+Fishing | USCA,2017-10-01,0,0.0,moving_average
+Fishing | USCA,2017-10-02,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-08-04,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-08-05,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-08-06,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-08-07,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-08-08,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-08-09,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-08-10,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-08-11,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-08-12,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-08-13,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-08-14,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-08-15,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-08-16,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-08-17,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-08-18,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-08-19,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-08-20,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-08-21,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-08-22,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-08-23,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-08-24,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-08-25,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-08-26,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-08-27,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-08-28,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-08-29,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-08-30,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-08-31,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-09-01,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-09-02,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-09-03,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-09-04,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-09-05,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-09-06,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-09-07,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-09-08,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-09-09,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-09-10,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-09-11,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-09-12,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-09-13,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-09-14,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-09-15,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-09-16,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-09-17,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-09-18,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-09-19,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-09-20,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-09-21,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-09-22,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-09-23,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-09-24,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-09-25,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-09-26,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-09-27,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-09-28,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-09-29,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-09-30,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-10-01,0,0.0,moving_average
+Girls' Apparel | LATAM,2017-10-02,0,0.0,moving_average
+Golf Balls | LATAM,2017-08-04,0,0.0,moving_average
+Golf Balls | LATAM,2017-08-05,0,0.0,moving_average
+Golf Balls | LATAM,2017-08-06,0,0.0,moving_average
+Golf Balls | LATAM,2017-08-07,0,0.0,moving_average
+Golf Balls | LATAM,2017-08-08,0,0.0,moving_average
+Golf Balls | LATAM,2017-08-09,0,0.0,moving_average
+Golf Balls | LATAM,2017-08-10,0,0.0,moving_average
+Golf Balls | LATAM,2017-08-11,0,0.0,moving_average
+Golf Balls | LATAM,2017-08-12,0,0.0,moving_average
+Golf Balls | LATAM,2017-08-13,0,0.0,moving_average
+Golf Balls | LATAM,2017-08-14,0,0.0,moving_average
+Golf Balls | LATAM,2017-08-15,0,0.0,moving_average
+Golf Balls | LATAM,2017-08-16,0,0.0,moving_average
+Golf Balls | LATAM,2017-08-17,0,0.0,moving_average
+Golf Balls | LATAM,2017-08-18,0,0.0,moving_average
+Golf Balls | LATAM,2017-08-19,0,0.0,moving_average
+Golf Balls | LATAM,2017-08-20,0,0.0,moving_average
+Golf Balls | LATAM,2017-08-21,0,0.0,moving_average
+Golf Balls | LATAM,2017-08-22,0,0.0,moving_average
+Golf Balls | LATAM,2017-08-23,0,0.0,moving_average
+Golf Balls | LATAM,2017-08-24,0,0.0,moving_average
+Golf Balls | LATAM,2017-08-25,0,0.0,moving_average
+Golf Balls | LATAM,2017-08-26,0,0.0,moving_average
+Golf Balls | LATAM,2017-08-27,0,0.0,moving_average
+Golf Balls | LATAM,2017-08-28,0,0.0,moving_average
+Golf Balls | LATAM,2017-08-29,0,0.0,moving_average
+Golf Balls | LATAM,2017-08-30,0,0.0,moving_average
+Golf Balls | LATAM,2017-08-31,0,0.0,moving_average
+Golf Balls | LATAM,2017-09-01,0,0.0,moving_average
+Golf Balls | LATAM,2017-09-02,0,0.0,moving_average
+Golf Balls | LATAM,2017-09-03,0,0.0,moving_average
+Golf Balls | LATAM,2017-09-04,0,0.0,moving_average
+Golf Balls | LATAM,2017-09-05,0,0.0,moving_average
+Golf Balls | LATAM,2017-09-06,0,0.0,moving_average
+Golf Balls | LATAM,2017-09-07,0,0.0,moving_average
+Golf Balls | LATAM,2017-09-08,0,0.0,moving_average
+Golf Balls | LATAM,2017-09-09,0,0.0,moving_average
+Golf Balls | LATAM,2017-09-10,0,0.0,moving_average
+Golf Balls | LATAM,2017-09-11,0,0.0,moving_average
+Golf Balls | LATAM,2017-09-12,0,0.0,moving_average
+Golf Balls | LATAM,2017-09-13,0,0.0,moving_average
+Golf Balls | LATAM,2017-09-14,0,0.0,moving_average
+Golf Balls | LATAM,2017-09-15,0,0.0,moving_average
+Golf Balls | LATAM,2017-09-16,0,0.0,moving_average
+Golf Balls | LATAM,2017-09-17,0,0.0,moving_average
+Golf Balls | LATAM,2017-09-18,0,0.0,moving_average
+Golf Balls | LATAM,2017-09-19,0,0.0,moving_average
+Golf Balls | LATAM,2017-09-20,0,0.0,moving_average
+Golf Balls | LATAM,2017-09-21,0,0.0,moving_average
+Golf Balls | LATAM,2017-09-22,0,0.0,moving_average
+Golf Balls | LATAM,2017-09-23,0,0.0,moving_average
+Golf Balls | LATAM,2017-09-24,0,0.0,moving_average
+Golf Balls | LATAM,2017-09-25,0,0.0,moving_average
+Golf Balls | LATAM,2017-09-26,0,0.0,moving_average
+Golf Balls | LATAM,2017-09-27,0,0.0,moving_average
+Golf Balls | LATAM,2017-09-28,0,0.0,moving_average
+Golf Balls | LATAM,2017-09-29,0,0.0,moving_average
+Golf Balls | LATAM,2017-09-30,0,0.0,moving_average
+Golf Balls | LATAM,2017-10-01,0,0.0,moving_average
+Golf Balls | LATAM,2017-10-02,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-08-04,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-08-05,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-08-06,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-08-07,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-08-08,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-08-09,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-08-10,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-08-11,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-08-12,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-08-13,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-08-14,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-08-15,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-08-16,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-08-17,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-08-18,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-08-19,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-08-20,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-08-21,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-08-22,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-08-23,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-08-24,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-08-25,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-08-26,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-08-27,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-08-28,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-08-29,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-08-30,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-08-31,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-09-01,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-09-02,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-09-03,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-09-04,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-09-05,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-09-06,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-09-07,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-09-08,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-09-09,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-09-10,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-09-11,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-09-12,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-09-13,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-09-14,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-09-15,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-09-16,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-09-17,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-09-18,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-09-19,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-09-20,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-09-21,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-09-22,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-09-23,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-09-24,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-09-25,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-09-26,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-09-27,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-09-28,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-09-29,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-09-30,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-10-01,0,0.0,moving_average
+Golf Balls | Pacific Asia,2017-10-02,0,0.0,moving_average
+Golf Gloves | Europe,2017-08-04,2,1.55,croston
+Golf Gloves | Europe,2017-08-05,9,1.55,croston
+Golf Gloves | Europe,2017-08-06,1,1.55,croston
+Golf Gloves | Europe,2017-08-07,5,1.55,croston
+Golf Gloves | Europe,2017-08-08,0,1.55,croston
+Golf Gloves | Europe,2017-08-09,6,1.55,croston
+Golf Gloves | Europe,2017-08-10,6,1.55,croston
+Golf Gloves | Europe,2017-08-11,0,1.55,croston
+Golf Gloves | Europe,2017-08-12,1,1.55,croston
+Golf Gloves | Europe,2017-08-13,3,1.55,croston
+Golf Gloves | Europe,2017-08-14,0,1.55,croston
+Golf Gloves | Europe,2017-08-15,3,1.55,croston
+Golf Gloves | Europe,2017-08-16,1,1.55,croston
+Golf Gloves | Europe,2017-08-17,2,1.55,croston
+Golf Gloves | Europe,2017-08-18,3,1.55,croston
+Golf Gloves | Europe,2017-08-19,0,1.55,croston
+Golf Gloves | Europe,2017-08-20,1,1.55,croston
+Golf Gloves | Europe,2017-08-21,0,1.55,croston
+Golf Gloves | Europe,2017-08-22,3,1.55,croston
+Golf Gloves | Europe,2017-08-23,1,1.55,croston
+Golf Gloves | Europe,2017-08-24,3,1.55,croston
+Golf Gloves | Europe,2017-08-25,0,1.55,croston
+Golf Gloves | Europe,2017-08-26,0,1.55,croston
+Golf Gloves | Europe,2017-08-27,4,1.55,croston
+Golf Gloves | Europe,2017-08-28,4,1.55,croston
+Golf Gloves | Europe,2017-08-29,4,1.55,croston
+Golf Gloves | Europe,2017-08-30,0,1.55,croston
+Golf Gloves | Europe,2017-08-31,7,1.55,croston
+Golf Gloves | Europe,2017-09-01,4,1.55,croston
+Golf Gloves | Europe,2017-09-02,1,1.55,croston
+Golf Gloves | Europe,2017-09-03,1,1.55,croston
+Golf Gloves | Europe,2017-09-04,2,1.55,croston
+Golf Gloves | Europe,2017-09-05,5,1.55,croston
+Golf Gloves | Europe,2017-09-06,1,1.55,croston
+Golf Gloves | Europe,2017-09-07,2,1.55,croston
+Golf Gloves | Europe,2017-09-08,5,1.55,croston
+Golf Gloves | Europe,2017-09-09,7,1.55,croston
+Golf Gloves | Europe,2017-09-10,2,1.55,croston
+Golf Gloves | Europe,2017-09-11,5,1.55,croston
+Golf Gloves | Europe,2017-09-12,2,1.55,croston
+Golf Gloves | Europe,2017-09-13,1,1.55,croston
+Golf Gloves | Europe,2017-09-14,2,1.55,croston
+Golf Gloves | Europe,2017-09-15,2,1.55,croston
+Golf Gloves | Europe,2017-09-16,1,1.55,croston
+Golf Gloves | Europe,2017-09-17,3,1.55,croston
+Golf Gloves | Europe,2017-09-18,1,1.55,croston
+Golf Gloves | Europe,2017-09-19,1,1.55,croston
+Golf Gloves | Europe,2017-09-20,2,1.55,croston
+Golf Gloves | Europe,2017-09-21,2,1.55,croston
+Golf Gloves | Europe,2017-09-22,2,1.55,croston
+Golf Gloves | Europe,2017-09-23,1,1.55,croston
+Golf Gloves | Europe,2017-09-24,1,1.55,croston
+Golf Gloves | Europe,2017-09-25,1,1.55,croston
+Golf Gloves | Europe,2017-09-26,3,1.55,croston
+Golf Gloves | Europe,2017-09-27,1,1.55,croston
+Golf Gloves | Europe,2017-09-28,5,1.55,croston
+Golf Gloves | Europe,2017-09-29,2,1.55,croston
+Golf Gloves | Europe,2017-09-30,0,1.55,croston
+Golf Gloves | Europe,2017-10-01,0,1.55,croston
+Golf Gloves | Europe,2017-10-02,0,1.55,croston
+Golf Gloves | LATAM,2017-08-04,0,0.0,moving_average
+Golf Gloves | LATAM,2017-08-05,0,0.0,moving_average
+Golf Gloves | LATAM,2017-08-06,0,0.0,moving_average
+Golf Gloves | LATAM,2017-08-07,0,0.0,moving_average
+Golf Gloves | LATAM,2017-08-08,0,0.0,moving_average
+Golf Gloves | LATAM,2017-08-09,0,0.0,moving_average
+Golf Gloves | LATAM,2017-08-10,0,0.0,moving_average
+Golf Gloves | LATAM,2017-08-11,0,0.0,moving_average
+Golf Gloves | LATAM,2017-08-12,0,0.0,moving_average
+Golf Gloves | LATAM,2017-08-13,0,0.0,moving_average
+Golf Gloves | LATAM,2017-08-14,0,0.0,moving_average
+Golf Gloves | LATAM,2017-08-15,0,0.0,moving_average
+Golf Gloves | LATAM,2017-08-16,0,0.0,moving_average
+Golf Gloves | LATAM,2017-08-17,0,0.0,moving_average
+Golf Gloves | LATAM,2017-08-18,0,0.0,moving_average
+Golf Gloves | LATAM,2017-08-19,0,0.0,moving_average
+Golf Gloves | LATAM,2017-08-20,0,0.0,moving_average
+Golf Gloves | LATAM,2017-08-21,0,0.0,moving_average
+Golf Gloves | LATAM,2017-08-22,0,0.0,moving_average
+Golf Gloves | LATAM,2017-08-23,0,0.0,moving_average
+Golf Gloves | LATAM,2017-08-24,0,0.0,moving_average
+Golf Gloves | LATAM,2017-08-25,0,0.0,moving_average
+Golf Gloves | LATAM,2017-08-26,0,0.0,moving_average
+Golf Gloves | LATAM,2017-08-27,0,0.0,moving_average
+Golf Gloves | LATAM,2017-08-28,0,0.0,moving_average
+Golf Gloves | LATAM,2017-08-29,0,0.0,moving_average
+Golf Gloves | LATAM,2017-08-30,0,0.0,moving_average
+Golf Gloves | LATAM,2017-08-31,0,0.0,moving_average
+Golf Gloves | LATAM,2017-09-01,0,0.0,moving_average
+Golf Gloves | LATAM,2017-09-02,0,0.0,moving_average
+Golf Gloves | LATAM,2017-09-03,0,0.0,moving_average
+Golf Gloves | LATAM,2017-09-04,0,0.0,moving_average
+Golf Gloves | LATAM,2017-09-05,0,0.0,moving_average
+Golf Gloves | LATAM,2017-09-06,0,0.0,moving_average
+Golf Gloves | LATAM,2017-09-07,0,0.0,moving_average
+Golf Gloves | LATAM,2017-09-08,0,0.0,moving_average
+Golf Gloves | LATAM,2017-09-09,0,0.0,moving_average
+Golf Gloves | LATAM,2017-09-10,0,0.0,moving_average
+Golf Gloves | LATAM,2017-09-11,0,0.0,moving_average
+Golf Gloves | LATAM,2017-09-12,0,0.0,moving_average
+Golf Gloves | LATAM,2017-09-13,0,0.0,moving_average
+Golf Gloves | LATAM,2017-09-14,0,0.0,moving_average
+Golf Gloves | LATAM,2017-09-15,0,0.0,moving_average
+Golf Gloves | LATAM,2017-09-16,0,0.0,moving_average
+Golf Gloves | LATAM,2017-09-17,0,0.0,moving_average
+Golf Gloves | LATAM,2017-09-18,0,0.0,moving_average
+Golf Gloves | LATAM,2017-09-19,0,0.0,moving_average
+Golf Gloves | LATAM,2017-09-20,0,0.0,moving_average
+Golf Gloves | LATAM,2017-09-21,0,0.0,moving_average
+Golf Gloves | LATAM,2017-09-22,0,0.0,moving_average
+Golf Gloves | LATAM,2017-09-23,0,0.0,moving_average
+Golf Gloves | LATAM,2017-09-24,0,0.0,moving_average
+Golf Gloves | LATAM,2017-09-25,0,0.0,moving_average
+Golf Gloves | LATAM,2017-09-26,0,0.0,moving_average
+Golf Gloves | LATAM,2017-09-27,0,0.0,moving_average
+Golf Gloves | LATAM,2017-09-28,0,0.0,moving_average
+Golf Gloves | LATAM,2017-09-29,0,0.0,moving_average
+Golf Gloves | LATAM,2017-09-30,0,0.0,moving_average
+Golf Gloves | LATAM,2017-10-01,0,0.0,moving_average
+Golf Gloves | LATAM,2017-10-02,0,0.0,moving_average
+Indoor/Outdoor Games | Europe,2017-08-04,94,45.14,croston
+Indoor/Outdoor Games | Europe,2017-08-05,50,45.14,croston
+Indoor/Outdoor Games | Europe,2017-08-06,60,45.14,croston
+Indoor/Outdoor Games | Europe,2017-08-07,40,45.14,croston
+Indoor/Outdoor Games | Europe,2017-08-08,49,45.14,croston
+Indoor/Outdoor Games | Europe,2017-08-09,72,45.14,croston
+Indoor/Outdoor Games | Europe,2017-08-10,52,45.14,croston
+Indoor/Outdoor Games | Europe,2017-08-11,56,45.14,croston
+Indoor/Outdoor Games | Europe,2017-08-12,46,45.14,croston
+Indoor/Outdoor Games | Europe,2017-08-13,52,45.14,croston
+Indoor/Outdoor Games | Europe,2017-08-14,53,45.14,croston
+Indoor/Outdoor Games | Europe,2017-08-15,64,45.14,croston
+Indoor/Outdoor Games | Europe,2017-08-16,48,45.14,croston
+Indoor/Outdoor Games | Europe,2017-08-17,41,45.14,croston
+Indoor/Outdoor Games | Europe,2017-08-18,53,45.14,croston
+Indoor/Outdoor Games | Europe,2017-08-19,39,45.14,croston
+Indoor/Outdoor Games | Europe,2017-08-20,29,45.14,croston
+Indoor/Outdoor Games | Europe,2017-08-21,47,45.14,croston
+Indoor/Outdoor Games | Europe,2017-08-22,49,45.14,croston
+Indoor/Outdoor Games | Europe,2017-08-23,71,45.14,croston
+Indoor/Outdoor Games | Europe,2017-08-24,59,45.14,croston
+Indoor/Outdoor Games | Europe,2017-08-25,32,45.14,croston
+Indoor/Outdoor Games | Europe,2017-08-26,74,45.14,croston
+Indoor/Outdoor Games | Europe,2017-08-27,39,45.14,croston
+Indoor/Outdoor Games | Europe,2017-08-28,53,45.14,croston
+Indoor/Outdoor Games | Europe,2017-08-29,63,45.14,croston
+Indoor/Outdoor Games | Europe,2017-08-30,68,45.14,croston
+Indoor/Outdoor Games | Europe,2017-08-31,49,45.14,croston
+Indoor/Outdoor Games | Europe,2017-09-01,46,45.14,croston
+Indoor/Outdoor Games | Europe,2017-09-02,76,45.14,croston
+Indoor/Outdoor Games | Europe,2017-09-03,72,45.14,croston
+Indoor/Outdoor Games | Europe,2017-09-04,38,45.14,croston
+Indoor/Outdoor Games | Europe,2017-09-05,52,45.14,croston
+Indoor/Outdoor Games | Europe,2017-09-06,47,45.14,croston
+Indoor/Outdoor Games | Europe,2017-09-07,42,45.14,croston
+Indoor/Outdoor Games | Europe,2017-09-08,26,45.14,croston
+Indoor/Outdoor Games | Europe,2017-09-09,25,45.14,croston
+Indoor/Outdoor Games | Europe,2017-09-10,30,45.14,croston
+Indoor/Outdoor Games | Europe,2017-09-11,48,45.14,croston
+Indoor/Outdoor Games | Europe,2017-09-12,56,45.14,croston
+Indoor/Outdoor Games | Europe,2017-09-13,28,45.14,croston
+Indoor/Outdoor Games | Europe,2017-09-14,64,45.14,croston
+Indoor/Outdoor Games | Europe,2017-09-15,54,45.14,croston
+Indoor/Outdoor Games | Europe,2017-09-16,51,45.14,croston
+Indoor/Outdoor Games | Europe,2017-09-17,46,45.14,croston
+Indoor/Outdoor Games | Europe,2017-09-18,55,45.14,croston
+Indoor/Outdoor Games | Europe,2017-09-19,65,45.14,croston
+Indoor/Outdoor Games | Europe,2017-09-20,58,45.14,croston
+Indoor/Outdoor Games | Europe,2017-09-21,45,45.14,croston
+Indoor/Outdoor Games | Europe,2017-09-22,64,45.14,croston
+Indoor/Outdoor Games | Europe,2017-09-23,47,45.14,croston
+Indoor/Outdoor Games | Europe,2017-09-24,56,45.14,croston
+Indoor/Outdoor Games | Europe,2017-09-25,56,45.14,croston
+Indoor/Outdoor Games | Europe,2017-09-26,42,45.14,croston
+Indoor/Outdoor Games | Europe,2017-09-27,46,45.14,croston
+Indoor/Outdoor Games | Europe,2017-09-28,67,45.14,croston
+Indoor/Outdoor Games | Europe,2017-09-29,27,45.14,croston
+Indoor/Outdoor Games | Europe,2017-09-30,73,45.14,croston
+Indoor/Outdoor Games | Europe,2017-10-01,45,45.14,croston
+Indoor/Outdoor Games | Europe,2017-10-02,23,45.14,croston
+Indoor/Outdoor Games | LATAM,2017-08-04,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-08-05,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-08-06,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-08-07,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-08-08,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-08-09,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-08-10,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-08-11,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-08-12,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-08-13,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-08-14,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-08-15,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-08-16,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-08-17,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-08-18,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-08-19,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-08-20,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-08-21,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-08-22,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-08-23,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-08-24,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-08-25,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-08-26,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-08-27,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-08-28,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-08-29,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-08-30,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-08-31,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-09-01,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-09-02,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-09-03,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-09-04,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-09-05,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-09-06,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-09-07,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-09-08,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-09-09,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-09-10,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-09-11,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-09-12,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-09-13,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-09-14,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-09-15,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-09-16,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-09-17,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-09-18,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-09-19,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-09-20,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-09-21,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-09-22,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-09-23,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-09-24,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-09-25,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-09-26,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-09-27,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-09-28,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-09-29,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-09-30,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-10-01,0,0.0,moving_average
+Indoor/Outdoor Games | LATAM,2017-10-02,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-08-04,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-08-05,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-08-06,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-08-07,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-08-08,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-08-09,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-08-10,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-08-11,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-08-12,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-08-13,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-08-14,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-08-15,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-08-16,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-08-17,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-08-18,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-08-19,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-08-20,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-08-21,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-08-22,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-08-23,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-08-24,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-08-25,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-08-26,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-08-27,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-08-28,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-08-29,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-08-30,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-08-31,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-09-01,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-09-02,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-09-03,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-09-04,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-09-05,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-09-06,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-09-07,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-09-08,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-09-09,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-09-10,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-09-11,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-09-12,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-09-13,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-09-14,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-09-15,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-09-16,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-09-17,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-09-18,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-09-19,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-09-20,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-09-21,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-09-22,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-09-23,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-09-24,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-09-25,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-09-26,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-09-27,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-09-28,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-09-29,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-09-30,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-10-01,0,0.0,moving_average
+Indoor/Outdoor Games | Pacific Asia,2017-10-02,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-08-04,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-08-05,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-08-06,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-08-07,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-08-08,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-08-09,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-08-10,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-08-11,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-08-12,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-08-13,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-08-14,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-08-15,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-08-16,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-08-17,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-08-18,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-08-19,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-08-20,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-08-21,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-08-22,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-08-23,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-08-24,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-08-25,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-08-26,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-08-27,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-08-28,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-08-29,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-08-30,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-08-31,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-09-01,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-09-02,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-09-03,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-09-04,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-09-05,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-09-06,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-09-07,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-09-08,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-09-09,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-09-10,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-09-11,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-09-12,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-09-13,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-09-14,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-09-15,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-09-16,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-09-17,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-09-18,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-09-19,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-09-20,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-09-21,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-09-22,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-09-23,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-09-24,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-09-25,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-09-26,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-09-27,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-09-28,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-09-29,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-09-30,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-10-01,0,0.0,moving_average
+Indoor/Outdoor Games | USCA,2017-10-02,0,0.0,moving_average
+Men's Footwear | Europe,2017-08-04,14,22.02,croston
+Men's Footwear | Europe,2017-08-05,24,22.02,croston
+Men's Footwear | Europe,2017-08-06,21,22.02,croston
+Men's Footwear | Europe,2017-08-07,17,22.02,croston
+Men's Footwear | Europe,2017-08-08,22,22.02,croston
+Men's Footwear | Europe,2017-08-09,23,22.02,croston
+Men's Footwear | Europe,2017-08-10,26,22.02,croston
+Men's Footwear | Europe,2017-08-11,29,22.02,croston
+Men's Footwear | Europe,2017-08-12,15,22.02,croston
+Men's Footwear | Europe,2017-08-13,29,22.02,croston
+Men's Footwear | Europe,2017-08-14,17,22.02,croston
+Men's Footwear | Europe,2017-08-15,17,22.02,croston
+Men's Footwear | Europe,2017-08-16,23,22.02,croston
+Men's Footwear | Europe,2017-08-17,24,22.02,croston
+Men's Footwear | Europe,2017-08-18,19,22.02,croston
+Men's Footwear | Europe,2017-08-19,19,22.02,croston
+Men's Footwear | Europe,2017-08-20,25,22.02,croston
+Men's Footwear | Europe,2017-08-21,22,22.02,croston
+Men's Footwear | Europe,2017-08-22,22,22.02,croston
+Men's Footwear | Europe,2017-08-23,26,22.02,croston
+Men's Footwear | Europe,2017-08-24,21,22.02,croston
+Men's Footwear | Europe,2017-08-25,15,22.02,croston
+Men's Footwear | Europe,2017-08-26,23,22.02,croston
+Men's Footwear | Europe,2017-08-27,21,22.02,croston
+Men's Footwear | Europe,2017-08-28,13,22.02,croston
+Men's Footwear | Europe,2017-08-29,12,22.02,croston
+Men's Footwear | Europe,2017-08-30,23,22.02,croston
+Men's Footwear | Europe,2017-08-31,18,22.02,croston
+Men's Footwear | Europe,2017-09-01,18,22.02,croston
+Men's Footwear | Europe,2017-09-02,27,22.02,croston
+Men's Footwear | Europe,2017-09-03,16,22.02,croston
+Men's Footwear | Europe,2017-09-04,18,22.02,croston
+Men's Footwear | Europe,2017-09-05,18,22.02,croston
+Men's Footwear | Europe,2017-09-06,25,22.02,croston
+Men's Footwear | Europe,2017-09-07,16,22.02,croston
+Men's Footwear | Europe,2017-09-08,18,22.02,croston
+Men's Footwear | Europe,2017-09-09,21,22.02,croston
+Men's Footwear | Europe,2017-09-10,24,22.02,croston
+Men's Footwear | Europe,2017-09-11,20,22.02,croston
+Men's Footwear | Europe,2017-09-12,24,22.02,croston
+Men's Footwear | Europe,2017-09-13,34,22.02,croston
+Men's Footwear | Europe,2017-09-14,21,22.02,croston
+Men's Footwear | Europe,2017-09-15,20,22.02,croston
+Men's Footwear | Europe,2017-09-16,30,22.02,croston
+Men's Footwear | Europe,2017-09-17,22,22.02,croston
+Men's Footwear | Europe,2017-09-18,17,22.02,croston
+Men's Footwear | Europe,2017-09-19,21,22.02,croston
+Men's Footwear | Europe,2017-09-20,20,22.02,croston
+Men's Footwear | Europe,2017-09-21,17,22.02,croston
+Men's Footwear | Europe,2017-09-22,18,22.02,croston
+Men's Footwear | Europe,2017-09-23,24,22.02,croston
+Men's Footwear | Europe,2017-09-24,23,22.02,croston
+Men's Footwear | Europe,2017-09-25,14,22.02,croston
+Men's Footwear | Europe,2017-09-26,21,22.02,croston
+Men's Footwear | Europe,2017-09-27,16,22.02,croston
+Men's Footwear | Europe,2017-09-28,19,22.02,croston
+Men's Footwear | Europe,2017-09-29,23,22.02,croston
+Men's Footwear | Europe,2017-09-30,26,22.02,croston
+Men's Footwear | Europe,2017-10-01,21,22.02,croston
+Men's Footwear | Europe,2017-10-02,9,22.02,croston
+Men's Footwear | LATAM,2017-08-04,0,0.0,moving_average
+Men's Footwear | LATAM,2017-08-05,0,0.0,moving_average
+Men's Footwear | LATAM,2017-08-06,0,0.0,moving_average
+Men's Footwear | LATAM,2017-08-07,0,0.0,moving_average
+Men's Footwear | LATAM,2017-08-08,0,0.0,moving_average
+Men's Footwear | LATAM,2017-08-09,0,0.0,moving_average
+Men's Footwear | LATAM,2017-08-10,0,0.0,moving_average
+Men's Footwear | LATAM,2017-08-11,0,0.0,moving_average
+Men's Footwear | LATAM,2017-08-12,0,0.0,moving_average
+Men's Footwear | LATAM,2017-08-13,0,0.0,moving_average
+Men's Footwear | LATAM,2017-08-14,0,0.0,moving_average
+Men's Footwear | LATAM,2017-08-15,0,0.0,moving_average
+Men's Footwear | LATAM,2017-08-16,0,0.0,moving_average
+Men's Footwear | LATAM,2017-08-17,0,0.0,moving_average
+Men's Footwear | LATAM,2017-08-18,0,0.0,moving_average
+Men's Footwear | LATAM,2017-08-19,0,0.0,moving_average
+Men's Footwear | LATAM,2017-08-20,0,0.0,moving_average
+Men's Footwear | LATAM,2017-08-21,0,0.0,moving_average
+Men's Footwear | LATAM,2017-08-22,0,0.0,moving_average
+Men's Footwear | LATAM,2017-08-23,0,0.0,moving_average
+Men's Footwear | LATAM,2017-08-24,0,0.0,moving_average
+Men's Footwear | LATAM,2017-08-25,0,0.0,moving_average
+Men's Footwear | LATAM,2017-08-26,0,0.0,moving_average
+Men's Footwear | LATAM,2017-08-27,0,0.0,moving_average
+Men's Footwear | LATAM,2017-08-28,0,0.0,moving_average
+Men's Footwear | LATAM,2017-08-29,0,0.0,moving_average
+Men's Footwear | LATAM,2017-08-30,0,0.0,moving_average
+Men's Footwear | LATAM,2017-08-31,0,0.0,moving_average
+Men's Footwear | LATAM,2017-09-01,0,0.0,moving_average
+Men's Footwear | LATAM,2017-09-02,0,0.0,moving_average
+Men's Footwear | LATAM,2017-09-03,0,0.0,moving_average
+Men's Footwear | LATAM,2017-09-04,0,0.0,moving_average
+Men's Footwear | LATAM,2017-09-05,0,0.0,moving_average
+Men's Footwear | LATAM,2017-09-06,0,0.0,moving_average
+Men's Footwear | LATAM,2017-09-07,0,0.0,moving_average
+Men's Footwear | LATAM,2017-09-08,0,0.0,moving_average
+Men's Footwear | LATAM,2017-09-09,0,0.0,moving_average
+Men's Footwear | LATAM,2017-09-10,0,0.0,moving_average
+Men's Footwear | LATAM,2017-09-11,0,0.0,moving_average
+Men's Footwear | LATAM,2017-09-12,0,0.0,moving_average
+Men's Footwear | LATAM,2017-09-13,0,0.0,moving_average
+Men's Footwear | LATAM,2017-09-14,0,0.0,moving_average
+Men's Footwear | LATAM,2017-09-15,0,0.0,moving_average
+Men's Footwear | LATAM,2017-09-16,0,0.0,moving_average
+Men's Footwear | LATAM,2017-09-17,0,0.0,moving_average
+Men's Footwear | LATAM,2017-09-18,0,0.0,moving_average
+Men's Footwear | LATAM,2017-09-19,0,0.0,moving_average
+Men's Footwear | LATAM,2017-09-20,0,0.0,moving_average
+Men's Footwear | LATAM,2017-09-21,0,0.0,moving_average
+Men's Footwear | LATAM,2017-09-22,0,0.0,moving_average
+Men's Footwear | LATAM,2017-09-23,0,0.0,moving_average
+Men's Footwear | LATAM,2017-09-24,0,0.0,moving_average
+Men's Footwear | LATAM,2017-09-25,0,0.0,moving_average
+Men's Footwear | LATAM,2017-09-26,0,0.0,moving_average
+Men's Footwear | LATAM,2017-09-27,0,0.0,moving_average
+Men's Footwear | LATAM,2017-09-28,0,0.0,moving_average
+Men's Footwear | LATAM,2017-09-29,0,0.0,moving_average
+Men's Footwear | LATAM,2017-09-30,0,0.0,moving_average
+Men's Footwear | LATAM,2017-10-01,0,0.0,moving_average
+Men's Footwear | LATAM,2017-10-02,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-08-04,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-08-05,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-08-06,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-08-07,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-08-08,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-08-09,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-08-10,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-08-11,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-08-12,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-08-13,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-08-14,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-08-15,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-08-16,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-08-17,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-08-18,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-08-19,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-08-20,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-08-21,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-08-22,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-08-23,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-08-24,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-08-25,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-08-26,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-08-27,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-08-28,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-08-29,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-08-30,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-08-31,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-09-01,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-09-02,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-09-03,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-09-04,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-09-05,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-09-06,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-09-07,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-09-08,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-09-09,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-09-10,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-09-11,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-09-12,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-09-13,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-09-14,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-09-15,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-09-16,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-09-17,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-09-18,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-09-19,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-09-20,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-09-21,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-09-22,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-09-23,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-09-24,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-09-25,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-09-26,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-09-27,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-09-28,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-09-29,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-09-30,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-10-01,0,0.0,moving_average
+Men's Footwear | Pacific Asia,2017-10-02,0,0.0,moving_average
+Men's Footwear | USCA,2017-08-04,0,0.0,moving_average
+Men's Footwear | USCA,2017-08-05,0,0.0,moving_average
+Men's Footwear | USCA,2017-08-06,0,0.0,moving_average
+Men's Footwear | USCA,2017-08-07,0,0.0,moving_average
+Men's Footwear | USCA,2017-08-08,0,0.0,moving_average
+Men's Footwear | USCA,2017-08-09,0,0.0,moving_average
+Men's Footwear | USCA,2017-08-10,0,0.0,moving_average
+Men's Footwear | USCA,2017-08-11,0,0.0,moving_average
+Men's Footwear | USCA,2017-08-12,0,0.0,moving_average
+Men's Footwear | USCA,2017-08-13,0,0.0,moving_average
+Men's Footwear | USCA,2017-08-14,0,0.0,moving_average
+Men's Footwear | USCA,2017-08-15,0,0.0,moving_average
+Men's Footwear | USCA,2017-08-16,0,0.0,moving_average
+Men's Footwear | USCA,2017-08-17,0,0.0,moving_average
+Men's Footwear | USCA,2017-08-18,0,0.0,moving_average
+Men's Footwear | USCA,2017-08-19,0,0.0,moving_average
+Men's Footwear | USCA,2017-08-20,0,0.0,moving_average
+Men's Footwear | USCA,2017-08-21,0,0.0,moving_average
+Men's Footwear | USCA,2017-08-22,0,0.0,moving_average
+Men's Footwear | USCA,2017-08-23,0,0.0,moving_average
+Men's Footwear | USCA,2017-08-24,0,0.0,moving_average
+Men's Footwear | USCA,2017-08-25,0,0.0,moving_average
+Men's Footwear | USCA,2017-08-26,0,0.0,moving_average
+Men's Footwear | USCA,2017-08-27,0,0.0,moving_average
+Men's Footwear | USCA,2017-08-28,0,0.0,moving_average
+Men's Footwear | USCA,2017-08-29,0,0.0,moving_average
+Men's Footwear | USCA,2017-08-30,0,0.0,moving_average
+Men's Footwear | USCA,2017-08-31,0,0.0,moving_average
+Men's Footwear | USCA,2017-09-01,0,0.0,moving_average
+Men's Footwear | USCA,2017-09-02,0,0.0,moving_average
+Men's Footwear | USCA,2017-09-03,0,0.0,moving_average
+Men's Footwear | USCA,2017-09-04,0,0.0,moving_average
+Men's Footwear | USCA,2017-09-05,0,0.0,moving_average
+Men's Footwear | USCA,2017-09-06,0,0.0,moving_average
+Men's Footwear | USCA,2017-09-07,0,0.0,moving_average
+Men's Footwear | USCA,2017-09-08,0,0.0,moving_average
+Men's Footwear | USCA,2017-09-09,0,0.0,moving_average
+Men's Footwear | USCA,2017-09-10,0,0.0,moving_average
+Men's Footwear | USCA,2017-09-11,0,0.0,moving_average
+Men's Footwear | USCA,2017-09-12,0,0.0,moving_average
+Men's Footwear | USCA,2017-09-13,0,0.0,moving_average
+Men's Footwear | USCA,2017-09-14,0,0.0,moving_average
+Men's Footwear | USCA,2017-09-15,0,0.0,moving_average
+Men's Footwear | USCA,2017-09-16,0,0.0,moving_average
+Men's Footwear | USCA,2017-09-17,0,0.0,moving_average
+Men's Footwear | USCA,2017-09-18,0,0.0,moving_average
+Men's Footwear | USCA,2017-09-19,0,0.0,moving_average
+Men's Footwear | USCA,2017-09-20,0,0.0,moving_average
+Men's Footwear | USCA,2017-09-21,0,0.0,moving_average
+Men's Footwear | USCA,2017-09-22,0,0.0,moving_average
+Men's Footwear | USCA,2017-09-23,0,0.0,moving_average
+Men's Footwear | USCA,2017-09-24,0,0.0,moving_average
+Men's Footwear | USCA,2017-09-25,0,0.0,moving_average
+Men's Footwear | USCA,2017-09-26,0,0.0,moving_average
+Men's Footwear | USCA,2017-09-27,0,0.0,moving_average
+Men's Footwear | USCA,2017-09-28,0,0.0,moving_average
+Men's Footwear | USCA,2017-09-29,0,0.0,moving_average
+Men's Footwear | USCA,2017-09-30,0,0.0,moving_average
+Men's Footwear | USCA,2017-10-01,0,0.0,moving_average
+Men's Footwear | USCA,2017-10-02,0,0.0,moving_average
+Shop By Sport | Europe,2017-08-04,38,32.29,moving_average
+Shop By Sport | Europe,2017-08-05,33,32.29,moving_average
+Shop By Sport | Europe,2017-08-06,11,32.29,moving_average
+Shop By Sport | Europe,2017-08-07,25,32.29,moving_average
+Shop By Sport | Europe,2017-08-08,33,32.29,moving_average
+Shop By Sport | Europe,2017-08-09,27,32.29,moving_average
+Shop By Sport | Europe,2017-08-10,33,32.29,moving_average
+Shop By Sport | Europe,2017-08-11,50,32.29,moving_average
+Shop By Sport | Europe,2017-08-12,24,32.29,moving_average
+Shop By Sport | Europe,2017-08-13,10,32.29,moving_average
+Shop By Sport | Europe,2017-08-14,28,32.29,moving_average
+Shop By Sport | Europe,2017-08-15,48,32.29,moving_average
+Shop By Sport | Europe,2017-08-16,33,32.29,moving_average
+Shop By Sport | Europe,2017-08-17,26,32.29,moving_average
+Shop By Sport | Europe,2017-08-18,31,32.29,moving_average
+Shop By Sport | Europe,2017-08-19,34,32.29,moving_average
+Shop By Sport | Europe,2017-08-20,28,32.29,moving_average
+Shop By Sport | Europe,2017-08-21,42,32.29,moving_average
+Shop By Sport | Europe,2017-08-22,28,32.29,moving_average
+Shop By Sport | Europe,2017-08-23,18,32.29,moving_average
+Shop By Sport | Europe,2017-08-24,43,32.29,moving_average
+Shop By Sport | Europe,2017-08-25,18,32.29,moving_average
+Shop By Sport | Europe,2017-08-26,24,32.29,moving_average
+Shop By Sport | Europe,2017-08-27,17,32.29,moving_average
+Shop By Sport | Europe,2017-08-28,23,32.29,moving_average
+Shop By Sport | Europe,2017-08-29,28,32.29,moving_average
+Shop By Sport | Europe,2017-08-30,26,32.29,moving_average
+Shop By Sport | Europe,2017-08-31,34,32.29,moving_average
+Shop By Sport | Europe,2017-09-01,33,32.29,moving_average
+Shop By Sport | Europe,2017-09-02,31,32.29,moving_average
+Shop By Sport | Europe,2017-09-03,48,32.29,moving_average
+Shop By Sport | Europe,2017-09-04,17,32.29,moving_average
+Shop By Sport | Europe,2017-09-05,34,32.29,moving_average
+Shop By Sport | Europe,2017-09-06,26,32.29,moving_average
+Shop By Sport | Europe,2017-09-07,14,32.29,moving_average
+Shop By Sport | Europe,2017-09-08,39,32.29,moving_average
+Shop By Sport | Europe,2017-09-09,40,32.29,moving_average
+Shop By Sport | Europe,2017-09-10,44,32.29,moving_average
+Shop By Sport | Europe,2017-09-11,48,32.29,moving_average
+Shop By Sport | Europe,2017-09-12,31,32.29,moving_average
+Shop By Sport | Europe,2017-09-13,21,32.29,moving_average
+Shop By Sport | Europe,2017-09-14,36,32.29,moving_average
+Shop By Sport | Europe,2017-09-15,30,32.29,moving_average
+Shop By Sport | Europe,2017-09-16,26,32.29,moving_average
+Shop By Sport | Europe,2017-09-17,36,32.29,moving_average
+Shop By Sport | Europe,2017-09-18,29,32.29,moving_average
+Shop By Sport | Europe,2017-09-19,24,32.29,moving_average
+Shop By Sport | Europe,2017-09-20,44,32.29,moving_average
+Shop By Sport | Europe,2017-09-21,23,32.29,moving_average
+Shop By Sport | Europe,2017-09-22,27,32.29,moving_average
+Shop By Sport | Europe,2017-09-23,25,32.29,moving_average
+Shop By Sport | Europe,2017-09-24,44,32.29,moving_average
+Shop By Sport | Europe,2017-09-25,22,32.29,moving_average
+Shop By Sport | Europe,2017-09-26,55,32.29,moving_average
+Shop By Sport | Europe,2017-09-27,3,32.29,moving_average
+Shop By Sport | Europe,2017-09-28,16,32.29,moving_average
+Shop By Sport | Europe,2017-09-29,39,32.29,moving_average
+Shop By Sport | Europe,2017-09-30,27,32.29,moving_average
+Shop By Sport | Europe,2017-10-01,20,32.29,moving_average
+Shop By Sport | Europe,2017-10-02,5,32.29,moving_average
+Shop By Sport | LATAM,2017-08-04,0,0.0,moving_average
+Shop By Sport | LATAM,2017-08-05,0,0.0,moving_average
+Shop By Sport | LATAM,2017-08-06,0,0.0,moving_average
+Shop By Sport | LATAM,2017-08-07,0,0.0,moving_average
+Shop By Sport | LATAM,2017-08-08,0,0.0,moving_average
+Shop By Sport | LATAM,2017-08-09,0,0.0,moving_average
+Shop By Sport | LATAM,2017-08-10,0,0.0,moving_average
+Shop By Sport | LATAM,2017-08-11,0,0.0,moving_average
+Shop By Sport | LATAM,2017-08-12,0,0.0,moving_average
+Shop By Sport | LATAM,2017-08-13,0,0.0,moving_average
+Shop By Sport | LATAM,2017-08-14,0,0.0,moving_average
+Shop By Sport | LATAM,2017-08-15,0,0.0,moving_average
+Shop By Sport | LATAM,2017-08-16,0,0.0,moving_average
+Shop By Sport | LATAM,2017-08-17,0,0.0,moving_average
+Shop By Sport | LATAM,2017-08-18,0,0.0,moving_average
+Shop By Sport | LATAM,2017-08-19,0,0.0,moving_average
+Shop By Sport | LATAM,2017-08-20,0,0.0,moving_average
+Shop By Sport | LATAM,2017-08-21,0,0.0,moving_average
+Shop By Sport | LATAM,2017-08-22,0,0.0,moving_average
+Shop By Sport | LATAM,2017-08-23,0,0.0,moving_average
+Shop By Sport | LATAM,2017-08-24,0,0.0,moving_average
+Shop By Sport | LATAM,2017-08-25,0,0.0,moving_average
+Shop By Sport | LATAM,2017-08-26,0,0.0,moving_average
+Shop By Sport | LATAM,2017-08-27,0,0.0,moving_average
+Shop By Sport | LATAM,2017-08-28,0,0.0,moving_average
+Shop By Sport | LATAM,2017-08-29,0,0.0,moving_average
+Shop By Sport | LATAM,2017-08-30,0,0.0,moving_average
+Shop By Sport | LATAM,2017-08-31,0,0.0,moving_average
+Shop By Sport | LATAM,2017-09-01,0,0.0,moving_average
+Shop By Sport | LATAM,2017-09-02,0,0.0,moving_average
+Shop By Sport | LATAM,2017-09-03,0,0.0,moving_average
+Shop By Sport | LATAM,2017-09-04,0,0.0,moving_average
+Shop By Sport | LATAM,2017-09-05,0,0.0,moving_average
+Shop By Sport | LATAM,2017-09-06,0,0.0,moving_average
+Shop By Sport | LATAM,2017-09-07,0,0.0,moving_average
+Shop By Sport | LATAM,2017-09-08,0,0.0,moving_average
+Shop By Sport | LATAM,2017-09-09,0,0.0,moving_average
+Shop By Sport | LATAM,2017-09-10,0,0.0,moving_average
+Shop By Sport | LATAM,2017-09-11,0,0.0,moving_average
+Shop By Sport | LATAM,2017-09-12,0,0.0,moving_average
+Shop By Sport | LATAM,2017-09-13,0,0.0,moving_average
+Shop By Sport | LATAM,2017-09-14,0,0.0,moving_average
+Shop By Sport | LATAM,2017-09-15,0,0.0,moving_average
+Shop By Sport | LATAM,2017-09-16,0,0.0,moving_average
+Shop By Sport | LATAM,2017-09-17,0,0.0,moving_average
+Shop By Sport | LATAM,2017-09-18,0,0.0,moving_average
+Shop By Sport | LATAM,2017-09-19,0,0.0,moving_average
+Shop By Sport | LATAM,2017-09-20,0,0.0,moving_average
+Shop By Sport | LATAM,2017-09-21,0,0.0,moving_average
+Shop By Sport | LATAM,2017-09-22,0,0.0,moving_average
+Shop By Sport | LATAM,2017-09-23,0,0.0,moving_average
+Shop By Sport | LATAM,2017-09-24,0,0.0,moving_average
+Shop By Sport | LATAM,2017-09-25,0,0.0,moving_average
+Shop By Sport | LATAM,2017-09-26,0,0.0,moving_average
+Shop By Sport | LATAM,2017-09-27,0,0.0,moving_average
+Shop By Sport | LATAM,2017-09-28,0,0.0,moving_average
+Shop By Sport | LATAM,2017-09-29,0,0.0,moving_average
+Shop By Sport | LATAM,2017-09-30,0,0.0,moving_average
+Shop By Sport | LATAM,2017-10-01,0,0.0,moving_average
+Shop By Sport | LATAM,2017-10-02,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-08-04,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-08-05,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-08-06,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-08-07,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-08-08,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-08-09,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-08-10,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-08-11,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-08-12,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-08-13,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-08-14,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-08-15,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-08-16,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-08-17,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-08-18,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-08-19,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-08-20,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-08-21,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-08-22,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-08-23,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-08-24,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-08-25,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-08-26,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-08-27,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-08-28,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-08-29,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-08-30,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-08-31,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-09-01,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-09-02,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-09-03,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-09-04,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-09-05,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-09-06,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-09-07,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-09-08,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-09-09,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-09-10,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-09-11,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-09-12,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-09-13,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-09-14,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-09-15,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-09-16,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-09-17,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-09-18,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-09-19,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-09-20,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-09-21,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-09-22,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-09-23,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-09-24,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-09-25,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-09-26,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-09-27,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-09-28,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-09-29,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-09-30,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-10-01,0,0.0,moving_average
+Shop By Sport | Pacific Asia,2017-10-02,0,0.0,moving_average
+Shop By Sport | USCA,2017-08-04,0,0.0,moving_average
+Shop By Sport | USCA,2017-08-05,0,0.0,moving_average
+Shop By Sport | USCA,2017-08-06,0,0.0,moving_average
+Shop By Sport | USCA,2017-08-07,0,0.0,moving_average
+Shop By Sport | USCA,2017-08-08,0,0.0,moving_average
+Shop By Sport | USCA,2017-08-09,0,0.0,moving_average
+Shop By Sport | USCA,2017-08-10,0,0.0,moving_average
+Shop By Sport | USCA,2017-08-11,0,0.0,moving_average
+Shop By Sport | USCA,2017-08-12,0,0.0,moving_average
+Shop By Sport | USCA,2017-08-13,0,0.0,moving_average
+Shop By Sport | USCA,2017-08-14,0,0.0,moving_average
+Shop By Sport | USCA,2017-08-15,0,0.0,moving_average
+Shop By Sport | USCA,2017-08-16,0,0.0,moving_average
+Shop By Sport | USCA,2017-08-17,0,0.0,moving_average
+Shop By Sport | USCA,2017-08-18,0,0.0,moving_average
+Shop By Sport | USCA,2017-08-19,0,0.0,moving_average
+Shop By Sport | USCA,2017-08-20,0,0.0,moving_average
+Shop By Sport | USCA,2017-08-21,0,0.0,moving_average
+Shop By Sport | USCA,2017-08-22,0,0.0,moving_average
+Shop By Sport | USCA,2017-08-23,0,0.0,moving_average
+Shop By Sport | USCA,2017-08-24,0,0.0,moving_average
+Shop By Sport | USCA,2017-08-25,0,0.0,moving_average
+Shop By Sport | USCA,2017-08-26,0,0.0,moving_average
+Shop By Sport | USCA,2017-08-27,0,0.0,moving_average
+Shop By Sport | USCA,2017-08-28,0,0.0,moving_average
+Shop By Sport | USCA,2017-08-29,0,0.0,moving_average
+Shop By Sport | USCA,2017-08-30,0,0.0,moving_average
+Shop By Sport | USCA,2017-08-31,0,0.0,moving_average
+Shop By Sport | USCA,2017-09-01,0,0.0,moving_average
+Shop By Sport | USCA,2017-09-02,0,0.0,moving_average
+Shop By Sport | USCA,2017-09-03,0,0.0,moving_average
+Shop By Sport | USCA,2017-09-04,0,0.0,moving_average
+Shop By Sport | USCA,2017-09-05,0,0.0,moving_average
+Shop By Sport | USCA,2017-09-06,0,0.0,moving_average
+Shop By Sport | USCA,2017-09-07,0,0.0,moving_average
+Shop By Sport | USCA,2017-09-08,0,0.0,moving_average
+Shop By Sport | USCA,2017-09-09,0,0.0,moving_average
+Shop By Sport | USCA,2017-09-10,0,0.0,moving_average
+Shop By Sport | USCA,2017-09-11,0,0.0,moving_average
+Shop By Sport | USCA,2017-09-12,0,0.0,moving_average
+Shop By Sport | USCA,2017-09-13,0,0.0,moving_average
+Shop By Sport | USCA,2017-09-14,0,0.0,moving_average
+Shop By Sport | USCA,2017-09-15,0,0.0,moving_average
+Shop By Sport | USCA,2017-09-16,0,0.0,moving_average
+Shop By Sport | USCA,2017-09-17,0,0.0,moving_average
+Shop By Sport | USCA,2017-09-18,0,0.0,moving_average
+Shop By Sport | USCA,2017-09-19,0,0.0,moving_average
+Shop By Sport | USCA,2017-09-20,0,0.0,moving_average
+Shop By Sport | USCA,2017-09-21,0,0.0,moving_average
+Shop By Sport | USCA,2017-09-22,0,0.0,moving_average
+Shop By Sport | USCA,2017-09-23,0,0.0,moving_average
+Shop By Sport | USCA,2017-09-24,0,0.0,moving_average
+Shop By Sport | USCA,2017-09-25,0,0.0,moving_average
+Shop By Sport | USCA,2017-09-26,0,0.0,moving_average
+Shop By Sport | USCA,2017-09-27,0,0.0,moving_average
+Shop By Sport | USCA,2017-09-28,0,0.0,moving_average
+Shop By Sport | USCA,2017-09-29,0,0.0,moving_average
+Shop By Sport | USCA,2017-09-30,0,0.0,moving_average
+Shop By Sport | USCA,2017-10-01,0,0.0,moving_average
+Shop By Sport | USCA,2017-10-02,0,0.0,moving_average
+Trade-In | LATAM,2017-08-04,0,0.0,moving_average
+Trade-In | LATAM,2017-08-05,0,0.0,moving_average
+Trade-In | LATAM,2017-08-06,0,0.0,moving_average
+Trade-In | LATAM,2017-08-07,0,0.0,moving_average
+Trade-In | LATAM,2017-08-08,0,0.0,moving_average
+Trade-In | LATAM,2017-08-09,0,0.0,moving_average
+Trade-In | LATAM,2017-08-10,0,0.0,moving_average
+Trade-In | LATAM,2017-08-11,0,0.0,moving_average
+Trade-In | LATAM,2017-08-12,0,0.0,moving_average
+Trade-In | LATAM,2017-08-13,0,0.0,moving_average
+Trade-In | LATAM,2017-08-14,0,0.0,moving_average
+Trade-In | LATAM,2017-08-15,0,0.0,moving_average
+Trade-In | LATAM,2017-08-16,0,0.0,moving_average
+Trade-In | LATAM,2017-08-17,0,0.0,moving_average
+Trade-In | LATAM,2017-08-18,0,0.0,moving_average
+Trade-In | LATAM,2017-08-19,0,0.0,moving_average
+Trade-In | LATAM,2017-08-20,0,0.0,moving_average
+Trade-In | LATAM,2017-08-21,0,0.0,moving_average
+Trade-In | LATAM,2017-08-22,0,0.0,moving_average
+Trade-In | LATAM,2017-08-23,0,0.0,moving_average
+Trade-In | LATAM,2017-08-24,0,0.0,moving_average
+Trade-In | LATAM,2017-08-25,0,0.0,moving_average
+Trade-In | LATAM,2017-08-26,0,0.0,moving_average
+Trade-In | LATAM,2017-08-27,0,0.0,moving_average
+Trade-In | LATAM,2017-08-28,0,0.0,moving_average
+Trade-In | LATAM,2017-08-29,0,0.0,moving_average
+Trade-In | LATAM,2017-08-30,0,0.0,moving_average
+Trade-In | LATAM,2017-08-31,0,0.0,moving_average
+Trade-In | LATAM,2017-09-01,0,0.0,moving_average
+Trade-In | LATAM,2017-09-02,0,0.0,moving_average
+Trade-In | LATAM,2017-09-03,0,0.0,moving_average
+Trade-In | LATAM,2017-09-04,0,0.0,moving_average
+Trade-In | LATAM,2017-09-05,0,0.0,moving_average
+Trade-In | LATAM,2017-09-06,0,0.0,moving_average
+Trade-In | LATAM,2017-09-07,0,0.0,moving_average
+Trade-In | LATAM,2017-09-08,0,0.0,moving_average
+Trade-In | LATAM,2017-09-09,0,0.0,moving_average
+Trade-In | LATAM,2017-09-10,0,0.0,moving_average
+Trade-In | LATAM,2017-09-11,0,0.0,moving_average
+Trade-In | LATAM,2017-09-12,0,0.0,moving_average
+Trade-In | LATAM,2017-09-13,0,0.0,moving_average
+Trade-In | LATAM,2017-09-14,0,0.0,moving_average
+Trade-In | LATAM,2017-09-15,0,0.0,moving_average
+Trade-In | LATAM,2017-09-16,0,0.0,moving_average
+Trade-In | LATAM,2017-09-17,0,0.0,moving_average
+Trade-In | LATAM,2017-09-18,0,0.0,moving_average
+Trade-In | LATAM,2017-09-19,0,0.0,moving_average
+Trade-In | LATAM,2017-09-20,0,0.0,moving_average
+Trade-In | LATAM,2017-09-21,0,0.0,moving_average
+Trade-In | LATAM,2017-09-22,0,0.0,moving_average
+Trade-In | LATAM,2017-09-23,0,0.0,moving_average
+Trade-In | LATAM,2017-09-24,0,0.0,moving_average
+Trade-In | LATAM,2017-09-25,0,0.0,moving_average
+Trade-In | LATAM,2017-09-26,0,0.0,moving_average
+Trade-In | LATAM,2017-09-27,0,0.0,moving_average
+Trade-In | LATAM,2017-09-28,0,0.0,moving_average
+Trade-In | LATAM,2017-09-29,0,0.0,moving_average
+Trade-In | LATAM,2017-09-30,0,0.0,moving_average
+Trade-In | LATAM,2017-10-01,0,0.0,moving_average
+Trade-In | LATAM,2017-10-02,0,0.0,moving_average
+Water Sports | Europe,2017-08-04,13,13.14,moving_average
+Water Sports | Europe,2017-08-05,27,13.14,moving_average
+Water Sports | Europe,2017-08-06,16,13.14,moving_average
+Water Sports | Europe,2017-08-07,13,13.14,moving_average
+Water Sports | Europe,2017-08-08,18,13.14,moving_average
+Water Sports | Europe,2017-08-09,22,13.14,moving_average
+Water Sports | Europe,2017-08-10,13,13.14,moving_average
+Water Sports | Europe,2017-08-11,22,13.14,moving_average
+Water Sports | Europe,2017-08-12,13,13.14,moving_average
+Water Sports | Europe,2017-08-13,19,13.14,moving_average
+Water Sports | Europe,2017-08-14,16,13.14,moving_average
+Water Sports | Europe,2017-08-15,20,13.14,moving_average
+Water Sports | Europe,2017-08-16,19,13.14,moving_average
+Water Sports | Europe,2017-08-17,15,13.14,moving_average
+Water Sports | Europe,2017-08-18,11,13.14,moving_average
+Water Sports | Europe,2017-08-19,11,13.14,moving_average
+Water Sports | Europe,2017-08-20,14,13.14,moving_average
+Water Sports | Europe,2017-08-21,24,13.14,moving_average
+Water Sports | Europe,2017-08-22,23,13.14,moving_average
+Water Sports | Europe,2017-08-23,13,13.14,moving_average
+Water Sports | Europe,2017-08-24,12,13.14,moving_average
+Water Sports | Europe,2017-08-25,12,13.14,moving_average
+Water Sports | Europe,2017-08-26,19,13.14,moving_average
+Water Sports | Europe,2017-08-27,17,13.14,moving_average
+Water Sports | Europe,2017-08-28,12,13.14,moving_average
+Water Sports | Europe,2017-08-29,14,13.14,moving_average
+Water Sports | Europe,2017-08-30,12,13.14,moving_average
+Water Sports | Europe,2017-08-31,13,13.14,moving_average
+Water Sports | Europe,2017-09-01,17,13.14,moving_average
+Water Sports | Europe,2017-09-02,8,13.14,moving_average
+Water Sports | Europe,2017-09-03,15,13.14,moving_average
+Water Sports | Europe,2017-09-04,14,13.14,moving_average
+Water Sports | Europe,2017-09-05,18,13.14,moving_average
+Water Sports | Europe,2017-09-06,15,13.14,moving_average
+Water Sports | Europe,2017-09-07,18,13.14,moving_average
+Water Sports | Europe,2017-09-08,16,13.14,moving_average
+Water Sports | Europe,2017-09-09,19,13.14,moving_average
+Water Sports | Europe,2017-09-10,17,13.14,moving_average
+Water Sports | Europe,2017-09-11,19,13.14,moving_average
+Water Sports | Europe,2017-09-12,13,13.14,moving_average
+Water Sports | Europe,2017-09-13,19,13.14,moving_average
+Water Sports | Europe,2017-09-14,10,13.14,moving_average
+Water Sports | Europe,2017-09-15,10,13.14,moving_average
+Water Sports | Europe,2017-09-16,19,13.14,moving_average
+Water Sports | Europe,2017-09-17,17,13.14,moving_average
+Water Sports | Europe,2017-09-18,11,13.14,moving_average
+Water Sports | Europe,2017-09-19,16,13.14,moving_average
+Water Sports | Europe,2017-09-20,17,13.14,moving_average
+Water Sports | Europe,2017-09-21,27,13.14,moving_average
+Water Sports | Europe,2017-09-22,19,13.14,moving_average
+Water Sports | Europe,2017-09-23,14,13.14,moving_average
+Water Sports | Europe,2017-09-24,13,13.14,moving_average
+Water Sports | Europe,2017-09-25,23,13.14,moving_average
+Water Sports | Europe,2017-09-26,24,13.14,moving_average
+Water Sports | Europe,2017-09-27,7,13.14,moving_average
+Water Sports | Europe,2017-09-28,10,13.14,moving_average
+Water Sports | Europe,2017-09-29,29,13.14,moving_average
+Water Sports | Europe,2017-09-30,12,13.14,moving_average
+Water Sports | Europe,2017-10-01,17,13.14,moving_average
+Water Sports | Europe,2017-10-02,8,13.14,moving_average
+Water Sports | LATAM,2017-08-04,0,0.0,moving_average
+Water Sports | LATAM,2017-08-05,0,0.0,moving_average
+Water Sports | LATAM,2017-08-06,0,0.0,moving_average
+Water Sports | LATAM,2017-08-07,0,0.0,moving_average
+Water Sports | LATAM,2017-08-08,0,0.0,moving_average
+Water Sports | LATAM,2017-08-09,0,0.0,moving_average
+Water Sports | LATAM,2017-08-10,0,0.0,moving_average
+Water Sports | LATAM,2017-08-11,0,0.0,moving_average
+Water Sports | LATAM,2017-08-12,0,0.0,moving_average
+Water Sports | LATAM,2017-08-13,0,0.0,moving_average
+Water Sports | LATAM,2017-08-14,0,0.0,moving_average
+Water Sports | LATAM,2017-08-15,0,0.0,moving_average
+Water Sports | LATAM,2017-08-16,0,0.0,moving_average
+Water Sports | LATAM,2017-08-17,0,0.0,moving_average
+Water Sports | LATAM,2017-08-18,0,0.0,moving_average
+Water Sports | LATAM,2017-08-19,0,0.0,moving_average
+Water Sports | LATAM,2017-08-20,0,0.0,moving_average
+Water Sports | LATAM,2017-08-21,0,0.0,moving_average
+Water Sports | LATAM,2017-08-22,0,0.0,moving_average
+Water Sports | LATAM,2017-08-23,0,0.0,moving_average
+Water Sports | LATAM,2017-08-24,0,0.0,moving_average
+Water Sports | LATAM,2017-08-25,0,0.0,moving_average
+Water Sports | LATAM,2017-08-26,0,0.0,moving_average
+Water Sports | LATAM,2017-08-27,0,0.0,moving_average
+Water Sports | LATAM,2017-08-28,0,0.0,moving_average
+Water Sports | LATAM,2017-08-29,0,0.0,moving_average
+Water Sports | LATAM,2017-08-30,0,0.0,moving_average
+Water Sports | LATAM,2017-08-31,0,0.0,moving_average
+Water Sports | LATAM,2017-09-01,0,0.0,moving_average
+Water Sports | LATAM,2017-09-02,0,0.0,moving_average
+Water Sports | LATAM,2017-09-03,0,0.0,moving_average
+Water Sports | LATAM,2017-09-04,0,0.0,moving_average
+Water Sports | LATAM,2017-09-05,0,0.0,moving_average
+Water Sports | LATAM,2017-09-06,0,0.0,moving_average
+Water Sports | LATAM,2017-09-07,0,0.0,moving_average
+Water Sports | LATAM,2017-09-08,0,0.0,moving_average
+Water Sports | LATAM,2017-09-09,0,0.0,moving_average
+Water Sports | LATAM,2017-09-10,0,0.0,moving_average
+Water Sports | LATAM,2017-09-11,0,0.0,moving_average
+Water Sports | LATAM,2017-09-12,0,0.0,moving_average
+Water Sports | LATAM,2017-09-13,0,0.0,moving_average
+Water Sports | LATAM,2017-09-14,0,0.0,moving_average
+Water Sports | LATAM,2017-09-15,0,0.0,moving_average
+Water Sports | LATAM,2017-09-16,0,0.0,moving_average
+Water Sports | LATAM,2017-09-17,0,0.0,moving_average
+Water Sports | LATAM,2017-09-18,0,0.0,moving_average
+Water Sports | LATAM,2017-09-19,0,0.0,moving_average
+Water Sports | LATAM,2017-09-20,0,0.0,moving_average
+Water Sports | LATAM,2017-09-21,0,0.0,moving_average
+Water Sports | LATAM,2017-09-22,0,0.0,moving_average
+Water Sports | LATAM,2017-09-23,0,0.0,moving_average
+Water Sports | LATAM,2017-09-24,0,0.0,moving_average
+Water Sports | LATAM,2017-09-25,0,0.0,moving_average
+Water Sports | LATAM,2017-09-26,0,0.0,moving_average
+Water Sports | LATAM,2017-09-27,0,0.0,moving_average
+Water Sports | LATAM,2017-09-28,0,0.0,moving_average
+Water Sports | LATAM,2017-09-29,0,0.0,moving_average
+Water Sports | LATAM,2017-09-30,0,0.0,moving_average
+Water Sports | LATAM,2017-10-01,0,0.0,moving_average
+Water Sports | LATAM,2017-10-02,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-08-04,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-08-05,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-08-06,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-08-07,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-08-08,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-08-09,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-08-10,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-08-11,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-08-12,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-08-13,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-08-14,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-08-15,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-08-16,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-08-17,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-08-18,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-08-19,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-08-20,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-08-21,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-08-22,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-08-23,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-08-24,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-08-25,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-08-26,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-08-27,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-08-28,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-08-29,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-08-30,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-08-31,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-09-01,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-09-02,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-09-03,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-09-04,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-09-05,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-09-06,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-09-07,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-09-08,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-09-09,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-09-10,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-09-11,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-09-12,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-09-13,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-09-14,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-09-15,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-09-16,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-09-17,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-09-18,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-09-19,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-09-20,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-09-21,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-09-22,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-09-23,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-09-24,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-09-25,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-09-26,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-09-27,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-09-28,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-09-29,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-09-30,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-10-01,0,0.0,moving_average
+Water Sports | Pacific Asia,2017-10-02,0,0.0,moving_average
+Water Sports | USCA,2017-08-04,0,0.0,moving_average
+Water Sports | USCA,2017-08-05,0,0.0,moving_average
+Water Sports | USCA,2017-08-06,0,0.0,moving_average
+Water Sports | USCA,2017-08-07,0,0.0,moving_average
+Water Sports | USCA,2017-08-08,0,0.0,moving_average
+Water Sports | USCA,2017-08-09,0,0.0,moving_average
+Water Sports | USCA,2017-08-10,0,0.0,moving_average
+Water Sports | USCA,2017-08-11,0,0.0,moving_average
+Water Sports | USCA,2017-08-12,0,0.0,moving_average
+Water Sports | USCA,2017-08-13,0,0.0,moving_average
+Water Sports | USCA,2017-08-14,0,0.0,moving_average
+Water Sports | USCA,2017-08-15,0,0.0,moving_average
+Water Sports | USCA,2017-08-16,0,0.0,moving_average
+Water Sports | USCA,2017-08-17,0,0.0,moving_average
+Water Sports | USCA,2017-08-18,0,0.0,moving_average
+Water Sports | USCA,2017-08-19,0,0.0,moving_average
+Water Sports | USCA,2017-08-20,0,0.0,moving_average
+Water Sports | USCA,2017-08-21,0,0.0,moving_average
+Water Sports | USCA,2017-08-22,0,0.0,moving_average
+Water Sports | USCA,2017-08-23,0,0.0,moving_average
+Water Sports | USCA,2017-08-24,0,0.0,moving_average
+Water Sports | USCA,2017-08-25,0,0.0,moving_average
+Water Sports | USCA,2017-08-26,0,0.0,moving_average
+Water Sports | USCA,2017-08-27,0,0.0,moving_average
+Water Sports | USCA,2017-08-28,0,0.0,moving_average
+Water Sports | USCA,2017-08-29,0,0.0,moving_average
+Water Sports | USCA,2017-08-30,0,0.0,moving_average
+Water Sports | USCA,2017-08-31,0,0.0,moving_average
+Water Sports | USCA,2017-09-01,0,0.0,moving_average
+Water Sports | USCA,2017-09-02,0,0.0,moving_average
+Water Sports | USCA,2017-09-03,0,0.0,moving_average
+Water Sports | USCA,2017-09-04,0,0.0,moving_average
+Water Sports | USCA,2017-09-05,0,0.0,moving_average
+Water Sports | USCA,2017-09-06,0,0.0,moving_average
+Water Sports | USCA,2017-09-07,0,0.0,moving_average
+Water Sports | USCA,2017-09-08,0,0.0,moving_average
+Water Sports | USCA,2017-09-09,0,0.0,moving_average
+Water Sports | USCA,2017-09-10,0,0.0,moving_average
+Water Sports | USCA,2017-09-11,0,0.0,moving_average
+Water Sports | USCA,2017-09-12,0,0.0,moving_average
+Water Sports | USCA,2017-09-13,0,0.0,moving_average
+Water Sports | USCA,2017-09-14,0,0.0,moving_average
+Water Sports | USCA,2017-09-15,0,0.0,moving_average
+Water Sports | USCA,2017-09-16,0,0.0,moving_average
+Water Sports | USCA,2017-09-17,0,0.0,moving_average
+Water Sports | USCA,2017-09-18,0,0.0,moving_average
+Water Sports | USCA,2017-09-19,0,0.0,moving_average
+Water Sports | USCA,2017-09-20,0,0.0,moving_average
+Water Sports | USCA,2017-09-21,0,0.0,moving_average
+Water Sports | USCA,2017-09-22,0,0.0,moving_average
+Water Sports | USCA,2017-09-23,0,0.0,moving_average
+Water Sports | USCA,2017-09-24,0,0.0,moving_average
+Water Sports | USCA,2017-09-25,0,0.0,moving_average
+Water Sports | USCA,2017-09-26,0,0.0,moving_average
+Water Sports | USCA,2017-09-27,0,0.0,moving_average
+Water Sports | USCA,2017-09-28,0,0.0,moving_average
+Water Sports | USCA,2017-09-29,0,0.0,moving_average
+Water Sports | USCA,2017-09-30,0,0.0,moving_average
+Water Sports | USCA,2017-10-01,0,0.0,moving_average
+Water Sports | USCA,2017-10-02,0,0.0,moving_average
+Women's Apparel | Europe,2017-08-04,64,62.86,moving_average
+Women's Apparel | Europe,2017-08-05,54,62.86,moving_average
+Women's Apparel | Europe,2017-08-06,71,62.86,moving_average
+Women's Apparel | Europe,2017-08-07,56,62.86,moving_average
+Women's Apparel | Europe,2017-08-08,56,62.86,moving_average
+Women's Apparel | Europe,2017-08-09,62,62.86,moving_average
+Women's Apparel | Europe,2017-08-10,83,62.86,moving_average
+Women's Apparel | Europe,2017-08-11,52,62.86,moving_average
+Women's Apparel | Europe,2017-08-12,53,62.86,moving_average
+Women's Apparel | Europe,2017-08-13,48,62.86,moving_average
+Women's Apparel | Europe,2017-08-14,68,62.86,moving_average
+Women's Apparel | Europe,2017-08-15,55,62.86,moving_average
+Women's Apparel | Europe,2017-08-16,47,62.86,moving_average
+Women's Apparel | Europe,2017-08-17,36,62.86,moving_average
+Women's Apparel | Europe,2017-08-18,68,62.86,moving_average
+Women's Apparel | Europe,2017-08-19,51,62.86,moving_average
+Women's Apparel | Europe,2017-08-20,51,62.86,moving_average
+Women's Apparel | Europe,2017-08-21,85,62.86,moving_average
+Women's Apparel | Europe,2017-08-22,64,62.86,moving_average
+Women's Apparel | Europe,2017-08-23,49,62.86,moving_average
+Women's Apparel | Europe,2017-08-24,55,62.86,moving_average
+Women's Apparel | Europe,2017-08-25,76,62.86,moving_average
+Women's Apparel | Europe,2017-08-26,60,62.86,moving_average
+Women's Apparel | Europe,2017-08-27,69,62.86,moving_average
+Women's Apparel | Europe,2017-08-28,67,62.86,moving_average
+Women's Apparel | Europe,2017-08-29,47,62.86,moving_average
+Women's Apparel | Europe,2017-08-30,56,62.86,moving_average
+Women's Apparel | Europe,2017-08-31,65,62.86,moving_average
+Women's Apparel | Europe,2017-09-01,75,62.86,moving_average
+Women's Apparel | Europe,2017-09-02,55,62.86,moving_average
+Women's Apparel | Europe,2017-09-03,47,62.86,moving_average
+Women's Apparel | Europe,2017-09-04,52,62.86,moving_average
+Women's Apparel | Europe,2017-09-05,49,62.86,moving_average
+Women's Apparel | Europe,2017-09-06,60,62.86,moving_average
+Women's Apparel | Europe,2017-09-07,61,62.86,moving_average
+Women's Apparel | Europe,2017-09-08,79,62.86,moving_average
+Women's Apparel | Europe,2017-09-09,55,62.86,moving_average
+Women's Apparel | Europe,2017-09-10,66,62.86,moving_average
+Women's Apparel | Europe,2017-09-11,78,62.86,moving_average
+Women's Apparel | Europe,2017-09-12,79,62.86,moving_average
+Women's Apparel | Europe,2017-09-13,50,62.86,moving_average
+Women's Apparel | Europe,2017-09-14,45,62.86,moving_average
+Women's Apparel | Europe,2017-09-15,48,62.86,moving_average
+Women's Apparel | Europe,2017-09-16,45,62.86,moving_average
+Women's Apparel | Europe,2017-09-17,64,62.86,moving_average
+Women's Apparel | Europe,2017-09-18,56,62.86,moving_average
+Women's Apparel | Europe,2017-09-19,61,62.86,moving_average
+Women's Apparel | Europe,2017-09-20,58,62.86,moving_average
+Women's Apparel | Europe,2017-09-21,71,62.86,moving_average
+Women's Apparel | Europe,2017-09-22,64,62.86,moving_average
+Women's Apparel | Europe,2017-09-23,51,62.86,moving_average
+Women's Apparel | Europe,2017-09-24,85,62.86,moving_average
+Women's Apparel | Europe,2017-09-25,46,62.86,moving_average
+Women's Apparel | Europe,2017-09-26,79,62.86,moving_average
+Women's Apparel | Europe,2017-09-27,43,62.86,moving_average
+Women's Apparel | Europe,2017-09-28,79,62.86,moving_average
+Women's Apparel | Europe,2017-09-29,82,62.86,moving_average
+Women's Apparel | Europe,2017-09-30,71,62.86,moving_average
+Women's Apparel | Europe,2017-10-01,53,62.86,moving_average
+Women's Apparel | Europe,2017-10-02,25,62.86,moving_average
+Women's Apparel | LATAM,2017-08-04,0,0.0,moving_average
+Women's Apparel | LATAM,2017-08-05,0,0.0,moving_average
+Women's Apparel | LATAM,2017-08-06,0,0.0,moving_average
+Women's Apparel | LATAM,2017-08-07,0,0.0,moving_average
+Women's Apparel | LATAM,2017-08-08,0,0.0,moving_average
+Women's Apparel | LATAM,2017-08-09,0,0.0,moving_average
+Women's Apparel | LATAM,2017-08-10,0,0.0,moving_average
+Women's Apparel | LATAM,2017-08-11,0,0.0,moving_average
+Women's Apparel | LATAM,2017-08-12,0,0.0,moving_average
+Women's Apparel | LATAM,2017-08-13,0,0.0,moving_average
+Women's Apparel | LATAM,2017-08-14,0,0.0,moving_average
+Women's Apparel | LATAM,2017-08-15,0,0.0,moving_average
+Women's Apparel | LATAM,2017-08-16,0,0.0,moving_average
+Women's Apparel | LATAM,2017-08-17,0,0.0,moving_average
+Women's Apparel | LATAM,2017-08-18,0,0.0,moving_average
+Women's Apparel | LATAM,2017-08-19,0,0.0,moving_average
+Women's Apparel | LATAM,2017-08-20,0,0.0,moving_average
+Women's Apparel | LATAM,2017-08-21,0,0.0,moving_average
+Women's Apparel | LATAM,2017-08-22,0,0.0,moving_average
+Women's Apparel | LATAM,2017-08-23,0,0.0,moving_average
+Women's Apparel | LATAM,2017-08-24,0,0.0,moving_average
+Women's Apparel | LATAM,2017-08-25,0,0.0,moving_average
+Women's Apparel | LATAM,2017-08-26,0,0.0,moving_average
+Women's Apparel | LATAM,2017-08-27,0,0.0,moving_average
+Women's Apparel | LATAM,2017-08-28,0,0.0,moving_average
+Women's Apparel | LATAM,2017-08-29,0,0.0,moving_average
+Women's Apparel | LATAM,2017-08-30,0,0.0,moving_average
+Women's Apparel | LATAM,2017-08-31,0,0.0,moving_average
+Women's Apparel | LATAM,2017-09-01,0,0.0,moving_average
+Women's Apparel | LATAM,2017-09-02,0,0.0,moving_average
+Women's Apparel | LATAM,2017-09-03,0,0.0,moving_average
+Women's Apparel | LATAM,2017-09-04,0,0.0,moving_average
+Women's Apparel | LATAM,2017-09-05,0,0.0,moving_average
+Women's Apparel | LATAM,2017-09-06,0,0.0,moving_average
+Women's Apparel | LATAM,2017-09-07,0,0.0,moving_average
+Women's Apparel | LATAM,2017-09-08,0,0.0,moving_average
+Women's Apparel | LATAM,2017-09-09,0,0.0,moving_average
+Women's Apparel | LATAM,2017-09-10,0,0.0,moving_average
+Women's Apparel | LATAM,2017-09-11,0,0.0,moving_average
+Women's Apparel | LATAM,2017-09-12,0,0.0,moving_average
+Women's Apparel | LATAM,2017-09-13,0,0.0,moving_average
+Women's Apparel | LATAM,2017-09-14,0,0.0,moving_average
+Women's Apparel | LATAM,2017-09-15,0,0.0,moving_average
+Women's Apparel | LATAM,2017-09-16,0,0.0,moving_average
+Women's Apparel | LATAM,2017-09-17,0,0.0,moving_average
+Women's Apparel | LATAM,2017-09-18,0,0.0,moving_average
+Women's Apparel | LATAM,2017-09-19,0,0.0,moving_average
+Women's Apparel | LATAM,2017-09-20,0,0.0,moving_average
+Women's Apparel | LATAM,2017-09-21,0,0.0,moving_average
+Women's Apparel | LATAM,2017-09-22,0,0.0,moving_average
+Women's Apparel | LATAM,2017-09-23,0,0.0,moving_average
+Women's Apparel | LATAM,2017-09-24,0,0.0,moving_average
+Women's Apparel | LATAM,2017-09-25,0,0.0,moving_average
+Women's Apparel | LATAM,2017-09-26,0,0.0,moving_average
+Women's Apparel | LATAM,2017-09-27,0,0.0,moving_average
+Women's Apparel | LATAM,2017-09-28,0,0.0,moving_average
+Women's Apparel | LATAM,2017-09-29,0,0.0,moving_average
+Women's Apparel | LATAM,2017-09-30,0,0.0,moving_average
+Women's Apparel | LATAM,2017-10-01,0,0.0,moving_average
+Women's Apparel | LATAM,2017-10-02,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-08-04,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-08-05,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-08-06,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-08-07,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-08-08,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-08-09,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-08-10,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-08-11,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-08-12,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-08-13,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-08-14,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-08-15,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-08-16,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-08-17,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-08-18,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-08-19,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-08-20,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-08-21,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-08-22,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-08-23,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-08-24,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-08-25,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-08-26,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-08-27,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-08-28,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-08-29,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-08-30,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-08-31,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-09-01,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-09-02,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-09-03,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-09-04,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-09-05,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-09-06,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-09-07,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-09-08,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-09-09,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-09-10,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-09-11,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-09-12,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-09-13,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-09-14,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-09-15,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-09-16,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-09-17,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-09-18,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-09-19,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-09-20,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-09-21,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-09-22,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-09-23,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-09-24,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-09-25,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-09-26,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-09-27,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-09-28,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-09-29,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-09-30,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-10-01,0,0.0,moving_average
+Women's Apparel | Pacific Asia,2017-10-02,0,0.0,moving_average
+Women's Apparel | USCA,2017-08-04,0,0.0,moving_average
+Women's Apparel | USCA,2017-08-05,0,0.0,moving_average
+Women's Apparel | USCA,2017-08-06,0,0.0,moving_average
+Women's Apparel | USCA,2017-08-07,0,0.0,moving_average
+Women's Apparel | USCA,2017-08-08,0,0.0,moving_average
+Women's Apparel | USCA,2017-08-09,0,0.0,moving_average
+Women's Apparel | USCA,2017-08-10,0,0.0,moving_average
+Women's Apparel | USCA,2017-08-11,0,0.0,moving_average
+Women's Apparel | USCA,2017-08-12,0,0.0,moving_average
+Women's Apparel | USCA,2017-08-13,0,0.0,moving_average
+Women's Apparel | USCA,2017-08-14,0,0.0,moving_average
+Women's Apparel | USCA,2017-08-15,0,0.0,moving_average
+Women's Apparel | USCA,2017-08-16,0,0.0,moving_average
+Women's Apparel | USCA,2017-08-17,0,0.0,moving_average
+Women's Apparel | USCA,2017-08-18,0,0.0,moving_average
+Women's Apparel | USCA,2017-08-19,0,0.0,moving_average
+Women's Apparel | USCA,2017-08-20,0,0.0,moving_average
+Women's Apparel | USCA,2017-08-21,0,0.0,moving_average
+Women's Apparel | USCA,2017-08-22,0,0.0,moving_average
+Women's Apparel | USCA,2017-08-23,0,0.0,moving_average
+Women's Apparel | USCA,2017-08-24,0,0.0,moving_average
+Women's Apparel | USCA,2017-08-25,0,0.0,moving_average
+Women's Apparel | USCA,2017-08-26,0,0.0,moving_average
+Women's Apparel | USCA,2017-08-27,0,0.0,moving_average
+Women's Apparel | USCA,2017-08-28,0,0.0,moving_average
+Women's Apparel | USCA,2017-08-29,0,0.0,moving_average
+Women's Apparel | USCA,2017-08-30,0,0.0,moving_average
+Women's Apparel | USCA,2017-08-31,0,0.0,moving_average
+Women's Apparel | USCA,2017-09-01,0,0.0,moving_average
+Women's Apparel | USCA,2017-09-02,0,0.0,moving_average
+Women's Apparel | USCA,2017-09-03,0,0.0,moving_average
+Women's Apparel | USCA,2017-09-04,0,0.0,moving_average
+Women's Apparel | USCA,2017-09-05,0,0.0,moving_average
+Women's Apparel | USCA,2017-09-06,0,0.0,moving_average
+Women's Apparel | USCA,2017-09-07,0,0.0,moving_average
+Women's Apparel | USCA,2017-09-08,0,0.0,moving_average
+Women's Apparel | USCA,2017-09-09,0,0.0,moving_average
+Women's Apparel | USCA,2017-09-10,0,0.0,moving_average
+Women's Apparel | USCA,2017-09-11,0,0.0,moving_average
+Women's Apparel | USCA,2017-09-12,0,0.0,moving_average
+Women's Apparel | USCA,2017-09-13,0,0.0,moving_average
+Women's Apparel | USCA,2017-09-14,0,0.0,moving_average
+Women's Apparel | USCA,2017-09-15,0,0.0,moving_average
+Women's Apparel | USCA,2017-09-16,0,0.0,moving_average
+Women's Apparel | USCA,2017-09-17,0,0.0,moving_average
+Women's Apparel | USCA,2017-09-18,0,0.0,moving_average
+Women's Apparel | USCA,2017-09-19,0,0.0,moving_average
+Women's Apparel | USCA,2017-09-20,0,0.0,moving_average
+Women's Apparel | USCA,2017-09-21,0,0.0,moving_average
+Women's Apparel | USCA,2017-09-22,0,0.0,moving_average
+Women's Apparel | USCA,2017-09-23,0,0.0,moving_average
+Women's Apparel | USCA,2017-09-24,0,0.0,moving_average
+Women's Apparel | USCA,2017-09-25,0,0.0,moving_average
+Women's Apparel | USCA,2017-09-26,0,0.0,moving_average
+Women's Apparel | USCA,2017-09-27,0,0.0,moving_average
+Women's Apparel | USCA,2017-09-28,0,0.0,moving_average
+Women's Apparel | USCA,2017-09-29,0,0.0,moving_average
+Women's Apparel | USCA,2017-09-30,0,0.0,moving_average
+Women's Apparel | USCA,2017-10-01,0,0.0,moving_average
+Women's Apparel | USCA,2017-10-02,0,0.0,moving_average

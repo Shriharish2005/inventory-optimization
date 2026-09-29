@@ -1,0 +1,1031 @@
+[
+  {
+    "Country": "United States",
+    "revenue": 2297200.8603,
+    "profit": 286397.0217,
+    "units": 37873,
+    "margin_pct": 12.5
+  },
+  {
+    "Country": "Australia",
+    "revenue": 925235.853,
+    "profit": 103907.433,
+    "units": 10673,
+    "margin_pct": 11.2
+  },
+  {
+    "Country": "France",
+    "revenue": 858931.083,
+    "profit": 109029.003,
+    "units": 10804,
+    "margin_pct": 12.7
+  },
+  {
+    "Country": "China",
+    "revenue": 700562.025,
+    "profit": 150683.085,
+    "units": 7081,
+    "margin_pct": 21.5
+  },
+  {
+    "Country": "Germany",
+    "revenue": 628840.0305,
+    "profit": 107322.8205,
+    "units": 7745,
+    "margin_pct": 17.1
+  },
+  {
+    "Country": "Mexico",
+    "revenue": 622590.61752,
+    "profit": 102818.09752,
+    "units": 10011,
+    "margin_pct": 16.5
+  },
+  {
+    "Country": "India",
+    "revenue": 589650.105,
+    "profit": 129071.835,
+    "units": 5758,
+    "margin_pct": 21.9
+  },
+  {
+    "Country": "United Kingdom",
+    "revenue": 528576.3,
+    "profit": 111900.15,
+    "units": 6161,
+    "margin_pct": 21.2
+  },
+  {
+    "Country": "Indonesia",
+    "revenue": 404887.4979,
+    "profit": 15608.6779,
+    "units": 5237,
+    "margin_pct": 3.9
+  },
+  {
+    "Country": "Brazil",
+    "revenue": 361106.41896,
+    "profit": 30090.49896,
+    "units": 6148,
+    "margin_pct": 8.3
+  },
+  {
+    "Country": "Italy",
+    "revenue": 289709.658,
+    "profit": 19828.758,
+    "units": 4126,
+    "margin_pct": 6.8
+  },
+  {
+    "Country": "Spain",
+    "revenue": 287146.68,
+    "profit": 54390.12,
+    "units": 3240,
+    "margin_pct": 18.9
+  },
+  {
+    "Country": "Philippines",
+    "revenue": 183420.165,
+    "profit": -16128.225,
+    "units": 2606,
+    "margin_pct": -8.8
+  },
+  {
+    "Country": "El Salvador",
+    "revenue": 177554.9032,
+    "profit": 42023.2432,
+    "units": 2734,
+    "margin_pct": 23.7
+  },
+  {
+    "Country": "New Zealand",
+    "revenue": 172020.624,
+    "profit": 16600.284,
+    "units": 2089,
+    "margin_pct": 9.7
+  },
+  {
+    "Country": "Cuba",
+    "revenue": 158854.93548,
+    "profit": 38889.21548,
+    "units": 2717,
+    "margin_pct": 24.5
+  },
+  {
+    "Country": "Nicaragua",
+    "revenue": 149687.06456,
+    "profit": 33401.44456,
+    "units": 2235,
+    "margin_pct": 22.3
+  },
+  {
+    "Country": "Guatemala",
+    "revenue": 131602.46676,
+    "profit": 27944.68676,
+    "units": 1920,
+    "margin_pct": 21.2
+  },
+  {
+    "Country": "Dominican Republic",
+    "revenue": 126140.58128,
+    "profit": -7613.49872,
+    "units": 2736,
+    "margin_pct": -6.0
+  },
+  {
+    "Country": "Iran",
+    "revenue": 113746.11,
+    "profit": 26856.24,
+    "units": 1394,
+    "margin_pct": 23.6
+  },
+  {
+    "Country": "Turkey",
+    "revenue": 108507.948,
+    "profit": -98447.232,
+    "units": 3024,
+    "margin_pct": -90.7
+  },
+  {
+    "Country": "Japan",
+    "revenue": 100787.517,
+    "profit": 24328.467,
+    "units": 996,
+    "margin_pct": 24.1
+  },
+  {
+    "Country": "South Africa",
+    "revenue": 95292.27,
+    "profit": 21936.63,
+    "units": 1038,
+    "margin_pct": 23.0
+  },
+  {
+    "Country": "Austria",
+    "revenue": 92539.05,
+    "profit": 24341.7,
+    "units": 1148,
+    "margin_pct": 26.3
+  },
+  {
+    "Country": "Honduras",
+    "revenue": 90125.6486,
+    "profit": -29482.3714,
+    "units": 2556,
+    "margin_pct": -32.7
+  },
+  {
+    "Country": "Democratic Republic of the Congo",
+    "revenue": 87416.58,
+    "profit": 21860.58,
+    "units": 903,
+    "margin_pct": 25.0
+  },
+  {
+    "Country": "Morocco",
+    "revenue": 87077.94,
+    "profit": 22761.42,
+    "units": 1023,
+    "margin_pct": 26.1
+  },
+  {
+    "Country": "Ukraine",
+    "revenue": 86857.17,
+    "profit": 20944.23,
+    "units": 950,
+    "margin_pct": 24.1
+  },
+  {
+    "Country": "Egypt",
+    "revenue": 84139.32,
+    "profit": 19702.23,
+    "units": 1123,
+    "margin_pct": 23.4
+  },
+  {
+    "Country": "Russia",
+    "revenue": 82913.88,
+    "profit": 22536.45,
+    "units": 917,
+    "margin_pct": 27.2
+  },
+  {
+    "Country": "Saudi Arabia",
+    "revenue": 82012.2,
+    "profit": 19339.59,
+    "units": 853,
+    "margin_pct": 23.6
+  },
+  {
+    "Country": "Colombia",
+    "revenue": 81502.52976,
+    "profit": 18798.04976,
+    "units": 1277,
+    "margin_pct": 23.1
+  },
+  {
+    "Country": "Bangladesh",
+    "revenue": 78256.47,
+    "profit": 19430.89,
+    "units": 680,
+    "margin_pct": 24.8
+  },
+  {
+    "Country": "Netherlands",
+    "revenue": 77514.945,
+    "profit": -41070.075,
+    "units": 1682,
+    "margin_pct": -53.0
+  },
+  {
+    "Country": "Thailand",
+    "revenue": 77051.955,
+    "profit": -7308.195,
+    "units": 1110,
+    "margin_pct": -9.5
+  },
+  {
+    "Country": "Iraq",
+    "revenue": 70714.8,
+    "profit": 18243.21,
+    "units": 858,
+    "margin_pct": 25.8
+  },
+  {
+    "Country": "Canada",
+    "revenue": 66928.17,
+    "profit": 17817.39,
+    "units": 833,
+    "margin_pct": 26.6
+  },
+  {
+    "Country": "Vietnam",
+    "revenue": 65800.1994,
+    "profit": -1870.2306,
+    "units": 996,
+    "margin_pct": -2.8
+  },
+  {
+    "Country": "Malaysia",
+    "revenue": 61362.21,
+    "profit": 16329.96,
+    "units": 676,
+    "margin_pct": 26.6
+  },
+  {
+    "Country": "Pakistan",
+    "revenue": 58872.612,
+    "profit": -22446.648,
+    "units": 948,
+    "margin_pct": -38.1
+  },
+  {
+    "Country": "Argentina",
+    "revenue": 57511.78328,
+    "profit": -18693.79672,
+    "units": 1504,
+    "margin_pct": -32.5
+  },
+  {
+    "Country": "Nigeria",
+    "revenue": 54350.352,
+    "profit": -80750.718,
+    "units": 2056,
+    "margin_pct": -148.6
+  },
+  {
+    "Country": "Panama",
+    "revenue": 51539.92752,
+    "profit": -17723.45248,
+    "units": 1426,
+    "margin_pct": -34.4
+  },
+  {
+    "Country": "Belgium",
+    "revenue": 49226.7,
+    "profit": 11572.59,
+    "units": 575,
+    "margin_pct": 23.5
+  },
+  {
+    "Country": "Poland",
+    "revenue": 44228.85,
+    "profit": 10983.12,
+    "units": 563,
+    "margin_pct": 24.8
+  },
+  {
+    "Country": "Singapore",
+    "revenue": 40286.25,
+    "profit": 8853.06,
+    "units": 554,
+    "margin_pct": 22.0
+  },
+  {
+    "Country": "Romania",
+    "revenue": 37256.58,
+    "profit": 7626.27,
+    "units": 376,
+    "margin_pct": 20.5
+  },
+  {
+    "Country": "Algeria",
+    "revenue": 36091.59,
+    "profit": 9106.5,
+    "units": 454,
+    "margin_pct": 25.2
+  },
+  {
+    "Country": "Chile",
+    "revenue": 35447.07072,
+    "profit": 7744.33072,
+    "units": 551,
+    "margin_pct": 21.8
+  },
+  {
+    "Country": "Myanmar (Burma)",
+    "revenue": 34138.8717,
+    "profit": -2109.2583,
+    "units": 489,
+    "margin_pct": -6.2
+  },
+  {
+    "Country": "South Korea",
+    "revenue": 33125.379,
+    "profit": -12792.831,
+    "units": 643,
+    "margin_pct": -38.6
+  },
+  {
+    "Country": "Sweden",
+    "revenue": 30491.403,
+    "profit": -17519.367,
+    "units": 753,
+    "margin_pct": -57.5
+  },
+  {
+    "Country": "Senegal",
+    "revenue": 28848.9,
+    "profit": 7511.16,
+    "units": 258,
+    "margin_pct": 26.0
+  },
+  {
+    "Country": "Tanzania",
+    "revenue": 26816.139,
+    "profit": 5727.969,
+    "units": 342,
+    "margin_pct": 21.4
+  },
+  {
+    "Country": "Venezuela",
+    "revenue": 26587.82956,
+    "profit": -11222.71044,
+    "units": 774,
+    "margin_pct": -42.2
+  },
+  {
+    "Country": "Zambia",
+    "revenue": 26035.5,
+    "profit": 7001.73,
+    "units": 251,
+    "margin_pct": 26.9
+  },
+  {
+    "Country": "Cote d'Ivoire",
+    "revenue": 25618.17,
+    "profit": 6430.62,
+    "units": 247,
+    "margin_pct": 25.1
+  },
+  {
+    "Country": "Angola",
+    "revenue": 25554.0,
+    "profit": 6494.97,
+    "units": 317,
+    "margin_pct": 25.4
+  },
+  {
+    "Country": "Switzerland",
+    "revenue": 24877.86,
+    "profit": 7237.47,
+    "units": 308,
+    "margin_pct": 29.1
+  },
+  {
+    "Country": "Ghana",
+    "revenue": 23272.26,
+    "profit": 5568.54,
+    "units": 264,
+    "margin_pct": 23.9
+  },
+  {
+    "Country": "Cameroon",
+    "revenue": 22349.37,
+    "profit": 5664.75,
+    "units": 228,
+    "margin_pct": 25.3
+  },
+  {
+    "Country": "Afghanistan",
+    "revenue": 21673.32,
+    "profit": 5460.3,
+    "units": 228,
+    "margin_pct": 25.2
+  },
+  {
+    "Country": "Mozambique",
+    "revenue": 21302.88,
+    "profit": 5935.8,
+    "units": 231,
+    "margin_pct": 27.9
+  },
+  {
+    "Country": "Finland",
+    "revenue": 20704.35,
+    "profit": 3905.73,
+    "units": 201,
+    "margin_pct": 18.9
+  },
+  {
+    "Country": "Norway",
+    "revenue": 20525.37,
+    "profit": 5167.77,
+    "units": 261,
+    "margin_pct": 25.2
+  },
+  {
+    "Country": "Israel",
+    "revenue": 19294.08,
+    "profit": 3559.23,
+    "units": 225,
+    "margin_pct": 18.4
+  },
+  {
+    "Country": "Peru",
+    "revenue": 17833.18372,
+    "profit": -5507.87628,
+    "units": 567,
+    "margin_pct": -30.9
+  },
+  {
+    "Country": "Kenya",
+    "revenue": 17573.13,
+    "profit": 3992.1,
+    "units": 224,
+    "margin_pct": 22.7
+  },
+  {
+    "Country": "Cambodia",
+    "revenue": 17476.02,
+    "profit": 4476.54,
+    "units": 154,
+    "margin_pct": 25.6
+  },
+  {
+    "Country": "Ireland",
+    "revenue": 16639.509,
+    "profit": -7392.381,
+    "units": 414,
+    "margin_pct": -44.4
+  },
+  {
+    "Country": "Sudan",
+    "revenue": 16338.57,
+    "profit": 3619.5,
+    "units": 197,
+    "margin_pct": 22.2
+  },
+  {
+    "Country": "Bulgaria",
+    "revenue": 15557.64,
+    "profit": 3922.59,
+    "units": 174,
+    "margin_pct": 25.2
+  },
+  {
+    "Country": "Portugal",
+    "revenue": 15105.12,
+    "profit": -8703.06,
+    "units": 286,
+    "margin_pct": -57.6
+  },
+  {
+    "Country": "Hungary",
+    "revenue": 14254.05,
+    "profit": 3201.93,
+    "units": 174,
+    "margin_pct": 22.5
+  },
+  {
+    "Country": "Belarus",
+    "revenue": 13386.09,
+    "profit": 4534.26,
+    "units": 178,
+    "margin_pct": 33.9
+  },
+  {
+    "Country": "Ecuador",
+    "revenue": 13342.98036,
+    "profit": 2548.10036,
+    "units": 198,
+    "margin_pct": 19.1
+  },
+  {
+    "Country": "Madagascar",
+    "revenue": 12617.55,
+    "profit": 3296.58,
+    "units": 142,
+    "margin_pct": 26.1
+  },
+  {
+    "Country": "Bolivia",
+    "revenue": 11588.97,
+    "profit": 2229.35,
+    "units": 174,
+    "margin_pct": 19.2
+  },
+  {
+    "Country": "Haiti",
+    "revenue": 11038.329,
+    "profit": -4187.311,
+    "units": 392,
+    "margin_pct": -37.9
+  },
+  {
+    "Country": "Uruguay",
+    "revenue": 9712.544,
+    "profit": 1689.344,
+    "units": 101,
+    "margin_pct": 17.4
+  },
+  {
+    "Country": "Czech Republic",
+    "revenue": 9573.93,
+    "profit": 2093.55,
+    "units": 164,
+    "margin_pct": 21.9
+  },
+  {
+    "Country": "Mali",
+    "revenue": 8914.47,
+    "profit": 2291.55,
+    "units": 80,
+    "margin_pct": 25.7
+  },
+  {
+    "Country": "Denmark",
+    "revenue": 8638.053,
+    "profit": -4282.047,
+    "units": 220,
+    "margin_pct": -49.6
+  },
+  {
+    "Country": "Somalia",
+    "revenue": 8185.05,
+    "profit": 1005.27,
+    "units": 95,
+    "margin_pct": 12.3
+  },
+  {
+    "Country": "Libya",
+    "revenue": 7808.4,
+    "profit": 2044.5,
+    "units": 103,
+    "margin_pct": 26.2
+  },
+  {
+    "Country": "Taiwan",
+    "revenue": 7647.63,
+    "profit": 1818.6,
+    "units": 52,
+    "margin_pct": 23.8
+  },
+  {
+    "Country": "Uzbekistan",
+    "revenue": 7329.87,
+    "profit": 1648.14,
+    "units": 105,
+    "margin_pct": 22.5
+  },
+  {
+    "Country": "Jordan",
+    "revenue": 7326.15,
+    "profit": 1823.7,
+    "units": 106,
+    "margin_pct": 24.9
+  },
+  {
+    "Country": "Barbados",
+    "revenue": 7174.27392,
+    "profit": 2199.79392,
+    "units": 76,
+    "margin_pct": 30.7
+  },
+  {
+    "Country": "Niger",
+    "revenue": 6922.98,
+    "profit": 1819.77,
+    "units": 103,
+    "margin_pct": 26.3
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "revenue": 6881.16448,
+    "profit": 2300.48448,
+    "units": 120,
+    "margin_pct": 33.4
+  },
+  {
+    "Country": "Mongolia",
+    "revenue": 6789.84,
+    "profit": 1506.42,
+    "units": 80,
+    "margin_pct": 22.2
+  },
+  {
+    "Country": "Jamaica",
+    "revenue": 6761.78584,
+    "profit": 1392.22584,
+    "units": 112,
+    "margin_pct": 20.6
+  },
+  {
+    "Country": "Lithuania",
+    "revenue": 6724.332,
+    "profit": -8966.118,
+    "units": 143,
+    "margin_pct": -133.3
+  },
+  {
+    "Country": "Lesotho",
+    "revenue": 6711.99,
+    "profit": 1398.21,
+    "units": 23,
+    "margin_pct": 20.8
+  },
+  {
+    "Country": "Benin",
+    "revenue": 6212.07,
+    "profit": 1349.19,
+    "units": 66,
+    "margin_pct": 21.7
+  },
+  {
+    "Country": "Hong Kong",
+    "revenue": 6147.0,
+    "profit": 1558.11,
+    "units": 70,
+    "margin_pct": 25.3
+  },
+  {
+    "Country": "Qatar",
+    "revenue": 6049.8,
+    "profit": 1502.88,
+    "units": 47,
+    "margin_pct": 24.8
+  },
+  {
+    "Country": "Martinique",
+    "revenue": 5968.15104,
+    "profit": 1114.21104,
+    "units": 122,
+    "margin_pct": 18.7
+  },
+  {
+    "Country": "Azerbaijan",
+    "revenue": 5631.51,
+    "profit": 1831.05,
+    "units": 54,
+    "margin_pct": 32.5
+  },
+  {
+    "Country": "Georgia",
+    "revenue": 5427.42,
+    "profit": 1285.68,
+    "units": 81,
+    "margin_pct": 23.7
+  },
+  {
+    "Country": "Syria",
+    "revenue": 5310.63,
+    "profit": 693.21,
+    "units": 58,
+    "margin_pct": 13.1
+  },
+  {
+    "Country": "Rwanda",
+    "revenue": 5194.08,
+    "profit": 1336.44,
+    "units": 88,
+    "margin_pct": 25.7
+  },
+  {
+    "Country": "Moldova",
+    "revenue": 5139.93,
+    "profit": 1127.22,
+    "units": 95,
+    "margin_pct": 21.9
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "revenue": 5106.3,
+    "profit": 1735.32,
+    "units": 79,
+    "margin_pct": 34.0
+  },
+  {
+    "Country": "Kazakhstan",
+    "revenue": 4605.444,
+    "profit": -7099.896,
+    "units": 209,
+    "margin_pct": -154.2
+  },
+  {
+    "Country": "Estonia",
+    "revenue": 4479.84,
+    "profit": 1110.18,
+    "units": 24,
+    "margin_pct": 24.8
+  },
+  {
+    "Country": "Croatia",
+    "revenue": 4461.18,
+    "profit": 1303.92,
+    "units": 90,
+    "margin_pct": 29.2
+  },
+  {
+    "Country": "Togo",
+    "revenue": 4146.42,
+    "profit": 816.87,
+    "units": 89,
+    "margin_pct": 19.7
+  },
+  {
+    "Country": "Mauritania",
+    "revenue": 4020.93,
+    "profit": 1675.95,
+    "units": 29,
+    "margin_pct": 41.7
+  },
+  {
+    "Country": "Montenegro",
+    "revenue": 4004.37,
+    "profit": 1286.76,
+    "units": 13,
+    "margin_pct": 32.1
+  },
+  {
+    "Country": "Albania",
+    "revenue": 3888.12,
+    "profit": 709.32,
+    "units": 40,
+    "margin_pct": 18.2
+  },
+  {
+    "Country": "Zimbabwe",
+    "revenue": 3765.105,
+    "profit": -5428.785,
+    "units": 190,
+    "margin_pct": -144.2
+  },
+  {
+    "Country": "Liberia",
+    "revenue": 3560.88,
+    "profit": 1044.9,
+    "units": 37,
+    "margin_pct": 29.3
+  },
+  {
+    "Country": "Nepal",
+    "revenue": 3522.24,
+    "profit": 877.44,
+    "units": 69,
+    "margin_pct": 24.9
+  },
+  {
+    "Country": "Guinea",
+    "revenue": 3498.27,
+    "profit": 951.24,
+    "units": 32,
+    "margin_pct": 27.2
+  },
+  {
+    "Country": "Papua New Guinea",
+    "revenue": 2928.135,
+    "profit": -418.605,
+    "units": 76,
+    "margin_pct": -14.3
+  },
+  {
+    "Country": "Namibia",
+    "revenue": 2899.47,
+    "profit": 736.95,
+    "units": 30,
+    "margin_pct": 25.4
+  },
+  {
+    "Country": "Lebanon",
+    "revenue": 2796.66,
+    "profit": 908.4,
+    "units": 18,
+    "margin_pct": 32.5
+  },
+  {
+    "Country": "Republic of the Congo",
+    "revenue": 2713.23,
+    "profit": 280.74,
+    "units": 30,
+    "margin_pct": 10.3
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "revenue": 2599.26,
+    "profit": 660.18,
+    "units": 50,
+    "margin_pct": 25.4
+  },
+  {
+    "Country": "Paraguay",
+    "revenue": 2590.36752,
+    "profit": 415.22752,
+    "units": 51,
+    "margin_pct": 16.0
+  },
+  {
+    "Country": "Yemen",
+    "revenue": 2465.712,
+    "profit": -3706.458,
+    "units": 71,
+    "margin_pct": -150.3
+  },
+  {
+    "Country": "Sierra Leone",
+    "revenue": 2447.67,
+    "profit": 471.75,
+    "units": 31,
+    "margin_pct": 19.3
+  },
+  {
+    "Country": "Djibouti",
+    "revenue": 2392.95,
+    "profit": 804.09,
+    "units": 31,
+    "margin_pct": 33.6
+  },
+  {
+    "Country": "Central African Republic",
+    "revenue": 2377.56,
+    "profit": 468.54,
+    "units": 15,
+    "margin_pct": 19.7
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "revenue": 2065.44,
+    "profit": 411.39,
+    "units": 13,
+    "margin_pct": 19.9
+  },
+  {
+    "Country": "Turkmenistan",
+    "revenue": 2027.061,
+    "profit": -3302.709,
+    "units": 58,
+    "margin_pct": -162.9
+  },
+  {
+    "Country": "Tunisia",
+    "revenue": 1760.79,
+    "profit": 602.1,
+    "units": 22,
+    "margin_pct": 34.2
+  },
+  {
+    "Country": "Gabon",
+    "revenue": 1751.73,
+    "profit": 479.67,
+    "units": 46,
+    "margin_pct": 27.4
+  },
+  {
+    "Country": "Uganda",
+    "revenue": 1621.935,
+    "profit": -2426.085,
+    "units": 63,
+    "margin_pct": -149.6
+  },
+  {
+    "Country": "Slovenia",
+    "revenue": 1469.94,
+    "profit": 590.04,
+    "units": 20,
+    "margin_pct": 40.1
+  },
+  {
+    "Country": "Guadeloupe",
+    "revenue": 1461.64,
+    "profit": 476.2,
+    "units": 24,
+    "margin_pct": 32.6
+  },
+  {
+    "Country": "Chad",
+    "revenue": 1317.03,
+    "profit": 90.0,
+    "units": 11,
+    "margin_pct": 6.8
+  },
+  {
+    "Country": "South Sudan",
+    "revenue": 1045.62,
+    "profit": 186.36,
+    "units": 5,
+    "margin_pct": 17.8
+  },
+  {
+    "Country": "Slovakia",
+    "revenue": 865.32,
+    "profit": 115.26,
+    "units": 18,
+    "margin_pct": 13.3
+  },
+  {
+    "Country": "Sri Lanka",
+    "revenue": 851.82,
+    "profit": 86.37,
+    "units": 32,
+    "margin_pct": 10.1
+  },
+  {
+    "Country": "Ethiopia",
+    "revenue": 850.62,
+    "profit": 290.16,
+    "units": 18,
+    "margin_pct": 34.1
+  },
+  {
+    "Country": "United Arab Emirates",
+    "revenue": 744.12,
+    "profit": -1036.86,
+    "units": 37,
+    "margin_pct": -139.3
+  },
+  {
+    "Country": "Bahrain",
+    "revenue": 669.18,
+    "profit": 12.84,
+    "units": 6,
+    "margin_pct": 1.9
+  },
+  {
+    "Country": "Swaziland",
+    "revenue": 288.03,
+    "profit": 86.76,
+    "units": 5,
+    "margin_pct": 30.1
+  },
+  {
+    "Country": "Burundi",
+    "revenue": 267.72,
+    "profit": 103.08,
+    "units": 4,
+    "margin_pct": 38.5
+  },
+  {
+    "Country": "Tajikistan",
+    "revenue": 242.784,
+    "profit": -262.866,
+    "units": 14,
+    "margin_pct": -108.3
+  },
+  {
+    "Country": "Macedonia",
+    "revenue": 209.64,
+    "profit": 43.38,
+    "units": 6,
+    "margin_pct": 20.7
+  },
+  {
+    "Country": "Eritrea",
+    "revenue": 187.74,
+    "profit": 76.2,
+    "units": 4,
+    "margin_pct": 40.6
+  },
+  {
+    "Country": "Armenia",
+    "revenue": 156.75,
+    "profit": 69.09,
+    "units": 3,
+    "margin_pct": 44.1
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "revenue": 150.51,
+    "profit": 44.46,
+    "units": 3,
+    "margin_pct": 29.5
+  }
+]

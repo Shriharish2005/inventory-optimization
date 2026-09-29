@@ -1,0 +1,892 @@
+{
+  "detail": [
+    {
+      "sku_id": "Chairs | APAC",
+      "abc_class": "A",
+      "revenue": 512974.17,
+      "xyz_class": "Y",
+      "cv": 0.6565364651,
+      "zero_day_share": 0.5633127995,
+      "segment": "AY",
+      "recommended_approach": "High value, moderately variable -- forecast closely, review monthly"
+    },
+    {
+      "sku_id": "Bookcases | APAC",
+      "abc_class": "A",
+      "revenue": 504823.03,
+      "xyz_class": "Y",
+      "cv": 0.7987581463,
+      "zero_day_share": 0.6878850103,
+      "segment": "AY",
+      "recommended_approach": "High value, moderately variable -- forecast closely, review monthly"
+    },
+    {
+      "sku_id": "Copiers | APAC",
+      "abc_class": "A",
+      "revenue": 494593.71,
+      "xyz_class": "Y",
+      "cv": 0.8155539257,
+      "zero_day_share": 0.6714579055,
+      "segment": "AY",
+      "recommended_approach": "High value, moderately variable -- forecast closely, review monthly"
+    },
+    {
+      "sku_id": "Phones | APAC",
+      "abc_class": "A",
+      "revenue": 486354.49,
+      "xyz_class": "Y",
+      "cv": 0.8008904182,
+      "zero_day_share": 0.65229295,
+      "segment": "AY",
+      "recommended_approach": "High value, moderately variable -- forecast closely, review monthly"
+    },
+    {
+      "sku_id": "Copiers | EU",
+      "abc_class": "A",
+      "revenue": 365128.65,
+      "xyz_class": "Y",
+      "cv": 0.9340847389,
+      "zero_day_share": 0.7467488022,
+      "segment": "AY",
+      "recommended_approach": "High value, moderately variable -- forecast closely, review monthly"
+    },
+    {
+      "sku_id": "Bookcases | EU",
+      "abc_class": "A",
+      "revenue": 363525.7,
+      "xyz_class": "Y",
+      "cv": 0.9302358273,
+      "zero_day_share": 0.7488021903,
+      "segment": "AY",
+      "recommended_approach": "High value, moderately variable -- forecast closely, review monthly"
+    },
+    {
+      "sku_id": "Phones | EU",
+      "abc_class": "A",
+      "revenue": 361312.07,
+      "xyz_class": "Y",
+      "cv": 0.8637657211,
+      "zero_day_share": 0.7091033539,
+      "segment": "AY",
+      "recommended_approach": "High value, moderately variable -- forecast closely, review monthly"
+    },
+    {
+      "sku_id": "Storage | EU",
+      "abc_class": "A",
+      "revenue": 339684.38,
+      "xyz_class": "Y",
+      "cv": 0.6304506452,
+      "zero_day_share": 0.5051334702,
+      "segment": "AY",
+      "recommended_approach": "High value, moderately variable -- forecast closely, review monthly"
+    },
+    {
+      "sku_id": "Phones | US",
+      "abc_class": "A",
+      "revenue": 330007.04,
+      "xyz_class": "Y",
+      "cv": 0.7966576161,
+      "zero_day_share": 0.6078028747,
+      "segment": "AY",
+      "recommended_approach": "High value, moderately variable -- forecast closely, review monthly"
+    },
+    {
+      "sku_id": "Chairs | US",
+      "abc_class": "A",
+      "revenue": 328449.04,
+      "xyz_class": "Y",
+      "cv": 0.8450374274,
+      "zero_day_share": 0.7152635181,
+      "segment": "AY",
+      "recommended_approach": "High value, moderately variable -- forecast closely, review monthly"
+    },
+    {
+      "sku_id": "Copiers | LATAM",
+      "abc_class": "A",
+      "revenue": 316322.3,
+      "xyz_class": "Y",
+      "cv": 0.8354830624,
+      "zero_day_share": 0.6981519507,
+      "segment": "AY",
+      "recommended_approach": "High value, moderately variable -- forecast closely, review monthly"
+    },
+    {
+      "sku_id": "Appliances | APAC",
+      "abc_class": "A",
+      "revenue": 307620.73,
+      "xyz_class": "Y",
+      "cv": 0.9318746728,
+      "zero_day_share": 0.8056125941,
+      "segment": "AY",
+      "recommended_approach": "High value, moderately variable -- forecast closely, review monthly"
+    },
+    {
+      "sku_id": "Bookcases | LATAM",
+      "abc_class": "A",
+      "revenue": 302415.15,
+      "xyz_class": "Y",
+      "cv": 0.8289456104,
+      "zero_day_share": 0.6988364134,
+      "segment": "AY",
+      "recommended_approach": "High value, moderately variable -- forecast closely, review monthly"
+    },
+    {
+      "sku_id": "Chairs | LATAM",
+      "abc_class": "A",
+      "revenue": 302219.22,
+      "xyz_class": "Y",
+      "cv": 0.8133765466,
+      "zero_day_share": 0.6105407255,
+      "segment": "AY",
+      "recommended_approach": "High value, moderately variable -- forecast closely, review monthly"
+    },
+    {
+      "sku_id": "Phones | LATAM",
+      "abc_class": "A",
+      "revenue": 289711.5,
+      "xyz_class": "Y",
+      "cv": 0.8514462426,
+      "zero_day_share": 0.6947296372,
+      "segment": "AY",
+      "recommended_approach": "High value, moderately variable -- forecast closely, review monthly"
+    },
+    {
+      "sku_id": "Appliances | EU",
+      "abc_class": "A",
+      "revenue": 275439.21,
+      "xyz_class": "Z",
+      "cv": 1.052289049,
+      "zero_day_share": 0.8138261465,
+      "segment": "AZ",
+      "recommended_approach": "High value, erratic -- highest risk; hold generous safety stock and review weekly"
+    },
+    {
+      "sku_id": "Chairs | EU",
+      "abc_class": "A",
+      "revenue": 228980.94,
+      "xyz_class": "Y",
+      "cv": 0.9364059691,
+      "zero_day_share": 0.7474332649,
+      "segment": "AY",
+      "recommended_approach": "High value, moderately variable -- forecast closely, review monthly"
+    },
+    {
+      "sku_id": "Storage | US",
+      "abc_class": "A",
+      "revenue": 223843.62,
+      "xyz_class": "Y",
+      "cv": 0.768481104,
+      "zero_day_share": 0.6180698152,
+      "segment": "AY",
+      "recommended_approach": "High value, moderately variable -- forecast closely, review monthly"
+    },
+    {
+      "sku_id": "Machines | EU",
+      "abc_class": "A",
+      "revenue": 223164.94,
+      "xyz_class": "Y",
+      "cv": 0.9330361024,
+      "zero_day_share": 0.7713894593,
+      "segment": "AY",
+      "recommended_approach": "High value, moderately variable -- forecast closely, review monthly"
+    },
+    {
+      "sku_id": "Storage | APAC",
+      "abc_class": "A",
+      "revenue": 216075.85,
+      "xyz_class": "Y",
+      "cv": 0.704371747,
+      "zero_day_share": 0.6392881588,
+      "segment": "AY",
+      "recommended_approach": "High value, moderately variable -- forecast closely, review monthly"
+    },
+    {
+      "sku_id": "Tables | US",
+      "abc_class": "A",
+      "revenue": 206965.48,
+      "xyz_class": "Z",
+      "cv": 1.0807243594,
+      "zero_day_share": 0.8240930869,
+      "segment": "AZ",
+      "recommended_approach": "High value, erratic -- highest risk; hold generous safety stock and review weekly"
+    },
+    {
+      "sku_id": "Binders | US",
+      "abc_class": "A",
+      "revenue": 203412.77,
+      "xyz_class": "Y",
+      "cv": 0.689886087,
+      "zero_day_share": 0.4688569473,
+      "segment": "AY",
+      "recommended_approach": "High value, moderately variable -- forecast closely, review monthly"
+    },
+    {
+      "sku_id": "Machines | APAC",
+      "abc_class": "A",
+      "revenue": 190306.83,
+      "xyz_class": "Z",
+      "cv": 1.0116735178,
+      "zero_day_share": 0.7960301164,
+      "segment": "AZ",
+      "recommended_approach": "High value, erratic -- highest risk; hold generous safety stock and review weekly"
+    },
+    {
+      "sku_id": "Accessories | APAC",
+      "abc_class": "A",
+      "revenue": 186235.19,
+      "xyz_class": "Y",
+      "cv": 0.8087234059,
+      "zero_day_share": 0.6605065024,
+      "segment": "AY",
+      "recommended_approach": "High value, moderately variable -- forecast closely, review monthly"
+    },
+    {
+      "sku_id": "Appliances | LATAM",
+      "abc_class": "A",
+      "revenue": 182075.22,
+      "xyz_class": "Z",
+      "cv": 1.0148800953,
+      "zero_day_share": 0.8213552361,
+      "segment": "AZ",
+      "recommended_approach": "High value, erratic -- highest risk; hold generous safety stock and review weekly"
+    },
+    {
+      "sku_id": "Accessories | US",
+      "abc_class": "A",
+      "revenue": 167380.37,
+      "xyz_class": "Y",
+      "cv": 0.8488422154,
+      "zero_day_share": 0.6495550992,
+      "segment": "AY",
+      "recommended_approach": "High value, moderately variable -- forecast closely, review monthly"
+    },
+    {
+      "sku_id": "Accessories | EU",
+      "abc_class": "A",
+      "revenue": 163073.43,
+      "xyz_class": "Y",
+      "cv": 0.979181539,
+      "zero_day_share": 0.7577002053,
+      "segment": "AY",
+      "recommended_approach": "High value, moderately variable -- forecast closely, review monthly"
+    },
+    {
+      "sku_id": "Art | EU",
+      "abc_class": "A",
+      "revenue": 160088.17,
+      "xyz_class": "Y",
+      "cv": 0.6430165525,
+      "zero_day_share": 0.4777549624,
+      "segment": "AY",
+      "recommended_approach": "High value, moderately variable -- forecast closely, review monthly"
+    },
+    {
+      "sku_id": "Storage | LATAM",
+      "abc_class": "A",
+      "revenue": 142036.2,
+      "xyz_class": "Y",
+      "cv": 0.8395142467,
+      "zero_day_share": 0.6427104723,
+      "segment": "AY",
+      "recommended_approach": "High value, moderately variable -- forecast closely, review monthly"
+    },
+    {
+      "sku_id": "Accessories | LATAM",
+      "abc_class": "A",
+      "revenue": 141738.64,
+      "xyz_class": "Y",
+      "cv": 0.8571596289,
+      "zero_day_share": 0.6954140999,
+      "segment": "AY",
+      "recommended_approach": "High value, moderately variable -- forecast closely, review monthly"
+    },
+    {
+      "sku_id": "Bookcases | US",
+      "abc_class": "A",
+      "revenue": 114879.98,
+      "xyz_class": "Z",
+      "cv": 1.1214755338,
+      "zero_day_share": 0.8631074606,
+      "segment": "AZ",
+      "recommended_approach": "High value, erratic -- highest risk; hold generous safety stock and review weekly"
+    },
+    {
+      "sku_id": "Phones | Africa",
+      "abc_class": "A",
+      "revenue": 114832.8,
+      "xyz_class": "Z",
+      "cv": 1.2118908292,
+      "zero_day_share": 0.8494182067,
+      "segment": "AZ",
+      "recommended_approach": "High value, erratic -- highest risk; hold generous safety stock and review weekly"
+    },
+    {
+      "sku_id": "Phones | EMEA",
+      "abc_class": "A",
+      "revenue": 114520.61,
+      "xyz_class": "Z",
+      "cv": 1.2099238237,
+      "zero_day_share": 0.8350444901,
+      "segment": "AZ",
+      "recommended_approach": "High value, erratic -- highest risk; hold generous safety stock and review weekly"
+    },
+    {
+      "sku_id": "Appliances | US",
+      "abc_class": "B",
+      "revenue": 107532.14,
+      "xyz_class": "Y",
+      "cv": 0.9456598841,
+      "zero_day_share": 0.749486653,
+      "segment": "BY",
+      "recommended_approach": "Mid value, variable -- standard reorder policy"
+    },
+    {
+      "sku_id": "Furnishings | APAC",
+      "abc_class": "B",
+      "revenue": 101038.01,
+      "xyz_class": "Y",
+      "cv": 0.7961343638,
+      "zero_day_share": 0.6796714579,
+      "segment": "BY",
+      "recommended_approach": "Mid value, variable -- standard reorder policy"
+    },
+    {
+      "sku_id": "Binders | EU",
+      "abc_class": "B",
+      "revenue": 99762.69,
+      "xyz_class": "Y",
+      "cv": 0.72504329,
+      "zero_day_share": 0.5099247091,
+      "segment": "BY",
+      "recommended_approach": "Mid value, variable -- standard reorder policy"
+    },
+    {
+      "sku_id": "Storage | EMEA",
+      "abc_class": "B",
+      "revenue": 98184.64,
+      "xyz_class": "Y",
+      "cv": 0.9328181514,
+      "zero_day_share": 0.6940451745,
+      "segment": "BY",
+      "recommended_approach": "Mid value, variable -- standard reorder policy"
+    },
+    {
+      "sku_id": "Storage | Africa",
+      "abc_class": "B",
+      "revenue": 96674.14,
+      "xyz_class": "Y",
+      "cv": 0.9605361488,
+      "zero_day_share": 0.711156742,
+      "segment": "BY",
+      "recommended_approach": "Mid value, variable -- standard reorder policy"
+    },
+    {
+      "sku_id": "Copiers | Africa",
+      "abc_class": "B",
+      "revenue": 96257.68,
+      "xyz_class": "Z",
+      "cv": 1.43883807,
+      "zero_day_share": 0.8761122519,
+      "segment": "BZ",
+      "recommended_approach": "Mid value, erratic -- buffer with safety stock, avoid over-forecasting"
+    },
+    {
+      "sku_id": "Bookcases | EMEA",
+      "abc_class": "B",
+      "revenue": 91736.91,
+      "xyz_class": "Z",
+      "cv": 1.39471176,
+      "zero_day_share": 0.8733744011,
+      "segment": "BZ",
+      "recommended_approach": "Mid value, erratic -- buffer with safety stock, avoid over-forecasting"
+    },
+    {
+      "sku_id": "Furnishings | US",
+      "abc_class": "B",
+      "revenue": 91705.13,
+      "xyz_class": "Y",
+      "cv": 0.7256355658,
+      "zero_day_share": 0.5900068446,
+      "segment": "BY",
+      "recommended_approach": "Mid value, variable -- standard reorder policy"
+    },
+    {
+      "sku_id": "Furnishings | EU",
+      "abc_class": "B",
+      "revenue": 81214.98,
+      "xyz_class": "Z",
+      "cv": 1.0122547987,
+      "zero_day_share": 0.7563312799,
+      "segment": "BZ",
+      "recommended_approach": "Mid value, erratic -- buffer with safety stock, avoid over-forecasting"
+    },
+    {
+      "sku_id": "Paper | US",
+      "abc_class": "B",
+      "revenue": 78479.29,
+      "xyz_class": "Y",
+      "cv": 0.7571346136,
+      "zero_day_share": 0.5003422313,
+      "segment": "BY",
+      "recommended_approach": "Mid value, variable -- standard reorder policy"
+    },
+    {
+      "sku_id": "Supplies | APAC",
+      "abc_class": "B",
+      "revenue": 71654.99,
+      "xyz_class": "Y",
+      "cv": 0.7856645118,
+      "zero_day_share": 0.659137577,
+      "segment": "BY",
+      "recommended_approach": "Mid value, variable -- standard reorder policy"
+    },
+    {
+      "sku_id": "Chairs | EMEA",
+      "abc_class": "B",
+      "revenue": 69816.53,
+      "xyz_class": "Z",
+      "cv": 1.3047609199,
+      "zero_day_share": 0.848733744,
+      "segment": "BZ",
+      "recommended_approach": "Mid value, erratic -- buffer with safety stock, avoid over-forecasting"
+    },
+    {
+      "sku_id": "Binders | APAC",
+      "abc_class": "B",
+      "revenue": 63527.03,
+      "xyz_class": "Y",
+      "cv": 0.715946202,
+      "zero_day_share": 0.59137577,
+      "segment": "BY",
+      "recommended_approach": "Mid value, variable -- standard reorder policy"
+    },
+    {
+      "sku_id": "Art | APAC",
+      "abc_class": "B",
+      "revenue": 63008.2,
+      "xyz_class": "Y",
+      "cv": 0.7791128356,
+      "zero_day_share": 0.665982204,
+      "segment": "BY",
+      "recommended_approach": "Mid value, variable -- standard reorder policy"
+    },
+    {
+      "sku_id": "Furnishings | LATAM",
+      "abc_class": "B",
+      "revenue": 62455.95,
+      "xyz_class": "Y",
+      "cv": 0.9821934667,
+      "zero_day_share": 0.7084188912,
+      "segment": "BY",
+      "recommended_approach": "Mid value, variable -- standard reorder policy"
+    },
+    {
+      "sku_id": "Machines | EMEA",
+      "abc_class": "B",
+      "revenue": 62029.4,
+      "xyz_class": "Z",
+      "cv": 1.2979939908,
+      "zero_day_share": 0.8610540726,
+      "segment": "BZ",
+      "recommended_approach": "Mid value, erratic -- buffer with safety stock, avoid over-forecasting"
+    },
+    {
+      "sku_id": "Paper | APAC",
+      "abc_class": "B",
+      "revenue": 59900.61,
+      "xyz_class": "Y",
+      "cv": 0.7519226254,
+      "zero_day_share": 0.6570841889,
+      "segment": "BY",
+      "recommended_approach": "Mid value, variable -- standard reorder policy"
+    },
+    {
+      "sku_id": "Supplies | EU",
+      "abc_class": "B",
+      "revenue": 52782.76,
+      "xyz_class": "Y",
+      "cv": 0.9598346615,
+      "zero_day_share": 0.7624914442,
+      "segment": "BY",
+      "recommended_approach": "Mid value, variable -- standard reorder policy"
+    },
+    {
+      "sku_id": "Envelopes | APAC",
+      "abc_class": "B",
+      "revenue": 52112.23,
+      "xyz_class": "Y",
+      "cv": 0.8331640129,
+      "zero_day_share": 0.6830937714,
+      "segment": "BY",
+      "recommended_approach": "Mid value, variable -- standard reorder policy"
+    },
+    {
+      "sku_id": "Accessories | EMEA",
+      "abc_class": "B",
+      "revenue": 44164.15,
+      "xyz_class": "Z",
+      "cv": 1.3306296038,
+      "zero_day_share": 0.8596851472,
+      "segment": "BZ",
+      "recommended_approach": "Mid value, erratic -- buffer with safety stock, avoid over-forecasting"
+    },
+    {
+      "sku_id": "Supplies | LATAM",
+      "abc_class": "B",
+      "revenue": 43238.55,
+      "xyz_class": "Y",
+      "cv": 0.8632620879,
+      "zero_day_share": 0.7063655031,
+      "segment": "BY",
+      "recommended_approach": "Mid value, variable -- standard reorder policy"
+    },
+    {
+      "sku_id": "Binders | LATAM",
+      "abc_class": "B",
+      "revenue": 43139.54,
+      "xyz_class": "Y",
+      "cv": 0.8094274877,
+      "zero_day_share": 0.5947980835,
+      "segment": "BY",
+      "recommended_approach": "Mid value, variable -- standard reorder policy"
+    },
+    {
+      "sku_id": "Paper | EU",
+      "abc_class": "B",
+      "revenue": 42450.84,
+      "xyz_class": "Y",
+      "cv": 0.8624206507,
+      "zero_day_share": 0.7611225188,
+      "segment": "BY",
+      "recommended_approach": "Mid value, variable -- standard reorder policy"
+    },
+    {
+      "sku_id": "Accessories | Africa",
+      "abc_class": "B",
+      "revenue": 42172.08,
+      "xyz_class": "Z",
+      "cv": 1.3131362391,
+      "zero_day_share": 0.8685831622,
+      "segment": "BZ",
+      "recommended_approach": "Mid value, erratic -- buffer with safety stock, avoid over-forecasting"
+    },
+    {
+      "sku_id": "Envelopes | LATAM",
+      "abc_class": "C",
+      "revenue": 41356.84,
+      "xyz_class": "Y",
+      "cv": 0.8695358438,
+      "zero_day_share": 0.6783025325,
+      "segment": "CY",
+      "recommended_approach": "Low value, variable -- simple rule, accept occasional stockouts"
+    },
+    {
+      "sku_id": "Art | LATAM",
+      "abc_class": "C",
+      "revenue": 41184.64,
+      "xyz_class": "Y",
+      "cv": 0.876744432,
+      "zero_day_share": 0.7070499658,
+      "segment": "CY",
+      "recommended_approach": "Low value, variable -- simple rule, accept occasional stockouts"
+    },
+    {
+      "sku_id": "Envelopes | EU",
+      "abc_class": "C",
+      "revenue": 40124.08,
+      "xyz_class": "Y",
+      "cv": 0.9407415073,
+      "zero_day_share": 0.7638603696,
+      "segment": "CY",
+      "recommended_approach": "Low value, variable -- simple rule, accept occasional stockouts"
+    },
+    {
+      "sku_id": "Art | Africa",
+      "abc_class": "C",
+      "revenue": 38435.84,
+      "xyz_class": "Y",
+      "cv": 0.8375669968,
+      "zero_day_share": 0.7166324435,
+      "segment": "CY",
+      "recommended_approach": "Low value, variable -- simple rule, accept occasional stockouts"
+    },
+    {
+      "sku_id": "Paper | LATAM",
+      "abc_class": "C",
+      "revenue": 38190.33,
+      "xyz_class": "Y",
+      "cv": 0.8413631094,
+      "zero_day_share": 0.7063655031,
+      "segment": "CY",
+      "recommended_approach": "Low value, variable -- simple rule, accept occasional stockouts"
+    },
+    {
+      "sku_id": "Art | EMEA",
+      "abc_class": "C",
+      "revenue": 38137.05,
+      "xyz_class": "Y",
+      "cv": 0.8499745928,
+      "zero_day_share": 0.6824093087,
+      "segment": "CY",
+      "recommended_approach": "Low value, variable -- simple rule, accept occasional stockouts"
+    },
+    {
+      "sku_id": "Fasteners | APAC",
+      "abc_class": "C",
+      "revenue": 28097.13,
+      "xyz_class": "Y",
+      "cv": 0.809501838,
+      "zero_day_share": 0.6858316222,
+      "segment": "CY",
+      "recommended_approach": "Low value, variable -- simple rule, accept occasional stockouts"
+    },
+    {
+      "sku_id": "Furnishings | EMEA",
+      "abc_class": "C",
+      "revenue": 27733.38,
+      "xyz_class": "Z",
+      "cv": 1.2290658603,
+      "zero_day_share": 0.8459958932,
+      "segment": "CZ",
+      "recommended_approach": "Low value, erratic -- consider make-to-order or delisting"
+    },
+    {
+      "sku_id": "Art | US",
+      "abc_class": "C",
+      "revenue": 27118.78,
+      "xyz_class": "Y",
+      "cv": 0.7887763898,
+      "zero_day_share": 0.6372347707,
+      "segment": "CY",
+      "recommended_approach": "Low value, variable -- simple rule, accept occasional stockouts"
+    },
+    {
+      "sku_id": "Binders | EMEA",
+      "abc_class": "C",
+      "revenue": 26667.27,
+      "xyz_class": "Y",
+      "cv": 0.9746252218,
+      "zero_day_share": 0.6899383984,
+      "segment": "CY",
+      "recommended_approach": "Low value, variable -- simple rule, accept occasional stockouts"
+    },
+    {
+      "sku_id": "Labels | APAC",
+      "abc_class": "C",
+      "revenue": 22323.08,
+      "xyz_class": "Y",
+      "cv": 0.8034299658,
+      "zero_day_share": 0.6509240246,
+      "segment": "CY",
+      "recommended_approach": "Low value, variable -- simple rule, accept occasional stockouts"
+    },
+    {
+      "sku_id": "Binders | Africa",
+      "abc_class": "C",
+      "revenue": 22312.97,
+      "xyz_class": "Y",
+      "cv": 0.9423241041,
+      "zero_day_share": 0.7104722793,
+      "segment": "CY",
+      "recommended_approach": "Low value, variable -- simple rule, accept occasional stockouts"
+    },
+    {
+      "sku_id": "Furnishings | Africa",
+      "abc_class": "C",
+      "revenue": 20622.26,
+      "xyz_class": "Z",
+      "cv": 1.34412644,
+      "zero_day_share": 0.8767967146,
+      "segment": "CZ",
+      "recommended_approach": "Low value, erratic -- consider make-to-order or delisting"
+    },
+    {
+      "sku_id": "Fasteners | EU",
+      "abc_class": "C",
+      "revenue": 20330.36,
+      "xyz_class": "Y",
+      "cv": 0.8982840041,
+      "zero_day_share": 0.7624914442,
+      "segment": "CY",
+      "recommended_approach": "Low value, variable -- simple rule, accept occasional stockouts"
+    },
+    {
+      "sku_id": "Fasteners | LATAM",
+      "abc_class": "C",
+      "revenue": 19144.65,
+      "xyz_class": "Y",
+      "cv": 0.8935299856,
+      "zero_day_share": 0.7091033539,
+      "segment": "CY",
+      "recommended_approach": "Low value, variable -- simple rule, accept occasional stockouts"
+    },
+    {
+      "sku_id": "Envelopes | US",
+      "abc_class": "C",
+      "revenue": 16476.39,
+      "xyz_class": "Z",
+      "cv": 1.080837382,
+      "zero_day_share": 0.8507871321,
+      "segment": "CZ",
+      "recommended_approach": "Low value, erratic -- consider make-to-order or delisting"
+    },
+    {
+      "sku_id": "Labels | EU",
+      "abc_class": "C",
+      "revenue": 15644.65,
+      "xyz_class": "Y",
+      "cv": 0.9510981522,
+      "zero_day_share": 0.7542778919,
+      "segment": "CY",
+      "recommended_approach": "Low value, variable -- simple rule, accept occasional stockouts"
+    },
+    {
+      "sku_id": "Supplies | EMEA",
+      "abc_class": "C",
+      "revenue": 14151.24,
+      "xyz_class": "Z",
+      "cv": 1.2429466424,
+      "zero_day_share": 0.8672142368,
+      "segment": "CZ",
+      "recommended_approach": "Low value, erratic -- consider make-to-order or delisting"
+    },
+    {
+      "sku_id": "Labels | LATAM",
+      "abc_class": "C",
+      "revenue": 13554.73,
+      "xyz_class": "Y",
+      "cv": 0.9007229233,
+      "zero_day_share": 0.71321013,
+      "segment": "CY",
+      "recommended_approach": "Low value, variable -- simple rule, accept occasional stockouts"
+    },
+    {
+      "sku_id": "Supplies | Africa",
+      "abc_class": "C",
+      "revenue": 13263.43,
+      "xyz_class": "Z",
+      "cv": 1.2845345546,
+      "zero_day_share": 0.871321013,
+      "segment": "CZ",
+      "recommended_approach": "Low value, erratic -- consider make-to-order or delisting"
+    },
+    {
+      "sku_id": "Labels | US",
+      "abc_class": "C",
+      "revenue": 12486.3,
+      "xyz_class": "Y",
+      "cv": 0.9717201961,
+      "zero_day_share": 0.8015058179,
+      "segment": "CY",
+      "recommended_approach": "Low value, variable -- simple rule, accept occasional stockouts"
+    },
+    {
+      "sku_id": "Envelopes | EMEA",
+      "abc_class": "C",
+      "revenue": 10579.55,
+      "xyz_class": "Z",
+      "cv": 1.2828733476,
+      "zero_day_share": 0.8637919233,
+      "segment": "CZ",
+      "recommended_approach": "Low value, erratic -- consider make-to-order or delisting"
+    },
+    {
+      "sku_id": "Paper | EMEA",
+      "abc_class": "C",
+      "revenue": 10251.63,
+      "xyz_class": "Z",
+      "cv": 1.2892629562,
+      "zero_day_share": 0.8740588638,
+      "segment": "CZ",
+      "recommended_approach": "Low value, erratic -- consider make-to-order or delisting"
+    },
+    {
+      "sku_id": "Fasteners | EMEA",
+      "abc_class": "C",
+      "revenue": 6351.15,
+      "xyz_class": "Z",
+      "cv": 1.2556259053,
+      "zero_day_share": 0.864476386,
+      "segment": "CZ",
+      "recommended_approach": "Low value, erratic -- consider make-to-order or delisting"
+    },
+    {
+      "sku_id": "Fasteners | Africa",
+      "abc_class": "C",
+      "revenue": 5815.19,
+      "xyz_class": "Z",
+      "cv": 1.2836682628,
+      "zero_day_share": 0.8699520876,
+      "segment": "CZ",
+      "recommended_approach": "Low value, erratic -- consider make-to-order or delisting"
+    },
+    {
+      "sku_id": "Labels | Africa",
+      "abc_class": "C",
+      "revenue": 4880.18,
+      "xyz_class": "Z",
+      "cv": 1.3674792261,
+      "zero_day_share": 0.8672142368,
+      "segment": "CZ",
+      "recommended_approach": "Low value, erratic -- consider make-to-order or delisting"
+    },
+    {
+      "sku_id": "Labels | EMEA",
+      "abc_class": "C",
+      "revenue": 4093.4,
+      "xyz_class": "Z",
+      "cv": 1.3196471584,
+      "zero_day_share": 0.8767967146,
+      "segment": "CZ",
+      "recommended_approach": "Low value, erratic -- consider make-to-order or delisting"
+    },
+    {
+      "sku_id": "Fasteners | US",
+      "abc_class": "C",
+      "revenue": 3024.25,
+      "xyz_class": "Z",
+      "cv": 1.0992556161,
+      "zero_day_share": 0.8658453114,
+      "segment": "CZ",
+      "recommended_approach": "Low value, erratic -- consider make-to-order or delisting"
+    }
+  ],
+  "summary": [
+    {
+      "segment": "AY",
+      "n_skus": 26,
+      "revenue": 7661171.3,
+      "recommended_approach": "High value, moderately variable -- forecast closely, review monthly"
+    },
+    {
+      "segment": "BY",
+      "n_skus": 17,
+      "revenue": 1227646.74,
+      "recommended_approach": "Mid value, variable -- standard reorder policy"
+    },
+    {
+      "segment": "AZ",
+      "n_skus": 7,
+      "revenue": 1199020.13,
+      "recommended_approach": "High value, erratic -- highest risk; hold generous safety stock and review weekly"
+    },
+    {
+      "segment": "BZ",
+      "n_skus": 7,
+      "revenue": 487391.73,
+      "recommended_approach": "Mid value, erratic -- buffer with safety stock, avoid over-forecasting"
+    },
+    {
+      "segment": "CY",
+      "n_skus": 16,
+      "revenue": 445108.7,
+      "recommended_approach": "Low value, variable -- simple rule, accept occasional stockouts"
+    },
+    {
+      "segment": "CZ",
+      "n_skus": 12,
+      "revenue": 137242.05,
+      "recommended_approach": "Low value, erratic -- consider make-to-order or delisting"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+sku_id,category,market,abc_class,status,stock_on_hand,reorder_point,days_of_cover,units_below_reorder_point,suggested_order_qty,eoq,lead_time_days
+Chairs | US,Furniture,US,A,RED,0,47.3,0.0,47.3,50.0,50.0,14
+Phones | US,Technology,US,A,RED,0,47.2,0.0,47.2,58.0,58.0,10
+Bookcases | APAC,Furniture,APAC,A,RED,0,46.6,0.0,46.6,41.0,41.0,14
+Bookcases | LATAM,Furniture,LATAM,A,RED,4,46.6,2.5,42.6,52.0,52.0,14
+Furnishings | US,Furniture,US,B,RED,17,58.3,7.0,41.3,148.0,148.0,14
+Accessories | APAC,Technology,APAC,A,RED,0,39.2,0.0,39.2,60.0,60.0,10
+Phones | APAC,Technology,APAC,A,RED,0,39.0,0.0,39.0,39.0,39.0,10
+Storage | EU,Office Supplies,EU,A,RED,0,39.0,0.0,39.0,73.0,73.0,5
+Accessories | LATAM,Technology,LATAM,A,RED,0,38.7,0.0,38.7,69.0,69.0,10
+Phones | LATAM,Technology,LATAM,A,RED,0,36.3,0.0,36.3,44.0,44.0,10
+Chairs | LATAM,Furniture,LATAM,A,RED,31,66.3,12.9,35.3,79.0,79.0,14
+Copiers | LATAM,Technology,LATAM,A,RED,0,34.2,0.0,34.2,40.0,40.0,10
+Chairs | APAC,Furniture,APAC,A,RED,31,64.0,12.6,33.0,62.0,62.0,14
+Accessories | EU,Technology,EU,A,RED,0,28.9,0.0,28.9,46.0,46.0,10
+Copiers | EU,Technology,EU,A,RED,0,28.2,0.0,28.2,29.0,29.0,10
+Storage | APAC,Office Supplies,APAC,A,RED,0,27.7,0.0,27.7,58.0,58.0,5
+Copiers | APAC,Technology,APAC,A,RED,9,36.1,5.5,27.1,35.0,35.0,10
+Storage | LATAM,Office Supplies,LATAM,A,RED,0,26.8,0.0,26.8,70.0,70.0,5
+Machines | EU,Technology,EU,A,RED,0,25.9,0.0,25.9,32.0,32.0,10
+Phones | EU,Technology,EU,A,RED,8,33.7,5.4,25.7,36.0,36.0,10
+Accessories | US,Technology,US,A,RED,19,44.4,9.4,25.4,79.0,79.0,10
+Bookcases | EU,Furniture,EU,A,RED,13,36.7,10.7,23.7,37.0,37.0,14
+Chairs | EU,Furniture,EU,A,RED,16,38.2,12.9,22.2,46.0,46.0,14
+Furnishings | EU,Furniture,EU,B,RED,11,32.6,9.4,21.6,77.0,77.0,14
+Supplies | APAC,Office Supplies,APAC,B,RED,0,21.5,0.0,21.5,86.0,86.0,5
+Bookcases | US,Furniture,US,A,RED,0,21.4,0.0,21.4,30.0,30.0,14
+Binders | EU,Office Supplies,EU,B,RED,15,36.1,4.3,21.1,149.0,149.0,5
+Art | EU,Office Supplies,EU,A,RED,24,42.7,6.5,18.7,125.0,125.0,5
+Supplies | LATAM,Office Supplies,LATAM,B,RED,0,18.7,0.0,18.7,99.0,99.0,5
+Paper | APAC,Office Supplies,APAC,B,RED,2,20.5,1.1,18.5,93.0,93.0,5
+Envelopes | LATAM,Office Supplies,LATAM,C,RED,0,18.4,0.0,18.4,115.0,115.0,5
+Furnishings | APAC,Furniture,APAC,B,RED,25,43.3,14.9,18.3,98.0,98.0,14
+Fasteners | LATAM,Office Supplies,LATAM,C,RED,0,17.0,0.0,17.0,151.0,151.0,5
+Binders | LATAM,Office Supplies,LATAM,B,RED,12,28.6,4.7,16.6,159.0,159.0,5
+Furnishings | LATAM,Furniture,LATAM,B,RED,27,42.1,17.1,15.1,109.0,109.0,14
+Paper | EU,Office Supplies,EU,B,RED,0,14.8,0.0,14.8,75.0,75.0,5
+Appliances | APAC,Office Supplies,APAC,A,RED,0,14.4,0.0,14.4,21.0,21.0,5
+Phones | EMEA,Technology,EMEA,A,RED,0,14.0,0.0,14.0,20.0,20.0,10
+Envelopes | EU,Office Supplies,EU,C,RED,0,12.2,0.0,12.2,75.0,75.0,5
+Phones | Africa,Technology,Africa,A,RED,0,11.7,0.0,11.7,18.0,18.0,10
+Binders | Africa,Office Supplies,Africa,C,RED,0,11.3,0.0,11.3,85.0,85.0,5
+Bookcases | EMEA,Furniture,EMEA,B,RED,0,11.0,0.0,11.0,19.0,19.0,14
+Machines | APAC,Technology,APAC,A,RED,13,23.5,14.3,10.5,31.0,31.0,10
+Furnishings | EMEA,Furniture,EMEA,C,RED,1,11.2,2.6,10.2,42.0,42.0,14
+Labels | LATAM,Office Supplies,LATAM,C,RED,7,17.1,4.5,10.1,181.0,181.0,5
+Furnishings | Africa,Furniture,Africa,C,RED,0,9.8,0.0,9.8,42.0,42.0,14
+Storage | US,Office Supplies,US,A,RED,18,27.7,8.4,9.7,58.0,58.0,5
+Accessories | EMEA,Technology,EMEA,B,RED,0,9.6,0.0,9.6,25.0,25.0,10
+Machines | EMEA,Technology,EMEA,B,RED,0,9.5,0.0,9.5,21.0,21.0,10
+Accessories | Africa,Technology,Africa,B,RED,0,8.2,0.0,8.2,23.0,23.0,10
+Copiers | Africa,Technology,Africa,B,RED,0,7.9,0.0,7.9,14.0,14.0,10
+Art | Africa,Office Supplies,Africa,C,RED,4,11.8,4.0,7.8,67.0,67.0,5
+Envelopes | APAC,Office Supplies,APAC,B,RED,12,19.2,7.5,7.2,90.0,90.0,5
+Supplies | EU,Office Supplies,EU,B,RED,9,15.9,7.5,6.9,71.0,71.0,5
+Tables | US,Furniture,US,A,RED,22,28.4,26.5,6.4,32.0,32.0,14
+Paper | US,Office Supplies,US,B,RED,31,37.0,8.8,6.0,204.0,204.0,5
+Art | LATAM,Office Supplies,LATAM,C,RED,11,16.7,7.1,5.7,103.0,103.0,5
+Appliances | LATAM,Office Supplies,LATAM,A,RED,8,13.6,10.0,5.6,25.0,25.0,5
+Chairs | EMEA,Furniture,EMEA,B,RED,7,12.2,19.1,5.2,25.0,25.0,14
+Labels | Africa,Office Supplies,Africa,C,RED,0,5.1,0.0,5.1,70.0,70.0,5
+Supplies | EMEA,Office Supplies,EMEA,C,RED,0,5.0,0.0,5.0,38.0,38.0,5
+Fasteners | EMEA,Office Supplies,EMEA,C,RED,0,5.0,0.0,5.0,60.0,60.0,5
+Envelopes | EMEA,Office Supplies,EMEA,C,RED,0,4.5,0.0,4.5,40.0,40.0,5
+Fasteners | Africa,Office Supplies,Africa,C,RED,0,4.5,0.0,4.5,56.0,56.0,5
+Appliances | EU,Office Supplies,EU,A,RED,9,13.1,11.4,4.1,20.0,20.0,5
+Binders | APAC,Office Supplies,APAC,B,RED,23,26.4,9.5,3.4,128.0,128.0,5
+Paper | LATAM,Office Supplies,LATAM,C,RED,14,17.2,8.7,3.2,110.0,110.0,5
+Supplies | Africa,Office Supplies,Africa,C,RED,2,5.0,5.7,3.0,40.0,40.0,5
+Labels | EMEA,Office Supplies,EMEA,C,RED,2,4.7,6.3,2.7,67.0,67.0,5
+Storage | Africa,Office Supplies,Africa,B,RED,9,11.4,10.5,2.4,36.0,36.0,5
+Labels | US,Office Supplies,US,C,RED,9,11.4,9.5,2.4,139.0,139.0,5
+Paper | EMEA,Office Supplies,EMEA,C,RED,2,4.2,6.9,2.2,38.0,38.0,5
+Fasteners | US,Office Supplies,US,C,RED,6,8.0,10.0,2.0,163.0,163.0,5
+Fasteners | APAC,Office Supplies,APAC,C,RED,16,17.6,9.7,1.6,125.0,125.0,5
+Storage | EMEA,Office Supplies,EMEA,B,RED,12,12.7,12.4,0.7,39.0,39.0,5
+Labels | EU,Office Supplies,EU,C,RED,13,13.2,11.1,0.2,129.0,129.0,5
+Binders | US,Office Supplies,US,A,YELLOW,50,47.4,12.3,0.0,0.0,119.0,5
+Art | APAC,Office Supplies,APAC,B,YELLOW,20,19.4,12.3,0.0,0.0,84.0,5
+Binders | EMEA,Office Supplies,EMEA,C,YELLOW,15,11.9,14.2,0.0,0.0,84.0,5
+Art | US,Office Supplies,US,C,YELLOW,25,20.8,12.3,0.0,0.0,173.0,5
+Labels | APAC,Office Supplies,APAC,C,YELLOW,24,19.1,12.8,0.0,0.0,163.0,5
+Fasteners | EU,Office Supplies,EU,C,YELLOW,15,12.3,13.9,0.0,0.0,105.0,5
+Envelopes | US,Office Supplies,US,C,YELLOW,9,8.0,14.7,0.0,0.0,77.0,5
+Appliances | US,Office Supplies,US,B,GREEN,20,15.2,17.0,0.0,0.0,48.0,5
+Art | EMEA,Office Supplies,EMEA,C,GREEN,17,11.7,16.0,0.0,0.0,68.0,5
