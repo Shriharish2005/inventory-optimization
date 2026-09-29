@@ -350,3 +350,5 @@ actual sensitivity analyses that quantify what each assumption is worth.
   customer-lifetime effects of poor availability, which would push the optimal level higher.
 - The promotion-aware forecast (`--with-promo`) measures the value of *knowing* a discount
   schedule in advance; it does not mean the base pipeline currently has access to one.
+#   i n v e n t o r y - o p t i m i z a t i o n  
+ 
